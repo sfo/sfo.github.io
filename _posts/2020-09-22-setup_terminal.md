@@ -11,12 +11,13 @@ categories: linux, terminal, zsh, configuration
   - tmux
   - vim
   - git
+  - ctags
 
 ## Setup
 
 ### dotfiles
 
-- clone dotfiles repository: `git clone git@github.com:sfo/.dotfiles.git ~/.dotfiles`
+- clone dotfiles repository: `git clone https://github.com/sfo/.dotfiles.git`
 - link the files:
 ```
 ln -s ~/.dotfiles/.gitconfig ~/
@@ -31,10 +32,29 @@ ln -s ~/.dotfiles/.vimrc ~/
 ### oh-my-zsh
 
 - install the [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) stuff
-- clone [my repo](git@github.com:sfo/ohsfozsh.git) into oh my zsh's custom folder
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+- clone [my repo](https://github.com/sfo/ohsfozsh.git) into oh my zsh's custom folder
 ```
 rm -rf ~/.oh-my-zsh/custom
-git clone git@github.com:sfo/ohsfozsh.git ~/.oh-my-zsh/custom
+git clone https://github.com/sfo/ohsfozsh.git ~/.oh-my-zsh/custom
+```
+
+- configure zsh via `~/.zshrc`:
+```
+ZSH_THEME="pygmalion"
+
+plugins=(
+    git
+    tmux
+    vi-mode
+)
+
+ZSH_TMUX_AUTOSTART=true
+
+export EDITOR=vim
 ```
 
 ### dircolors
@@ -47,7 +67,7 @@ cd ~/.solarized
 ```
 - for XFCE4 Terminal, install [this](https://github.com/seebi/dircolors-solarized)
 ```
-git clone git@github.com:seebi/dircolors-solarized.git ~/.dircolors
+git clone https://github.com/seebi/dircolors-solarized.git ~/.dircolors
 echo 'eval `dircolors ~/.dircolors/dircolors.256dark`' >> ~/.zshrc
 ```
 
@@ -57,3 +77,12 @@ echo 'eval `dircolors ~/.dircolors/dircolors.256dark`' >> ~/.zshrc
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ``` 
+
+- open vim and install plugins:
+```
+:PluginInstall
+```
+
+### htop
+
+- in case you can't see numbers in htop anymore, change the theme to "Broken Gray"
