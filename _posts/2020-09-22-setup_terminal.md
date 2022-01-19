@@ -25,6 +25,18 @@ ln -s ~/.dotfiles/.tmux.conf ~/
 ln -s ~/.dotfiles/.vimrc ~/
 ```
 
+### vim
+
+- install vundle package manager:
+```
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+``` 
+
+- open vim and install plugins:
+```
+:PluginInstall
+```
+
 ### zsh
 
 - prefer version >=5.4
@@ -39,23 +51,15 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 - clone [my repo](https://github.com/sfo/ohsfozsh.git) into oh my zsh's custom folder
 ```
 rm -rf ~/.oh-my-zsh/custom
-git clone https://github.com/sfo/ohsfozsh.git ~/.oh-my-zsh/custom
+git clone --recurse-submodules https://github.com/sfo/ohsfozsh.git ~/.oh-my-zsh/custom
 ```
 
-- configure zsh via `~/.zshrc`:
+
+- replace `.zshrc` with link to dotfiles repository:
 ```
-ZSH_THEME="pygmalion"
-
-plugins=(
-    git
-    tmux
-    vi-mode
-)
-
-ZSH_TMUX_AUTOSTART=true
-
-export EDITOR=vim
+ln -sf ~/.dotfiles/.zshrc ~/
 ```
+
 
 ### dircolors
 
@@ -71,17 +75,7 @@ git clone https://github.com/seebi/dircolors-solarized.git ~/.dircolors
 echo 'eval `dircolors ~/.dircolors/dircolors.256dark`' >> ~/.zshrc
 ```
 
-### vim
 
-- install vundle package manager:
-```
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-``` 
-
-- open vim and install plugins:
-```
-:PluginInstall
-```
 
 ### htop
 
