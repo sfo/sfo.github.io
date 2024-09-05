@@ -19,26 +19,41 @@ description: >- # this means to ignore newlines until "baseurl:"
   Coding Adventures
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sfo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  sfo
 
-# Theme settings
-minima:
-  skin: solarized-dark
+author:
+  name: "Stanley"
+  email: "stanley.foerster@gmail.com"
 
-  #header_pages:
-  #- about.md
 
-show_excerpts: true
-
-github_username: sfo
-stackoverflow_username: "stanley-f"
 
 # Build settings
 markdown: kramdown
+
+
+# Theme settings
 theme: minima
+minima:
+  skin: solarized
+  social_links:
+    - platform: github
+      user_url: "https://github.com/sfo"
+    - platform: stackoverflow
+      user_url: "https://stackoverflow.com/users/579698/stanley-f"
+    - platform: google_scholar
+      user_url: "https://scholar.google.de/citations?user=CTYAlZgAAAAJ"
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/stanley-f/"
+show_excerpts: true
+
+header_pages:
+  - about.md
+  - cv.md
+  - research.md
+
+
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
