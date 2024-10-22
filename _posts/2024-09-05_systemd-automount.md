@@ -1,3 +1,9 @@
+---
+layout: post
+title: Setup automount using systemd
+categories: linux, systemd, mount, network, configuration
+---
+
 Install cifs, e.g. on Ubuntu:
 ```bash
 sudo apt install cifs-utils
