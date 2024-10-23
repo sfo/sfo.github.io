@@ -1,37 +1,23 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Sierra Foxtrot Oscar
-# email: stanley.foerster@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >-
   Coding Adventures
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sfo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
   name: "Stanley"
   email: "stanley.foerster@gmail.com"
 
-
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sfo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
 
-
 # Theme settings
-theme: minima
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
+# The remote_theme tag allows to use other (and more updated) themes hosted on GitHub.
+remote_theme: jekyll/minima
 minima:
   skin: solarized
   social_links:
@@ -50,19 +36,5 @@ header_pages:
   - cv.md
   - research.md
 
-
 plugins:
   - jekyll-feed
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
