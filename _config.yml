@@ -32,9 +32,12 @@ minima:
 show_excerpts: true
 
 header_pages:
-  - about.md
-  - cv.md
-  - research.md
+  - _pages/about.md
+  - _pages/cv.md
+  - _pages/research.md
 
 plugins:
   - jekyll-feed
+
+inlcude:
+  - _pages
