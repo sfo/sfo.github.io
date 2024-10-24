@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sfo.github.io/sitemap.xml
