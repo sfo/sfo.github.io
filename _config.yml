@@ -1,43 +1,160 @@
 title: Sierra Foxtrot Oscar
+
+first_name: Stanley
+last_name: Förster
+email: stanley.foerster@gmail.com
+
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >-
+description: >
   Coding Adventures
 
-author:
-  name: "Stanley"
-  email: "stanley.foerster@gmail.com"
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+keywords: blog
+
+lang: en
+icon: 🌎
+
 url: "https://sfo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+last_updated: true
+impressum_path: impressum.md
+back_to_top: true
 
-# Build settings
+
+# -------------
+# --- THEME ---
+# -------------
+
+repo_theme_light: default
+repo_theme_dark: dark
+repo_trophies:
+  enabled: true
+  theme_light: flat
+  theme_dark: gitdimmed
+
+
+# ----------------
+# --- RSS Feed ---
+# ----------------
+
+rss_icon: true
+
+
+# --------------
+# --- LAYOUT ---
+# --------------
+
+navbar_fixed: true
+footer_fixed: true
+search_enabled: true
+socials_in_search: true
+bib_search: true
+
+
+# ------------------
+# --- Open Graph ---
+# ------------------
+
+serve_og_meta: true
+serve_schema_org: true
+og_image:  # site-wide (= default) Open Graph preview image
+
+
+# --------------
+# --- SOCIAL ---
+# --------------
+
+github_username: sfo
+linkedin_username: stanley-f
+medium_username:
+orcid_id:
+research_gate_profile: Stanley_Foerster
+scholar_id: CTYAlZgAAAAJ
+stackoverflow_id: 579698
+wikipedia_id: Spielsocke
+work_url: https://tu-dresden.de/bu/verkehr/ila/ifl/die-professur/staff/Stanley_Foerster
+zotero_username: stanley-f
+
+
+# -------------------------
+# --- ANALYTICS AND SEO ---
+# -------------------------
+google_site_verification = "M7QpeBi6lChrDsJ7fAbY4nFeDr3FWLj_v-FlpUvymNk"
+
+
+# ------------
+# --- BLOG ---
+# ------------
+
+blog_name: Sierra Foxtrott Oscar
+blog_description: SFO's Blog
+permalink: /blog/:year/:month/:title/
+lsi: true  # index for related posts
+
+pagination:
+  enabled: true
+
+related_blog_posts:
+  enabled: true
+  max_related: 10
+
+
+# ------------------
+# --- NEWSLETTER ---
+# ------------------
+
+newsletter:
+  enabled: false
+  endpoint:
+
+# --------------
+# --- JEKYLL ---
+# --------------
+
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_ops:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+include: ["_pages"]
+keep_files:
+  - CNAME
+  - .nojekyll
+
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-jupyter-notebook
+  - jekyll-pagination-v2
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-tabs
+  - jekyll-toc
+  - jemoji
+
+# Sitemap
+defaults:
+  - scope:
+      path: assets
+    value:
+      sitemap: false
+
+sass:
+  style: compressed
+
 
 # Theme settings
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
 # The remote_theme tag allows to use other (and more updated) themes hosted on GitHub.
-remote_theme: jekyll/minima
-minima:
-  skin: solarized
-  social_links:
-    - platform: github
-      user_url: "https://github.com/sfo"
-    - platform: stackoverflow
-      user_url: "https://stackoverflow.com/users/579698/stanley-f"
-    - platform: google_scholar
-      user_url: "https://scholar.google.de/citations?user=CTYAlZgAAAAJ"
-    - platform: linkedin
-      user_url: "https://www.linkedin.com/in/stanley-f/"
-show_excerpts: true
-
-header_pages:
-  - _pages/about.md
-  - _pages/cv.md
-  - _pages/research.md
-
-plugins:
-  - jekyll-feed
-
-inlcude:
-  - _pages
+remote_theme: alshedivat/al-folio
