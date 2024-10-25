@@ -4,3 +4,4 @@ _site
 
 tags
 .env
+*.lock

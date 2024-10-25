@@ -1,10 +1,16 @@
 ---
-layout: post
-title: Customizing the Ubuntu Dock
-categories: linux, ubuntu, configuration
+title: "Customizing the Ubuntu Dock"
+categories:
+  - Blog
+tags:
+  - linux
+  - ubuntu
+  - configuration
 ---
 
 Just installed Ubuntu 18.04 LTS. Here I will collect the changes I made to customize it to fit my needs. This post will be updated on irregular base.
+
+<!--more-->
 
 ## Behavior for Click on Dock Icon
 

@@ -1,7 +1,12 @@
 ---
-layout: post
 title: Setting up my Terminal
-categories: linux, terminal, zsh, configuration
+categories:
+  - Blog
+tags:
+  - linux
+  - terminal
+  - zsh
+  - configuration
 ---
 
 ## Prerequisites
@@ -32,7 +37,7 @@ ln -s ~/.dotfiles/.condarc ~/
 - install vundle package manager:
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-``` 
+```
 
 - open vim and install plugins:
 ```
