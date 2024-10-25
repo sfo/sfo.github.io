@@ -1,7 +1,13 @@
 ---
-layout: post
 title: Setup automount using systemd
-categories: linux, systemd, mount, network, configuration
+categories:
+  - Blog
+tags:
+  - linux
+  - systemd
+  - mount
+  - network
+  - configuration
 ---
 
 Install cifs, e.g. on Ubuntu:

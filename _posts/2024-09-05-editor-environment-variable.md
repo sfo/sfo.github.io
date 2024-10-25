@@ -1,7 +1,11 @@
 ---
-layout: post
 title: Set default editor system-wide
-categories: linux, editor, configuration
+categories:
+  - Blog
+tags:
+  - linux
+  - editor
+  - configuration
 ---
 
 Set vim as default editor for everything and everyone (instead of setting EDITOR, SYSTEMD_EDITOR, etc. separately for users and make sure to preserve them when using sudo):

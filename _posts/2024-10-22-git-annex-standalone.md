@@ -1,7 +1,12 @@
 ---
-layout: post
 title: Install most recent git-annex on Ubuntu
-categories: linux, git, ubuntu, configuration
+categories:
+  - Blog
+tags:
+  - linux
+  - git
+  - ubuntu
+  - configuration
 ---
 
 # Problem Description
