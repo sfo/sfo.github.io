@@ -28,7 +28,7 @@ repository               : "sfo/sfo.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -122,19 +122,27 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sfo"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/579698/stanley-f"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/stanley-f"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.de/citations?hl=de&pli=1&user=CTYAlZgAAAAJ"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Stanley-Foerster"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-6357-0436"
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sfo"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/stanley-f"
+    - label: "Impressum"
+      url: "/impressum/"
 
 
 # Reading Files
