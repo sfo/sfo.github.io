@@ -314,3 +314,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # collection _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/

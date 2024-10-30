@@ -1,11 +1,36 @@
 main:
-  - title: "Archive"
-    url: /archive/
+  - title: "👩🏻‍💻 Projects"
+    url: /projects/
+  - title: "🎓 Research"
+    url: /research/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Research"
-    url: /research/
+  - title: "Archive"
+    url: /archive/
   - title: "About"
     url: /about/
+
+
+projects:
+  - title: Advent of Code
+    children:
+      - title: 2024
+        url: /projects/adventofcode2024/
+  - title: Over The Wire
+    children:
+      - title: Bandit
+        url: /projects/overthewire-bandit/
+      - title: Natas
+        url: /projects/overthewire-natas/
+      - title: Leviathan
+        url: /projects/overthewire-leviathan/
+      - title: Krypton
+        url: /projects/overthewire-krypton/
+      - title: Narnia
+        url: /projects/overthewire-narnia/
+      - title: Behemoth
+        url: /projects/overthewire-behemoth/
+      - title: Utumno
+        url: /projects/overthewire-utumno/
