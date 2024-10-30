@@ -4,4 +4,4 @@ sidebar:
   nav: "projects"
 ---
 
-30 Day Map Challenge 2024
+[30 Day Map Challenge 2024](https://30daymapchallenge.com)
