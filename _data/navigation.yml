@@ -19,9 +19,7 @@ projects:
       - title: 2024
         url: /projects/adventofcode2024/
   - title: 30 Day Map Challenge
-    children:
-      - title: 2024
-        url: /projects/30daymapchallenge2024/
+    url: /projects/30daymapchallenge/
   - title: 30 Day Chart Challenge
     children:
       - title: 2024
