@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.typeCheckingMode": "basic",
+		"python.analysis.diagnosticSeverityOverrides": {
+			"reportIncompatibleMethodOverride": "warning",
+			"reportMissingSuperCall": "error",
+			"reportReturnType": "error"
+		},
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.black-formatter",
+		},
+		"black-formatter.args": [
+		],
+		"flake8.args": [
+			"--max-line-length=88",  // comply with black's 10% rule
+			"--select=C,E,F,W,B,B950",
+			"--extend-ignore=E203,W503"
+		],
+		"isort.check": true,
+		"isort.args": [
+			"--profile=black"
+		],
+	},
+}
