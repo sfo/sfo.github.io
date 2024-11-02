@@ -4,6 +4,8 @@ sidebar:
   nav: "projects"
 entries_layout: grid
 classes: wide
+header:
+  teaser: /assets/images/30daymapchallenge.png
 ---
 
 ## Background
