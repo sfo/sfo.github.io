@@ -1,9 +1,11 @@
 ---
 title: 30 Day Map Challenge
-sidebar:
-  nav: "projects"
+layout: collection
+collection: 30daymapchallenge
 entries_layout: grid
 classes: wide
+sidebar:
+  nav: "projects"
 header:
   teaser: /assets/images/30daymapchallenge.png
 ---
