@@ -1,5 +1,6 @@
 ---
 title: 30 Day Chart Challenge 2024
+classes: wide
 sidebar:
   nav: "projects"
 header:

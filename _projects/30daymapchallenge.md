@@ -1,8 +1,5 @@
 ---
 title: 30 Day Map Challenge
-layout: collection
-collection: 30daymapchallenge
-entries_layout: grid
 classes: wide
 sidebar:
   nav: "projects"

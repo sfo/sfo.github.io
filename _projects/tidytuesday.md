@@ -1,5 +1,6 @@
 ---
 title: Tidy Tuesday
+classes: wide
 sidebar:
   nav: "projects"
 ---

@@ -1,5 +1,6 @@
 ---
 title: Advent of Code 2024
+classes: wide
 sidebar:
   nav: "projects"
 header:
