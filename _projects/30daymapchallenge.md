@@ -1,6 +1,7 @@
 ---
 title: 30 Day Map Challenge
 classes: wide
+entries_layout: grid
 sidebar:
   nav: "projects"
 header:
@@ -12,10 +13,16 @@ The core idea is to create a map at every day of November, each targeting a spec
 Maps may be created using any tool or technique one is comfortable with.
 Or you take that chance to learn something new and employ some technology you never used before.
 
-## Maps 2024
 
-{% for post in site.posts %}
-    {% if post.tags contains page.slug %}
-  - <a href="{{post.url}}">{{post.title}}</a>
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+## Maps 2024
+<div class="entries-{{ entries_layout }}">
+  {% assign posts = site.posts | reverse %}
+  {% for post in posts %}
+    {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% if year == "2024" and post.tags contains page.slug %}
+      {% include archive-single.html type=entries_layout %}
     {% endif %}
-{% endfor %}
+  {% endfor %}
+</div>
