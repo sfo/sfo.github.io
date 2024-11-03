@@ -12,7 +12,7 @@ header:
 ---
 
 The theme of the third day is _Polygons_:
-> A map with polygons. Regions, countries, lakes—this day is for defined shapes that fill space. 
+> A map with polygons. Regions, countries, lakes—this day is for defined shapes that fill space.
 
 ### Data
 
@@ -205,109 +205,109 @@ map
 
         function geo_json_5ae781ee2404d0a9716184d147ce2bd8_styler(feature) {
             switch(feature.id) {
-                case &quot;44&quot;: case &quot;34&quot;: case &quot;33&quot;: 
+                case &quot;44&quot;: case &quot;34&quot;: case &quot;33&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffffffff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;42&quot;: case &quot;55&quot;: 
+                case &quot;42&quot;: case &quot;55&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff7a00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;13&quot;: 
+                case &quot;13&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffb01eff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;15&quot;: 
+                case &quot;15&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffcf77ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;24&quot;: 
+                case &quot;24&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff9500ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;32&quot;: case &quot;2&quot;: case &quot;96&quot;: 
+                case &quot;32&quot;: case &quot;2&quot;: case &quot;96&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffbf4aff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;90&quot;: 
+                case &quot;90&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffb122ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;5&quot;: 
+                case &quot;5&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff7700ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;62&quot;: 
+                case &quot;62&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff6d00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;72&quot;: 
+                case &quot;72&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffa200ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;82&quot;: 
+                case &quot;82&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffa603ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;43&quot;: case &quot;47&quot;: 
+                case &quot;43&quot;: case &quot;47&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffdea1ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;71&quot;: case &quot;64&quot;: 
+                case &quot;71&quot;: case &quot;64&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffc14eff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;61&quot;: case &quot;7&quot;: 
+                case &quot;61&quot;: case &quot;7&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff6500ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;14&quot;: 
+                case &quot;14&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff5200ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;11&quot;: 
+                case &quot;11&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff0000ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;1&quot;: 
+                case &quot;1&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffe4b3ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;12&quot;: 
+                case &quot;12&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffa500ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;23&quot;: 
+                case &quot;23&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffc861ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;41&quot;: 
+                case &quot;41&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffc65cff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;56&quot;: case &quot;54&quot;: case &quot;6&quot;: 
+                case &quot;56&quot;: case &quot;54&quot;: case &quot;6&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff5800ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;91&quot;: case &quot;76&quot;: 
+                case &quot;91&quot;: case &quot;76&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff7900ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;74&quot;: 
+                case &quot;74&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffb62fff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;86&quot;: 
+                case &quot;86&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff7800ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;53&quot;: 
+                case &quot;53&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff6700ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;97&quot;: 
+                case &quot;97&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffbc42ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;22&quot;: 
+                case &quot;22&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff4b00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;95&quot;: 
+                case &quot;95&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffa706ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;3&quot;: 
+                case &quot;3&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffa90bff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;21&quot;: 
+                case &quot;21&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff6c00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;93&quot;: 
+                case &quot;93&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff7200ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;51&quot;: 
+                case &quot;51&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff9100ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;83&quot;: 
+                case &quot;83&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff9c00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;46&quot;: 
+                case &quot;46&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffd78eff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;35&quot;: 
+                case &quot;35&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffc456ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;75&quot;: 
+                case &quot;75&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff4a00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;85&quot;: 
+                case &quot;85&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffc863ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;45&quot;: 
+                case &quot;45&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffc862ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;84&quot;: 
+                case &quot;84&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffb52dff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;57&quot;: 
+                case &quot;57&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff5f00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;25&quot;: 
+                case &quot;25&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff6300ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;4&quot;: 
+                case &quot;4&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff8900ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;94&quot;: 
+                case &quot;94&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff9a00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;63&quot;: 
+                case &quot;63&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffac14ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;77&quot;: 
+                case &quot;77&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffc75eff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;31&quot;: 
+                case &quot;31&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff3600ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;81&quot;: 
+                case &quot;81&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff4200ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;98&quot;: 
+                case &quot;98&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff7d00ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;36&quot;: 
+                case &quot;36&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffd484ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;92&quot;: 
+                case &quot;92&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff9600ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;73&quot;: 
+                case &quot;73&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffc354ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
-                case &quot;52&quot;: 
+                case &quot;52&quot;:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ff3200ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
                 default:
                     return {&quot;color&quot;: &quot;black&quot;, &quot;fillColor&quot;: &quot;#ffd485ff&quot;, &quot;fillOpacity&quot;: 0.9, &quot;weight&quot;: 1};
@@ -390,10 +390,3 @@ map
 
 &lt;/script&gt;
 &lt;/html&gt;" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe></div></div>
-
-
-
-
-```python
-
-```
