@@ -90,3 +90,33 @@ This sounds very promising.
 So let's be a bad crawler and check this path, nevertheless.
 
 Here, we find a file called `users.txt` again, which holds the password for level 4.
+
+
+## Level 5
+
+This time, we get exokicit information about the condition for entering the website:
+> Access disallowed. You are visiting from "" while authorized users should come only from "http://natas5.natas.labs.overthewire.org/"
+
+Since we do not yet have access to Level 5, from which we then could navigate to the page of level 4 (if there's a link at all), we somehow have to get the HTTP referrer correct.
+For some browsers, there might exist referrer spoofing extensions.
+However, I'll just do it in the terminal this time:
+```shell
+wget http://natas4.natas.labs.overthewire.org/ --user natas4 --password <LEVEL4_PASSWORD> --referer "http://natas5.natas.labs.overthewire.org/" -O -
+```
+
+This command sets the headers just right to receive a proper answer from the server, which is printed to stdout:
+```html
+<div id="content">
+
+Access granted. The password for natas5 is [...]
+<br/>
+<div id="viewsource"><a href="index.php">Refresh page</a></div>
+</div>
+```
+
+
+## Level 6
+
+After entering the correct credentials, the page for level 5 loads properly but the message on the page claims that we are not logged in:
+> Access disallowed. You are not logged in
+
