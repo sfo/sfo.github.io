@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/30daymapchallenge2024-day5.png
 ---
 
-On day four, the theme is _A journey_:
+On day five, the theme is _A journey_:
 > Map any journey. Personal or not. Trace a journey - this could be a daily commute, a long-distance trip, or something from history. The key is to map movement from one place to another.
 
 ### Data
