@@ -12,7 +12,6 @@ header:
 ---
 
 On day four, the theme is _Hexagons_:
-
 > Maps using hexagonal grids. Step away from square grids and try mapping with hexagons. A fun way to show density or spatial patterns.
 
 ### Data
@@ -22,12 +21,12 @@ This does not include natural structures, like forests and parks.
 Therefore, the map shows hardly any tree on the area of _Dresden Heath_, which is one of the largest municipal forests in Germany.
 
 The OpenDataPortal gives the following explanation of the [data set](https://opendata.dresden.de/informationsportal/?open=1&result=8B5B50B7A6E746EB9DEB634A041F596E#app/mainpage) (translation by me):
-> Dresden is a city rich in trees with a great diversity of species. 
+> Dresden is a city rich in trees with a great diversity of species.
 > Avenues and valuable trees in the parks, green spaces and gardens characterise the cityscape.
 > Trees make a significant contribution to the quality of life as they have a positive influence on the urban climate.
 > There are currently around 98,700 registered trees in urban areas.
 > These include street trees, trees in parks and green spaces, on playgrounds, on open spaces of educational institutions, along waterways of the 2nd order and on other municipal areas.
-> 
+>
 > In addition to the widely represented typical tree species such as lime, maple and chestnut, over 139 species and varieties of ginkgo, magnolia, leather tree and other rarer tree species grow in the urban area.
 
 <!-- For this, I will learn how to load GeoJson data from Dresden's OpenDataPortal.
@@ -98,7 +97,7 @@ plt.show()
 ```
 
 
-    
+
 ![png](/assets/2024-11-04-30daymapchallenge-day04-heyagons_files/2024-11-04-30daymapchallenge-day04-heyagons_9_0.png)
-    
+
 
