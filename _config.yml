@@ -21,7 +21,7 @@ title                    : "Sierra Foxtrot Oscar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Stanley Förster"
-description              : "An amazing website."
+description              : "sportsman (cycling and running), data scientist, software developer, hobby baker, lego enthusiast"
 url                      : "https://sfo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sfo/sfo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

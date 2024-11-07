@@ -9,7 +9,6 @@ tags:
 classes: wide
 header:
   teaser: /assets/images/30daymapchallenge2024-day5.png
-  og_image: /assets/images/30daymapchallenge2024-day5.png
 ---
 
 On day five, the theme is _A journey_:
