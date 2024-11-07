@@ -21,7 +21,7 @@ title                    : "Sierra Foxtrot Oscar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Stanley Förster"
-description              : "sportsman (cycling and running), data scientist, software developer, hobby baker, lego enthusiast"
+description              : "A personal blog for documenting my ideas, projects, and configuration stuff"
 url                      : "https://sfo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sfo/sfo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Stanley Förster"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "sportsman (cycling and running), data scientist, software developer, hobby baker, lego enthusiast"
   location         : "Germany"
   email            : stanley.foerster@gmail.com
   links:
