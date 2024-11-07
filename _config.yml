@@ -311,6 +311,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_dates: true
   # _pages
   - scope:
       path: "_pages"
