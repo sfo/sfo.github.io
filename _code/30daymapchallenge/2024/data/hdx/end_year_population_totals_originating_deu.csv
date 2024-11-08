@@ -1,0 +1,213 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Refugees,Asylum seekers,Other people in need of international protection,Internally displaced persons,Stateless Persons,Others of concern to UNHCR,Host community
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#affected+refugees,#affected+asylum_seekers,#affected+oip,#affected+idps,#affected+stateless,#affected+others,#affected+hst
+1991,DEU,SWE,Germany,Sweden,5,0,0,0,0,0,0
+1992,DEU,SWE,Germany,Sweden,5,0,0,0,0,0,0
+1993,DEU,SWE,Germany,Sweden,8,0,0,0,0,0,0
+1994,DEU,CAN,Germany,Canada,441,0,0,0,0,0,0
+1994,DEU,SWE,Germany,Sweden,8,0,0,0,0,0,0
+1995,DEU,CAN,Germany,Canada,376,0,0,0,0,0,0
+1995,DEU,SWE,Germany,Sweden,8,0,0,0,0,0,0
+1996,DEU,AUS,Germany,Australia,18,0,0,0,0,0,0
+1996,DEU,CAN,Germany,Canada,390,0,0,0,0,0,0
+1996,DEU,SWE,Germany,Sweden,8,0,0,0,0,0,0
+1996,DEU,USA,Germany,United States of America,5,0,0,0,0,0,0
+1997,DEU,AUS,Germany,Australia,27,0,0,0,0,0,0
+1997,DEU,CAN,Germany,Canada,401,0,0,0,0,0,0
+1997,DEU,SWE,Germany,Sweden,8,0,0,0,0,0,0
+1997,DEU,USA,Germany,United States of America,7,0,0,0,0,0,0
+1998,DEU,AUS,Germany,Australia,31,0,0,0,0,0,0
+1998,DEU,CAN,Germany,Canada,614,0,0,0,0,0,0
+1998,DEU,FRA,Germany,France,18,0,0,0,0,0,0
+1998,DEU,SWE,Germany,Sweden,8,0,0,0,0,0,0
+1998,DEU,CHE,Germany,Switzerland,5,0,0,0,0,0,0
+1998,DEU,USA,Germany,United States of America,13,0,0,0,0,0,0
+1999,DEU,AUS,Germany,Australia,32,0,0,0,0,0,0
+1999,DEU,CAN,Germany,Canada,1240,0,0,0,0,0,0
+1999,DEU,SWE,Germany,Sweden,8,0,0,0,0,0,0
+1999,DEU,USA,Germany,United States of America,17,0,0,0,0,0,0
+2000,DEU,AUS,Germany,Australia,25,0,0,0,0,0,0
+2000,DEU,CAN,Germany,Canada,1125,13,0,0,0,0,0
+2000,DEU,NLD,Germany,Netherlands (Kingdom of the),0,10,0,0,0,0,0
+2000,DEU,SWE,Germany,Sweden,9,0,0,0,0,0,0
+2000,DEU,USA,Germany,United States of America,23,34,0,0,0,0,0
+2001,DEU,AUS,Germany,Australia,28,5,0,0,0,0,0
+2001,DEU,BEL,Germany,Belgium,7,0,0,0,0,0,0
+2001,DEU,CAN,Germany,Canada,988,11,0,0,0,0,0
+2001,DEU,SWE,Germany,Sweden,5,0,0,0,0,0,0
+2001,DEU,USA,Germany,United States of America,0,36,0,0,0,0,0
+2002,DEU,AUS,Germany,Australia,17,0,0,0,0,0,0
+2002,DEU,BEL,Germany,Belgium,7,0,0,0,0,0,0
+2002,DEU,CAN,Germany,Canada,895,31,0,0,0,0,0
+2002,DEU,SWE,Germany,Sweden,5,0,0,0,0,0,0
+2002,DEU,USA,Germany,United States of America,0,42,0,0,0,0,0
+2003,DEU,AUS,Germany,Australia,12,0,0,0,0,0,0
+2003,DEU,BEL,Germany,Belgium,6,0,0,0,0,0,0
+2003,DEU,CAN,Germany,Canada,663,24,0,0,0,0,0
+2003,DEU,FRA,Germany,France,10,0,0,0,0,0,0
+2003,DEU,USA,Germany,United States of America,28,37,0,0,0,0,0
+2004,DEU,AUS,Germany,Australia,11,0,0,0,0,0,0
+2004,DEU,BEL,Germany,Belgium,6,0,0,0,0,0,0
+2004,DEU,CAN,Germany,Canada,17,23,0,0,0,0,0
+2004,DEU,FRA,Germany,France,10,0,0,0,0,0,0
+2004,DEU,USA,Germany,United States of America,30,38,0,0,0,0,0
+2005,DEU,AUS,Germany,Australia,9,5,0,0,0,0,0
+2005,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2005,DEU,CAN,Germany,Canada,18,32,0,0,0,0,0
+2005,DEU,FRA,Germany,France,9,0,0,0,0,0,0
+2005,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2005,DEU,USA,Germany,United States of America,29,28,0,0,0,0,0
+2006,DEU,AUS,Germany,Australia,5,0,0,0,0,0,0
+2006,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2006,DEU,CAN,Germany,Canada,28,38,0,0,0,0,0
+2006,DEU,FRA,Germany,France,10,0,0,0,0,0,0
+2006,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2006,DEU,USA,Germany,United States of America,61,42,0,0,0,0,0
+2007,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2007,DEU,CAN,Germany,Canada,41,57,0,0,0,0,0
+2007,DEU,FRA,Germany,France,11,0,0,0,0,0,0
+2007,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2007,DEU,USA,Germany,United States of America,64,10,0,0,0,0,0
+2008,DEU,AUS,Germany,Australia,0,7,0,0,0,0,0
+2008,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2008,DEU,CAN,Germany,Canada,73,81,0,0,0,0,0
+2008,DEU,FRA,Germany,France,11,0,0,0,0,0,0
+2008,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2008,DEU,SWE,Germany,Sweden,6,0,0,0,0,0,0
+2008,DEU,USA,Germany,United States of America,62,12,0,0,0,0,0
+2009,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2009,DEU,CAN,Germany,Canada,81,69,0,0,0,0,0
+2009,DEU,FRA,Germany,France,10,0,0,0,0,0,0
+2009,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2009,DEU,NOR,Germany,Norway,0,5,0,0,0,0,0
+2009,DEU,SWE,Germany,Sweden,6,0,0,0,0,0,0
+2009,DEU,USA,Germany,United States of America,60,7,0,0,0,0,0
+2010,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2010,DEU,CAN,Germany,Canada,80,25,0,0,0,0,0
+2010,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2010,DEU,NZL,Germany,New Zealand,0,5,0,0,0,0,0
+2010,DEU,SWE,Germany,Sweden,5,0,0,0,0,0,0
+2010,DEU,USA,Germany,United States of America,64,0,0,0,0,0,0
+2011,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2011,DEU,CAN,Germany,Canada,84,17,0,0,0,0,0
+2011,DEU,FRA,Germany,France,10,0,0,0,0,0,0
+2011,DEU,JOR,Germany,Jordan,0,6,0,0,0,0,0
+2011,DEU,NZL,Germany,New Zealand,0,6,0,0,0,0,0
+2011,DEU,SWE,Germany,Sweden,6,0,0,0,0,0,0
+2011,DEU,USA,Germany,United States of America,64,0,0,0,0,0,0
+2012,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2012,DEU,CAN,Germany,Canada,89,15,0,0,0,0,0
+2012,DEU,FRA,Germany,France,10,0,0,0,0,0,0
+2012,DEU,SWE,Germany,Sweden,6,0,0,0,0,0,0
+2012,DEU,USA,Germany,United States of America,64,6,0,0,0,0,0
+2013,DEU,ARG,Germany,Argentina,0,5,0,0,0,0,0
+2013,DEU,AUS,Germany,Australia,0,5,0,0,0,0,0
+2013,DEU,CAN,Germany,Canada,90,10,0,0,0,0,0
+2013,DEU,FRA,Germany,France,9,0,0,0,0,0,0
+2013,DEU,SWE,Germany,Sweden,6,0,0,0,0,0,0
+2013,DEU,USA,Germany,United States of America,59,53,0,0,0,0,0
+2014,DEU,AUS,Germany,Australia,5,0,0,0,0,0,0
+2014,DEU,BEL,Germany,Belgium,5,0,0,0,0,0,0
+2014,DEU,CAN,Germany,Canada,87,0,0,0,0,0,0
+2014,DEU,FRA,Germany,France,8,0,0,0,0,0,0
+2014,DEU,SWE,Germany,Sweden,6,0,0,0,0,0,0
+2014,DEU,USA,Germany,United States of America,59,77,0,0,0,0,0
+2015,DEU,AUS,Germany,Australia,5,5,0,0,0,0,0
+2015,DEU,CAN,Germany,Canada,81,0,0,0,0,0,0
+2015,DEU,FRA,Germany,France,7,5,0,0,0,0,0
+2015,DEU,SWE,Germany,Sweden,6,0,0,0,0,0,0
+2015,DEU,USA,Germany,United States of America,54,76,0,0,0,0,0
+2016,DEU,ARG,Germany,Argentina,0,5,0,0,0,0,0
+2016,DEU,AUS,Germany,Australia,5,5,0,0,0,0,0
+2016,DEU,BRA,Germany,Brazil,0,5,0,0,0,0,0
+2016,DEU,CAN,Germany,Canada,9,9,0,0,0,0,0
+2016,DEU,FRA,Germany,France,7,0,0,0,0,0,0
+2016,DEU,SWE,Germany,Sweden,5,0,0,0,0,0,0
+2016,DEU,USA,Germany,United States of America,41,104,0,0,0,0,0
+2017,DEU,ARG,Germany,Argentina,0,5,0,0,0,0,0
+2017,DEU,AUS,Germany,Australia,5,10,0,0,0,0,0
+2017,DEU,BRA,Germany,Brazil,0,8,0,0,0,0,0
+2017,DEU,CAN,Germany,Canada,0,16,0,0,0,0,0
+2017,DEU,CRI,Germany,Costa Rica,0,5,0,0,0,0,0
+2017,DEU,FRA,Germany,France,6,0,0,0,0,0,0
+2017,DEU,HUN,Germany,Hungary,0,5,0,0,0,0,0
+2017,DEU,RUS,Germany,Russian Federation,10,5,0,0,0,0,0
+2017,DEU,SWE,Germany,Sweden,5,0,0,0,0,0,0
+2017,DEU,USA,Germany,United States of America,40,125,0,0,0,0,0
+2018,DEU,AUS,Germany,Australia,5,9,0,0,0,0,0
+2018,DEU,BRA,Germany,Brazil,0,7,0,0,0,0,0
+2018,DEU,CAN,Germany,Canada,0,25,0,0,0,0,0
+2018,DEU,CRI,Germany,Costa Rica,0,5,0,0,0,0,0
+2018,DEU,FRA,Germany,France,5,0,0,0,0,0,0
+2018,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,0,5,0,0,0,0,0
+2018,DEU,RUS,Germany,Russian Federation,9,0,0,0,0,0,0
+2018,DEU,USA,Germany,United States of America,42,125,0,0,0,0,0
+2019,DEU,AUS,Germany,Australia,5,9,0,0,0,0,0
+2019,DEU,BRA,Germany,Brazil,0,10,0,0,0,0,0
+2019,DEU,CAN,Germany,Canada,0,26,0,0,0,0,0
+2019,DEU,CRI,Germany,Costa Rica,0,5,0,0,0,0,0
+2019,DEU,FRA,Germany,France,5,0,0,0,0,0,0
+2019,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,0,5,0,0,0,0,0
+2019,DEU,ITA,Germany,Italy,0,11,0,0,0,0,0
+2019,DEU,RUS,Germany,Russian Federation,11,5,0,0,0,0,0
+2019,DEU,ESP,Germany,Spain,0,5,0,0,0,0,0
+2019,DEU,CHE,Germany,Switzerland,5,0,0,0,0,0,0
+2019,DEU,USA,Germany,United States of America,43,125,0,0,0,0,0
+2020,DEU,AUS,Germany,Australia,10,5,0,0,0,0,0
+2020,DEU,BEL,Germany,Belgium,0,5,0,0,0,0,0
+2020,DEU,BRA,Germany,Brazil,0,8,0,0,0,0,0
+2020,DEU,CRI,Germany,Costa Rica,0,5,0,0,0,0,0
+2020,DEU,FRA,Germany,France,5,0,0,0,0,0,0
+2020,DEU,ITA,Germany,Italy,0,6,0,0,0,0,0
+2020,DEU,PER,Germany,Peru,0,5,0,0,0,0,0
+2020,DEU,RUS,Germany,Russian Federation,15,0,0,0,0,0,0
+2020,DEU,CHE,Germany,Switzerland,5,0,0,0,0,0,0
+2020,DEU,USA,Germany,United States of America,36,132,0,0,0,0,0
+2021,DEU,AUS,Germany,Australia,10,5,0,0,0,0,0
+2021,DEU,AUT,Germany,Austria,0,5,0,0,0,0,0
+2021,DEU,BRA,Germany,Brazil,0,9,0,0,0,0,0
+2021,DEU,CAN,Germany,Canada,0,19,0,0,0,0,0
+2021,DEU,CRI,Germany,Costa Rica,0,19,0,0,0,0,0
+2021,DEU,MEX,Germany,Mexico,0,10,0,0,0,0,0
+2021,DEU,PER,Germany,Peru,0,5,0,0,0,0,0
+2021,DEU,RUS,Germany,Russian Federation,15,0,0,0,0,0,0
+2021,DEU,CHE,Germany,Switzerland,5,0,0,0,0,0,0
+2021,DEU,USA,Germany,United States of America,29,176,0,0,0,0,0
+2022,DEU,AUS,Germany,Australia,8,7,0,0,0,0,0
+2022,DEU,BRA,Germany,Brazil,5,28,0,0,0,0,0
+2022,DEU,CAN,Germany,Canada,5,42,0,0,0,0,0
+2022,DEU,CRI,Germany,Costa Rica,0,14,0,0,0,0,0
+2022,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,0,5,0,0,0,0,0
+2022,DEU,MDA,Germany,Republic of Moldova,50,0,0,0,0,0,0
+2022,DEU,MEX,Germany,Mexico,0,14,0,0,0,0,0
+2022,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2022,DEU,PER,Germany,Peru,0,5,0,0,0,0,0
+2022,DEU,POL,Germany,Poland,0,11,0,0,0,0,0
+2022,DEU,RUS,Germany,Russian Federation,42,12,0,0,0,0,0
+2022,DEU,CHE,Germany,Switzerland,6,0,0,0,0,0,0
+2022,DEU,USA,Germany,United States of America,41,401,0,0,0,0,0
+2023,DEU,AUS,Germany,Australia,0,19,0,0,0,0,0
+2023,DEU,BRA,Germany,Brazil,5,59,0,0,0,0,0
+2023,DEU,CAN,Germany,Canada,5,40,0,0,0,0,0
+2023,DEU,CRI,Germany,Costa Rica,0,8,0,0,0,0,0
+2023,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,0,5,0,0,0,0,0
+2023,DEU,MEX,Germany,Mexico,0,6,0,0,0,0,0
+2023,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2023,DEU,PER,Germany,Peru,0,20,0,0,0,0,0
+2023,DEU,POL,Germany,Poland,0,5,0,0,0,0,0
+2023,DEU,RUS,Germany,Russian Federation,149,13,0,0,0,0,0
+2023,DEU,CHE,Germany,Switzerland,5,0,0,0,0,0,0
+2023,DEU,USA,Germany,United States of America,40,587,0,0,0,0,0
+2024,DEU,ARM,Germany,Armenia,0,5,0,0,0,0,0
+2024,DEU,AUS,Germany,Australia,0,24,0,0,0,0,0
+2024,DEU,BLR,Germany,Belarus,0,5,0,0,0,0,0
+2024,DEU,BRA,Germany,Brazil,5,65,0,0,0,0,0
+2024,DEU,CAN,Germany,Canada,12,35,0,0,0,0,0
+2024,DEU,CRI,Germany,Costa Rica,0,5,0,0,0,0,0
+2024,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,0,5,0,0,0,0,0
+2024,DEU,MEX,Germany,Mexico,0,7,0,0,0,0,0
+2024,DEU,NLD,Germany,Netherlands (Kingdom of the),5,0,0,0,0,0,0
+2024,DEU,PER,Germany,Peru,0,20,0,0,0,0,0
+2024,DEU,RUS,Germany,Russian Federation,186,8,0,0,0,0,0
+2024,DEU,SVK,Germany,Slovakia,0,5,0,0,0,0,0
+2024,DEU,CHE,Germany,Switzerland,7,5,0,0,0,0,0
+2024,DEU,USA,Germany,United States of America,38,620,0,0,0,0,0

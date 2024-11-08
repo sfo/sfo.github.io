@@ -1,0 +1,239 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Population Type,location,urbanRural,accommodationType,Female 0-4,Female 5-11,Female 12-17,Female 18-59,Female 60 or more,Female Unknown,Female Total,Male 0-4,Male 5-11,Male 12-17,Male 18-59,Male 60 or more,Male Unknown,Male Total,Total
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#indicator+population_type,,,,#affected+f+infants+age_0_4,#affected+f+children+age_5_11,#affected+f+adolescents+age_12_17,#affected+f+adults+age_18_59,#affected+f+elderly+age_60,#affected+f+unknown_age,#affected+f+total,#affected+m+infants+age_0_4,#affected+m+children+age_5_11,#affected+m+adolescents+age_12_17,#affected+m+adults+age_18_59,#affected+m+elderly+age_60,#affected+m+unknown_age,#affected+m+total,#affected+all+total
+2001,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2001,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,R,U,0,0,0,0,0,7,7,0,0,0,0,0,0,0,7
+2001,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2001,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,988
+2001,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2002,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2002,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2002,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+2002,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,895
+2002,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2003,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2003,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2003,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2003,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,663
+2003,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,R,U,0,0,0,0,0,5,5,0,0,0,0,0,5,5,10
+2003,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+2003,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2004,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2004,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2004,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2004,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2004,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2004,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38
+2004,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2005,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2005,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,0,6,0,8,0,0,14,0,0,8,10,0,0,18,32
+2005,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2005,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,9,9,0,0,0,0,0,0,0,9
+2005,DEU,NLD,Germany,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2005,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+2006,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2006,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,15,15,0,0,0,0,0,18,18,33
+2006,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2006,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,5,5,10
+2006,DEU,NLD,Germany,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2006,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61
+2007,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2007,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,5,12,0,14,0,0,31,0,5,5,16,0,0,26,57
+2007,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+2007,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,6,6,0,0,0,0,0,5,5,11
+2007,DEU,NLD,Germany,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2007,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64
+2008,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2008,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2008,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,5,8,5,20,0,0,38,0,9,5,24,0,0,38,76
+2008,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73
+2008,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,6,6,0,0,0,0,0,5,5,11
+2008,DEU,NLD,Germany,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2008,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2008,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62
+2009,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2009,DEU,CAN,Germany,Canada,ASY,Canada,U,U,6,12,0,21,0,0,39,0,9,6,15,0,0,30,69
+2009,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2009,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2009,DEU,NLD,Germany,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,DEU,NOR,Germany,Norway,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2009,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2009,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60
+2010,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2010,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,0,5,0,9,0,0,14,0,0,0,11,0,0,11,25
+2010,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80
+2010,DEU,NLD,Germany,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,DEU,NZL,Germany,New Zealand,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64
+2011,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2011,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,0,0,0,6,0,0,6,0,0,0,11,0,0,11,17
+2011,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,U,U,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2011,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79
+2011,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,5,5,10
+2011,DEU,JOR,Germany,Jordan,ASY,Amman : Point,U,U,0,0,0,0,0,0,0,0,0,6,0,0,0,6,6
+2011,DEU,NZL,Germany,New Zealand,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64
+2012,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2012,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,0,0,0,5,0,0,5,0,0,5,5,0,0,10,15
+2012,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89
+2012,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,5,5,10
+2012,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2012,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2012,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64
+2013,DEU,ARG,Germany,Argentina,ASY,Dispersed in the country / territory,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2013,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,0,0,0,5,0,0,5,0,5,0,0,0,0,5,10
+2013,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2013,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85
+2013,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,9,9,0,0,0,0,0,0,0,9
+2013,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2013,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53
+2013,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59
+2014,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,DEU,BEL,Germany,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2014,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,8,8,0,0,0,0,0,0,0,8
+2014,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2014,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77
+2014,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59
+2015,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2015,DEU,FRA,Germany,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,7,7,0,0,0,0,0,0,0,7
+2015,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2015,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76
+2015,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54
+2016,DEU,ARG,Germany,Argentina,ASY,Dispersed in the country / territory,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2016,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,DEU,BRA,Germany,Brazil,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2016,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2016,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2016,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,7,7,0,0,0,0,0,0,0,7
+2016,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104
+2016,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+2017,DEU,ARG,Germany,Argentina,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,DEU,BRA,Germany,Brazil,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2017,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2017,DEU,CRI,Germany,Costa Rica,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2017,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,6,6,0,0,0,0,0,0,0,6
+2017,DEU,HUN,Germany,Hungary,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,DEU,RUS,Germany,Russian Federation,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,DEU,RUS,Germany,Russian Federation,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,DEU,SWE,Germany,Sweden,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125
+2017,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2018,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2018,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,DEU,BRA,Germany,Brazil,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2018,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2018,DEU,CRI,Germany,Costa Rica,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2018,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,DEU,RUS,Germany,Russian Federation,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2018,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125
+2018,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2019,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2019,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,DEU,BRA,Germany,Brazil,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2019,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2019,DEU,CRI,Germany,Costa Rica,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2019,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2019,DEU,ITA,Germany,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2019,DEU,RUS,Germany,Russian Federation,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,DEU,RUS,Germany,Russian Federation,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2019,DEU,ESP,Germany,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2019,DEU,CHE,Germany,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125
+2019,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+2020,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2020,DEU,BEL,Germany,Belgium,ASY,Dispersed in the country / territory,V,C,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2020,DEU,BRA,Germany,Brazil,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2020,DEU,CRI,Germany,Costa Rica,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,DEU,FRA,Germany,France,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,DEU,ITA,Germany,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2020,DEU,PER,Germany,Peru,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,DEU,RUS,Germany,Russian Federation,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2020,DEU,CHE,Germany,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132
+2020,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2021,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2021,DEU,AUT,Germany,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,DEU,BRA,Germany,Brazil,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2021,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,10,0,0,10,0,0,0,9,0,0,9,19
+2021,DEU,CRI,Germany,Costa Rica,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2021,DEU,MEX,Germany,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2021,DEU,PER,Germany,Peru,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,DEU,RUS,Germany,Russian Federation,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2021,DEU,CHE,Germany,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,176
+2021,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+2022,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2022,DEU,AUS,Germany,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2022,DEU,BRA,Germany,Brazil,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2022,DEU,BRA,Germany,Brazil,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,I,0,0,7,5,0,0,12,0,7,0,0,0,0,7,19
+2022,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2022,DEU,CAN,Germany,Canada,REF,Quebec,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2022,DEU,CRI,Germany,Costa Rica,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2022,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,DEU,MDA,Germany,Republic of Moldova,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,15,15,0,0,0,0,0,35,35,50
+2022,DEU,MEX,Germany,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2022,DEU,NLD,Germany,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,DEU,PER,Germany,Peru,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,DEU,POL,Germany,Poland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2022,DEU,RUS,Germany,Russian Federation,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2022,DEU,RUS,Germany,Russian Federation,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2022,DEU,CHE,Germany,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2022,DEU,USA,Germany,United States of America,ASY,California,V,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2022,DEU,USA,Germany,United States of America,ASY,California,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2022,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2022,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,354
+2022,DEU,USA,Germany,United States of America,ASY,Florida,V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,DEU,USA,Germany,United States of America,ASY,New York,V,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2022,DEU,USA,Germany,United States of America,ASY,New York,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2022,DEU,USA,Germany,United States of America,ASY,Texas,V,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2022,DEU,USA,Germany,United States of America,REF,California,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+2022,DEU,USA,Germany,United States of America,REF,New York,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2023,DEU,AUS,Germany,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2023,DEU,BRA,Germany,Brazil,ASY,Bahia : Estado - State,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2023,DEU,BRA,Germany,Brazil,ASY,Goias : Estado - State,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2023,DEU,BRA,Germany,Brazil,ASY,Rio Grande do Sul : Estado - State,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2023,DEU,BRA,Germany,Brazil,ASY,Santa Catarina : Estado - State,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2023,DEU,BRA,Germany,Brazil,ASY,Sao Paulo : Estado - State,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2023,DEU,BRA,Germany,Brazil,REF,Bahia : Estado - State,V,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2023,DEU,CAN,Germany,Canada,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2023,DEU,CAN,Germany,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2023,DEU,CRI,Germany,Costa Rica,ASY,Dispersed in the country / territory,V,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2023,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2023,DEU,MEX,Germany,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2023,DEU,NLD,Germany,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,DEU,PER,Germany,Peru,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2023,DEU,POL,Germany,Poland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2023,DEU,RUS,Germany,Russian Federation,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2023,DEU,RUS,Germany,Russian Federation,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,149
+2023,DEU,CHE,Germany,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2023,DEU,USA,Germany,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,587
+2023,DEU,USA,Germany,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40

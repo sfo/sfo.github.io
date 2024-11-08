@@ -1,0 +1,3749 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Refugees,Asylum seekers,Other people in need of international protection,Internally displaced persons,Stateless Persons,Others of concern to UNHCR,Host community
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#affected+refugees,#affected+asylum_seekers,#affected+oip,#affected+idps,#affected+stateless,#affected+others,#affected+hst
+1951,UKN,DEU,Various / unknown,Germany,265000,0,0,0,0,0,0
+1952,UKN,DEU,Various / unknown,Germany,240000,0,0,0,0,0,0
+1953,UKN,DEU,Various / unknown,Germany,228000,0,0,0,0,0,0
+1954,UKN,DEU,Various / unknown,Germany,225000,0,0,0,0,0,0
+1955,UKN,DEU,Various / unknown,Germany,219000,0,0,0,0,0,0
+1956,UKN,DEU,Various / unknown,Germany,221000,0,0,0,0,0,0
+1957,UKN,DEU,Various / unknown,Germany,217000,0,0,0,0,0,0
+1958,UKN,DEU,Various / unknown,Germany,212000,0,0,0,0,0,0
+1959,UKN,DEU,Various / unknown,Germany,205000,0,0,0,0,0,0
+1960,UKN,DEU,Various / unknown,Germany,197000,0,0,0,0,0,0
+1961,UKN,DEU,Various / unknown,Germany,190000,0,0,0,0,0,0
+1962,UKN,DEU,Various / unknown,Germany,185000,0,0,0,0,0,0
+1963,UKN,DEU,Various / unknown,Germany,182000,0,0,0,0,0,0
+1964,UKN,DEU,Various / unknown,Germany,180000,0,0,0,0,0,0
+1965,UKN,DEU,Various / unknown,Germany,180000,0,0,0,0,0,0
+1966,UKN,DEU,Various / unknown,Germany,140000,0,0,0,0,0,0
+1967,UKN,DEU,Various / unknown,Germany,112000,0,0,0,0,0,0
+1968,UKN,DEU,Various / unknown,Germany,110000,0,0,0,0,0,0
+1969,UKN,DEU,Various / unknown,Germany,113000,0,0,0,0,0,0
+1970,UKN,DEU,Various / unknown,Germany,115000,0,0,0,0,0,0
+1971,UKN,DEU,Various / unknown,Germany,125000,0,0,0,0,0,0
+1972,UKN,DEU,Various / unknown,Germany,125000,0,0,0,0,0,0
+1973,UKN,DEU,Various / unknown,Germany,125000,0,0,0,0,0,0
+1974,UKN,DEU,Various / unknown,Germany,123000,0,0,0,0,0,0
+1975,UKN,DEU,Various / unknown,Germany,122000,0,0,0,0,0,0
+1976,UKN,DEU,Various / unknown,Germany,122000,0,0,0,0,0,0
+1977,UKN,DEU,Various / unknown,Germany,120000,0,0,0,0,0,0
+1978,UKN,DEU,Various / unknown,Germany,83500,0,0,0,0,0,0
+1979,UKN,DEU,Various / unknown,Germany,87000,0,0,0,0,0,0
+1980,UKN,DEU,Various / unknown,Germany,94000,0,0,0,0,0,0
+1981,UKN,DEU,Various / unknown,Germany,100000,0,0,0,0,0,0
+1982,UKN,DEU,Various / unknown,Germany,100000,0,0,0,0,0,0
+1983,UKN,DEU,Various / unknown,Germany,115000,0,0,0,0,0,0
+1984,UKN,DEU,Various / unknown,Germany,126600,0,0,0,0,0,0
+1985,STA,DEU,Stateless,Germany,42000,0,0,0,0,0,0
+1985,UKN,DEU,Various / unknown,Germany,433000,0,0,0,0,0,0
+1986,STA,DEU,Stateless,Germany,39300,0,0,0,0,0,0
+1986,UKN,DEU,Various / unknown,Germany,508600,0,0,0,0,0,0
+1987,STA,DEU,Stateless,Germany,37000,0,0,0,0,0,0
+1987,UKN,DEU,Various / unknown,Germany,559200,0,0,0,0,0,0
+1988,STA,DEU,Stateless,Germany,36400,0,0,0,0,0,0
+1988,UKN,DEU,Various / unknown,Germany,573800,0,0,0,0,0,0
+1989,STA,DEU,Stateless,Germany,32700,0,0,0,0,0,0
+1989,UKN,DEU,Various / unknown,Germany,595800,0,0,0,0,0,0
+1990,STA,DEU,Stateless,Germany,32000,0,0,0,0,0,0
+1990,UKN,DEU,Various / unknown,Germany,784000,0,0,0,0,0,0
+1991,STA,DEU,Stateless,Germany,28500,0,0,0,0,0,0
+1991,UKN,DEU,Various / unknown,Germany,793000,0,0,0,0,0,0
+1992,STA,DEU,Stateless,Germany,28000,0,0,0,0,0,0
+1992,UKN,DEU,Various / unknown,Germany,1208000,0,0,0,0,0,0
+1993,STA,DEU,Stateless,Germany,22000,0,0,0,0,0,0
+1993,UKN,DEU,Various / unknown,Germany,1396000,0,0,0,0,0,0
+1994,BIH,DEU,Bosnia and Herzegovina,Germany,350000,0,0,0,0,0,0
+1994,STA,DEU,Stateless,Germany,20600,0,0,0,0,0,0
+1994,UKN,DEU,Various / unknown,Germany,984000,0,0,0,0,0,0
+1995,BIH,DEU,Bosnia and Herzegovina,Germany,320000,0,0,0,0,0,0
+1995,KHM,DEU,Cambodia,Germany,0,0,0,0,0,0,0
+1995,LKA,DEU,Sri Lanka,Germany,0,0,0,0,0,0,0
+1995,STA,DEU,Stateless,Germany,18800,0,0,0,0,0,0
+1995,UKN,DEU,Various / unknown,Germany,929100,0,0,0,0,0,0
+1996,BIH,DEU,Bosnia and Herzegovina,Germany,330000,0,0,0,0,0,0
+1996,STA,DEU,Stateless,Germany,17000,0,0,0,0,0,0
+1996,UKN,DEU,Various / unknown,Germany,919000,0,0,0,0,0,0
+1997,BIH,DEU,Bosnia and Herzegovina,Germany,245000,0,0,0,0,0,0
+1997,STA,DEU,Stateless,Germany,16000,0,0,0,0,0,0
+1997,UKN,DEU,Various / unknown,Germany,788000,0,0,0,0,0,0
+1998,BIH,DEU,Bosnia and Herzegovina,Germany,100000,0,0,0,0,0,0
+1998,UKN,DEU,Various / unknown,Germany,849200,0,0,0,0,0,0
+1999,BIH,DEU,Bosnia and Herzegovina,Germany,50000,0,0,0,0,0,0
+1999,SRB,DEU,Serbia,Germany,0,0,0,0,0,0,0
+1999,UKN,DEU,Various / unknown,Germany,925500,0,0,0,0,0,0
+2000,AFG,DEU,Afghanistan,Germany,0,9229,0,0,0,0,0
+2000,ALB,DEU,Albania,Germany,0,122,0,0,0,0,0
+2000,DZA,DEU,Algeria,Germany,0,403,0,0,0,0,0
+2000,AGO,DEU,Angola,Germany,0,187,0,0,0,0,0
+2000,EGY,DEU,Egypt,Germany,0,35,0,0,0,0,0
+2000,ARM,DEU,Armenia,Germany,0,344,0,0,0,0,0
+2000,AZE,DEU,Azerbaijan,Germany,0,780,0,0,0,0,0
+2000,BDI,DEU,Burundi,Germany,0,12,0,0,0,0,0
+2000,BEN,DEU,Benin,Germany,0,10,0,0,0,0,0
+2000,BGD,DEU,Bangladesh,Germany,0,125,0,0,0,0,0
+2000,BTN,DEU,Bhutan,Germany,0,20,0,0,0,0,0
+2000,BFA,DEU,Burkina Faso,Germany,0,161,0,0,0,0,0
+2000,BLR,DEU,Belarus,Germany,0,166,0,0,0,0,0
+2000,BIH,DEU,Bosnia and Herzegovina,Germany,30000,726,0,0,0,0,0
+2000,BGR,DEU,Bulgaria,Germany,0,12,0,0,0,0,0
+2000,KHM,DEU,Cambodia,Germany,0,5,0,0,0,0,0
+2000,CAF,DEU,Central African Republic,Germany,0,8,0,0,0,0,0
+2000,TCD,DEU,Chad,Germany,0,9,0,0,0,0,0
+2000,CHN,DEU,China,Germany,0,470,0,0,0,0,0
+2000,CMR,DEU,Cameroon,Germany,0,234,0,0,0,0,0
+2000,COG,DEU,Congo,Germany,0,68,0,0,0,0,0
+2000,COD,DEU,Democratic Republic of the Congo,Germany,0,489,0,0,0,0,0
+2000,COL,DEU,Colombia,Germany,0,81,0,0,0,0,0
+2000,CUB,DEU,Cuba,Germany,0,32,0,0,0,0,0
+2000,CZE,DEU,Czechia,Germany,0,22,0,0,0,0,0
+2000,ECU,DEU,Ecuador,Germany,0,5,0,0,0,0,0
+2000,ERI,DEU,Eritrea,Germany,0,125,0,0,0,0,0
+2000,EST,DEU,Estonia,Germany,0,10,0,0,0,0,0
+2000,ETH,DEU,Ethiopia,Germany,0,187,0,0,0,0,0
+2000,GAB,DEU,Gabon,Germany,0,5,0,0,0,0,0
+2000,GMB,DEU,Gambia,Germany,0,6,0,0,0,0,0
+2000,GEO,DEU,Georgia,Germany,0,224,0,0,0,0,0
+2000,GHA,DEU,Ghana,Germany,0,34,0,0,0,0,0
+2000,GNB,DEU,Guinea-Bissau,Germany,0,8,0,0,0,0,0
+2000,GIN,DEU,Guinea,Germany,0,50,0,0,0,0,0
+2000,HRV,DEU,Croatia,Germany,0,20,0,0,0,0,0
+2000,CIV,DEU,Côte d'Ivoire,Germany,0,91,0,0,0,0,0
+2000,IND,DEU,India,Germany,0,523,0,0,0,0,0
+2000,IRN,DEU,Iran (Islamic Republic of),Germany,0,2622,0,0,0,0,0
+2000,IRQ,DEU,Iraq,Germany,0,3655,0,0,0,0,0
+2000,ISR,DEU,Israel,Germany,0,7,0,0,0,0,0
+2000,JOR,DEU,Jordan,Germany,0,27,0,0,0,0,0
+2000,KAZ,DEU,Kazakhstan,Germany,0,50,0,0,0,0,0
+2000,KEN,DEU,Kenya,Germany,0,6,0,0,0,0,0
+2000,KGZ,DEU,Kyrgyzstan,Germany,0,18,0,0,0,0,0
+2000,PRK,DEU,Democratic People's Republic of Korea,Germany,0,22,0,0,0,0,0
+2000,LBR,DEU,Liberia,Germany,0,26,0,0,0,0,0
+2000,LBY,DEU,Libya,Germany,0,48,0,0,0,0,0
+2000,LBN,DEU,Lebanon,Germany,0,213,0,0,0,0,0
+2000,LKA,DEU,Sri Lanka,Germany,0,514,0,0,0,0,0
+2000,LTU,DEU,Lithuania,Germany,0,18,0,0,0,0,0
+2000,MRT,DEU,Mauritania,Germany,0,32,0,0,0,0,0
+2000,MKD,DEU,North Macedonia,Germany,0,113,0,0,0,0,0
+2000,MDA,DEU,Republic of Moldova,Germany,0,47,0,0,0,0,0
+2000,MLI,DEU,Mali,Germany,0,5,0,0,0,0,0
+2000,MNG,DEU,Mongolia,Germany,0,22,0,0,0,0,0
+2000,MAR,DEU,Morocco,Germany,0,60,0,0,0,0,0
+2000,MMR,DEU,Myanmar,Germany,0,71,0,0,0,0,0
+2000,NPL,DEU,Nepal,Germany,0,64,0,0,0,0,0
+2000,NER,DEU,Niger,Germany,0,12,0,0,0,0,0
+2000,NGA,DEU,Nigeria,Germany,0,99,0,0,0,0,0
+2000,PAK,DEU,Pakistan,Germany,0,584,0,0,0,0,0
+2000,PER,DEU,Peru,Germany,0,5,0,0,0,0,0
+2000,POL,DEU,Poland,Germany,0,73,0,0,0,0,0
+2000,ROU,DEU,Romania,Germany,0,32,0,0,0,0,0
+2000,RUS,DEU,Russian Federation,Germany,0,1969,0,0,0,0,0
+2000,RWA,DEU,Rwanda,Germany,0,28,0,0,0,0,0
+2000,SLE,DEU,Sierra Leone,Germany,0,874,0,0,0,0,0
+2000,SOM,DEU,Somalia,Germany,0,117,0,0,0,0,0
+2000,SRB,DEU,Serbia,Germany,0,36608,0,0,0,0,0
+2000,VNM,DEU,Viet Nam,Germany,0,469,0,0,0,0,0
+2000,STA,DEU,Stateless,Germany,0,499,0,0,0,0,0
+2000,SDN,DEU,Sudan,Germany,0,88,0,0,0,0,0
+2000,SVK,DEU,Slovakia,Germany,0,53,0,0,0,0,0
+2000,SVN,DEU,Slovenia,Germany,0,5,0,0,0,0,0
+2000,SYR,DEU,Syrian Arab Republic,Germany,0,1046,0,0,0,0,0
+2000,TJK,DEU,Tajikistan,Germany,0,21,0,0,0,0,0
+2000,TKM,DEU,Turkmenistan,Germany,0,5,0,0,0,0,0
+2000,TGO,DEU,Togo,Germany,0,378,0,0,0,0,0
+2000,TUN,DEU,Tunisia,Germany,0,57,0,0,0,0,0
+2000,TUR,DEU,Türkiye,Germany,0,3871,0,0,0,0,0
+2000,UGA,DEU,Uganda,Germany,0,22,0,0,0,0,0
+2000,UKN,DEU,Various / unknown,Germany,876000,460,0,0,0,0,0
+2000,UKR,DEU,Ukraine,Germany,0,131,0,0,0,0,0
+2000,UZB,DEU,Uzbekistan,Germany,0,15,0,0,0,0,0
+2000,YEM,DEU,Yemen,Germany,0,35,0,0,0,0,0
+2001,AFG,DEU,Afghanistan,Germany,0,10057,0,0,0,0,0
+2001,ALB,DEU,Albania,Germany,0,159,0,0,0,0,0
+2001,DZA,DEU,Algeria,Germany,0,702,0,0,0,0,0
+2001,AGO,DEU,Angola,Germany,0,424,0,0,0,0,0
+2001,EGY,DEU,Egypt,Germany,0,47,0,0,0,0,0
+2001,ARM,DEU,Armenia,Germany,0,422,0,0,0,0,0
+2001,AZE,DEU,Azerbaijan,Germany,0,923,0,0,0,0,0
+2001,BDI,DEU,Burundi,Germany,0,25,0,0,0,0,0
+2001,BEN,DEU,Benin,Germany,0,19,0,0,0,0,0
+2001,BGD,DEU,Bangladesh,Germany,0,126,0,0,0,0,0
+2001,BTN,DEU,Bhutan,Germany,0,28,0,0,0,0,0
+2001,BFA,DEU,Burkina Faso,Germany,0,113,0,0,0,0,0
+2001,BLR,DEU,Belarus,Germany,0,284,0,0,0,0,0
+2001,BIH,DEU,Bosnia and Herzegovina,Germany,24000,1000,0,0,0,0,0
+2001,BGR,DEU,Bulgaria,Germany,0,25,0,0,0,0,0
+2001,CAF,DEU,Central African Republic,Germany,0,14,0,0,0,0,0
+2001,TCD,DEU,Chad,Germany,0,16,0,0,0,0,0
+2001,CHN,DEU,China,Germany,0,707,0,0,0,0,0
+2001,CMR,DEU,Cameroon,Germany,0,535,0,0,0,0,0
+2001,COG,DEU,Congo,Germany,0,93,0,0,0,0,0
+2001,COD,DEU,Democratic Republic of the Congo,Germany,0,964,0,0,0,0,0
+2001,COL,DEU,Colombia,Germany,0,86,0,0,0,0,0
+2001,CUB,DEU,Cuba,Germany,0,39,0,0,0,0,0
+2001,CZE,DEU,Czechia,Germany,0,14,0,0,0,0,0
+2001,ECU,DEU,Ecuador,Germany,0,8,0,0,0,0,0
+2001,ERI,DEU,Eritrea,Germany,0,210,0,0,0,0,0
+2001,ETH,DEU,Ethiopia,Germany,0,291,0,0,0,0,0
+2001,FJI,DEU,Fiji,Germany,0,7,0,0,0,0,0
+2001,GAB,DEU,Gabon,Germany,0,5,0,0,0,0,0
+2001,GMB,DEU,Gambia,Germany,0,10,0,0,0,0,0
+2001,GEO,DEU,Georgia,Germany,0,479,0,0,0,0,0
+2001,GHA,DEU,Ghana,Germany,0,59,0,0,0,0,0
+2001,GNB,DEU,Guinea-Bissau,Germany,0,29,0,0,0,0,0
+2001,GIN,DEU,Guinea,Germany,0,132,0,0,0,0,0
+2001,HRV,DEU,Croatia,Germany,0,44,0,0,0,0,0
+2001,HUN,DEU,Hungary,Germany,0,5,0,0,0,0,0
+2001,CIV,DEU,Côte d'Ivoire,Germany,0,63,0,0,0,0,0
+2001,IND,DEU,India,Germany,0,714,0,0,0,0,0
+2001,IDN,DEU,Indonesia,Germany,0,5,0,0,0,0,0
+2001,IRN,DEU,Iran (Islamic Republic of),Germany,0,2462,0,0,0,0,0
+2001,IRQ,DEU,Iraq,Germany,0,5454,0,0,0,0,0
+2001,ISR,DEU,Israel,Germany,0,7,0,0,0,0,0
+2001,JOR,DEU,Jordan,Germany,0,28,0,0,0,0,0
+2001,KAZ,DEU,Kazakhstan,Germany,0,68,0,0,0,0,0
+2001,KEN,DEU,Kenya,Germany,0,25,0,0,0,0,0
+2001,KGZ,DEU,Kyrgyzstan,Germany,0,44,0,0,0,0,0
+2001,PRK,DEU,Democratic People's Republic of Korea,Germany,0,19,0,0,0,0,0
+2001,LAO,DEU,Lao People's Democratic Republic,Germany,0,5,0,0,0,0,0
+2001,LBR,DEU,Liberia,Germany,0,45,0,0,0,0,0
+2001,LBY,DEU,Libya,Germany,0,74,0,0,0,0,0
+2001,LBN,DEU,Lebanon,Germany,0,344,0,0,0,0,0
+2001,LKA,DEU,Sri Lanka,Germany,0,547,0,0,0,0,0
+2001,LTU,DEU,Lithuania,Germany,0,23,0,0,0,0,0
+2001,LVA,DEU,Latvia,Germany,0,5,0,0,0,0,0
+2001,MRT,DEU,Mauritania,Germany,0,35,0,0,0,0,0
+2001,MKD,DEU,North Macedonia,Germany,0,517,0,0,0,0,0
+2001,MDA,DEU,Republic of Moldova,Germany,0,94,0,0,0,0,0
+2001,MLI,DEU,Mali,Germany,0,11,0,0,0,0,0
+2001,MNG,DEU,Mongolia,Germany,0,64,0,0,0,0,0
+2001,MAR,DEU,Morocco,Germany,0,108,0,0,0,0,0
+2001,MMR,DEU,Myanmar,Germany,0,40,0,0,0,0,0
+2001,NPL,DEU,Nepal,Germany,0,107,0,0,0,0,0
+2001,NER,DEU,Niger,Germany,0,25,0,0,0,0,0
+2001,NGA,DEU,Nigeria,Germany,0,255,0,0,0,0,0
+2001,PAK,DEU,Pakistan,Germany,0,592,0,0,0,0,0
+2001,POL,DEU,Poland,Germany,0,12,0,0,0,0,0
+2001,ROU,DEU,Romania,Germany,0,43,0,0,0,0,0
+2001,RUS,DEU,Russian Federation,Germany,0,2323,0,0,0,0,0
+2001,RWA,DEU,Rwanda,Germany,0,20,0,0,0,0,0
+2001,SEN,DEU,Senegal,Germany,0,10,0,0,0,0,0
+2001,SLE,DEU,Sierra Leone,Germany,0,420,0,0,0,0,0
+2001,SOM,DEU,Somalia,Germany,0,85,0,0,0,0,0
+2001,SRB,DEU,Serbia,Germany,0,42284,0,0,0,0,0
+2001,VNM,DEU,Viet Nam,Germany,0,676,0,0,0,0,0
+2001,STA,DEU,Stateless,Germany,0,138,0,0,0,0,0
+2001,SDN,DEU,Sudan,Germany,0,136,0,0,0,0,0
+2001,SVK,DEU,Slovakia,Germany,0,67,0,0,0,0,0
+2001,SYR,DEU,Syrian Arab Republic,Germany,0,1152,0,0,0,0,0
+2001,TJK,DEU,Tajikistan,Germany,0,16,0,0,0,0,0
+2001,TKM,DEU,Turkmenistan,Germany,0,12,0,0,0,0,0
+2001,TGO,DEU,Togo,Germany,0,613,0,0,0,0,0
+2001,TUN,DEU,Tunisia,Germany,0,63,0,0,0,0,0
+2001,TUR,DEU,Türkiye,Germany,0,5985,0,0,0,0,0
+2001,UGA,DEU,Uganda,Germany,0,47,0,0,0,0,0
+2001,UKN,DEU,Various / unknown,Germany,879000,1198,0,0,0,0,0
+2001,UKR,DEU,Ukraine,Germany,0,211,0,0,0,0,0
+2001,UZB,DEU,Uzbekistan,Germany,0,32,0,0,0,0,0
+2001,YEM,DEU,Yemen,Germany,0,69,0,0,0,0,0
+2002,AFG,DEU,Afghanistan,Germany,52289,12074,0,0,0,0,0
+2002,ALB,DEU,Albania,Germany,2073,163,0,0,0,0,0
+2002,DZA,DEU,Algeria,Germany,3794,571,0,0,0,0,0
+2002,AND,DEU,Andorra,Germany,9,0,0,0,0,0,0
+2002,AGO,DEU,Angola,Germany,3334,466,0,0,0,0,0
+2002,EGY,DEU,Egypt,Germany,1410,65,0,0,0,0,0
+2002,ARG,DEU,Argentina,Germany,53,0,0,0,0,0,0
+2002,ARM,DEU,Armenia,Germany,4718,360,0,0,0,0,0
+2002,AUS,DEU,Australia,Germany,9,0,0,0,0,0,0
+2002,AUT,DEU,Austria,Germany,54,0,0,0,0,0,0
+2002,AZE,DEU,Azerbaijan,Germany,7405,896,0,0,0,0,0
+2002,BHR,DEU,Bahrain,Germany,5,0,0,0,0,0,0
+2002,BDI,DEU,Burundi,Germany,246,36,0,0,0,0,0
+2002,BEL,DEU,Belgium,Germany,16,0,0,0,0,0,0
+2002,BEN,DEU,Benin,Germany,175,8,0,0,0,0,0
+2002,BGD,DEU,Bangladesh,Germany,579,103,0,0,0,0,0
+2002,BTN,DEU,Bhutan,Germany,190,28,0,0,0,0,0
+2002,BFA,DEU,Burkina Faso,Germany,880,32,0,0,0,0,0
+2002,BLR,DEU,Belarus,Germany,2449,356,0,0,0,0,0
+2002,BOL,DEU,Bolivia (Plurinational State of),Germany,64,0,0,0,0,0,0
+2002,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2002,BRA,DEU,Brazil,Germany,150,0,0,0,0,0,0
+2002,BIH,DEU,Bosnia and Herzegovina,Germany,40531,592,0,0,0,0,0
+2002,BGR,DEU,Bulgaria,Germany,998,145,0,0,0,0,0
+2002,KHM,DEU,Cambodia,Germany,252,7,0,0,0,0,0
+2002,CAN,DEU,Canada,Germany,47,0,0,0,0,0,0
+2002,CAF,DEU,Central African Republic,Germany,20,0,0,0,0,0,0
+2002,TCD,DEU,Chad,Germany,47,11,0,0,0,0,0
+2002,CHN,DEU,China,Germany,6280,954,0,0,0,0,0
+2002,CHL,DEU,Chile,Germany,1056,0,0,0,0,0,0
+2002,CMR,DEU,Cameroon,Germany,1223,675,0,0,0,0,0
+2002,COG,DEU,Congo,Germany,796,111,0,0,0,0,0
+2002,COD,DEU,Democratic Republic of the Congo,Germany,7370,1204,0,0,0,0,0
+2002,COM,DEU,Comoros,Germany,5,0,0,0,0,0,0
+2002,COL,DEU,Colombia,Germany,236,73,0,0,0,0,0
+2002,CRI,DEU,Costa Rica,Germany,7,0,0,0,0,0,0
+2002,CUB,DEU,Cuba,Germany,469,9,0,0,0,0,0
+2002,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2002,CZE,DEU,Czechia,Germany,5935,7,0,0,0,0,0
+2002,DNK,DEU,Denmark,Germany,6,0,0,0,0,0,0
+2002,DJI,DEU,Djibouti,Germany,7,5,0,0,0,0,0
+2002,DOM,DEU,Dominican Republic,Germany,46,0,0,0,0,0,0
+2002,ECU,DEU,Ecuador,Germany,86,5,0,0,0,0,0
+2002,GNQ,DEU,Equatorial Guinea,Germany,65,0,0,0,0,0,0
+2002,ERI,DEU,Eritrea,Germany,2553,291,0,0,0,0,0
+2002,EST,DEU,Estonia,Germany,648,0,0,0,0,0,0
+2002,ETH,DEU,Ethiopia,Germany,8134,379,0,0,0,0,0
+2002,FIN,DEU,Finland,Germany,8,0,0,0,0,0,0
+2002,FRA,DEU,France,Germany,59,0,0,0,0,0,0
+2002,GAB,DEU,Gabon,Germany,23,5,0,0,0,0,0
+2002,GMB,DEU,Gambia,Germany,167,11,0,0,0,0,0
+2002,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,42,0,0,0,0,0,0
+2002,GEO,DEU,Georgia,Germany,2644,516,0,0,0,0,0
+2002,GHA,DEU,Ghana,Germany,1308,67,0,0,0,0,0
+2002,GNB,DEU,Guinea-Bissau,Germany,56,16,0,0,0,0,0
+2002,GRC,DEU,Greece,Germany,234,0,0,0,0,0,0
+2002,GTM,DEU,Guatemala,Germany,6,0,0,0,0,0,0
+2002,GIN,DEU,Guinea,Germany,703,139,0,0,0,0,0
+2002,GUY,DEU,Guyana,Germany,5,0,0,0,0,0,0
+2002,HTI,DEU,Haiti,Germany,16,0,0,0,0,0,0
+2002,HND,DEU,Honduras,Germany,14,0,0,0,0,0,0
+2002,HRV,DEU,Croatia,Germany,3845,52,0,0,0,0,0
+2002,HUN,DEU,Hungary,Germany,2540,9,0,0,0,0,0
+2002,ISL,DEU,Iceland,Germany,13,0,0,0,0,0,0
+2002,CIV,DEU,Côte d'Ivoire,Germany,658,159,0,0,0,0,0
+2002,IND,DEU,India,Germany,2532,693,0,0,0,0,0
+2002,IDN,DEU,Indonesia,Germany,99,8,0,0,0,0,0
+2002,IRL,DEU,Ireland,Germany,5,0,0,0,0,0,0
+2002,IRN,DEU,Iran (Islamic Republic of),Germany,51538,2462,0,0,0,0,0
+2002,IRQ,DEU,Iraq,Germany,72697,4187,0,0,0,0,0
+2002,ISR,DEU,Israel,Germany,337,57,0,0,0,0,0
+2002,ITA,DEU,Italy,Germany,191,0,0,0,0,0,0
+2002,JAM,DEU,Jamaica,Germany,14,0,0,0,0,0,0
+2002,JOR,DEU,Jordan,Germany,554,39,0,0,0,0,0
+2002,JPN,DEU,Japan,Germany,14,0,0,0,0,0,0
+2002,KAZ,DEU,Kazakhstan,Germany,3464,56,0,0,0,0,0
+2002,KEN,DEU,Kenya,Germany,179,25,0,0,0,0,0
+2002,KGZ,DEU,Kyrgyzstan,Germany,2106,17,0,0,0,0,0
+2002,KOR,DEU,Republic of Korea,Germany,157,5,0,0,0,0,0
+2002,PRK,DEU,Democratic People's Republic of Korea,Germany,225,40,0,0,0,0,0
+2002,KWT,DEU,Kuwait,Germany,35,6,0,0,0,0,0
+2002,LAO,DEU,Lao People's Democratic Republic,Germany,403,5,0,0,0,0,0
+2002,LBR,DEU,Liberia,Germany,810,126,0,0,0,0,0
+2002,LBY,DEU,Libya,Germany,495,91,0,0,0,0,0
+2002,LBN,DEU,Lebanon,Germany,19035,362,0,0,0,0,0
+2002,LSO,DEU,Lesotho,Germany,5,0,0,0,0,0,0
+2002,LKA,DEU,Sri Lanka,Germany,17403,368,0,0,0,0,0
+2002,LTU,DEU,Lithuania,Germany,1150,25,0,0,0,0,0
+2002,LVA,DEU,Latvia,Germany,2415,6,0,0,0,0,0
+2002,MDG,DEU,Madagascar,Germany,8,0,0,0,0,0,0
+2002,MRT,DEU,Mauritania,Germany,72,37,0,0,0,0,0
+2002,MKD,DEU,North Macedonia,Germany,3186,258,0,0,0,0,0
+2002,MDA,DEU,Republic of Moldova,Germany,5370,68,0,0,0,0,0
+2002,MEX,DEU,Mexico,Germany,13,0,0,0,0,0,0
+2002,MLI,DEU,Mali,Germany,151,9,0,0,0,0,0
+2002,MYS,DEU,Malaysia,Germany,23,0,0,0,0,0,0
+2002,MWI,DEU,Malawi,Germany,11,0,0,0,0,0,0
+2002,MNG,DEU,Mongolia,Germany,196,36,0,0,0,0,0
+2002,MAR,DEU,Morocco,Germany,888,77,0,0,0,0,0
+2002,MOZ,DEU,Mozambique,Germany,87,5,0,0,0,0,0
+2002,MUS,DEU,Mauritius,Germany,5,0,0,0,0,0,0
+2002,MMR,DEU,Myanmar,Germany,368,54,0,0,0,0,0
+2002,NAM,DEU,Namibia,Germany,13,0,0,0,0,0,0
+2002,NPL,DEU,Nepal,Germany,390,165,0,0,0,0,0
+2002,NLD,DEU,Netherlands (Kingdom of the),Germany,27,0,0,0,0,0,0
+2002,NER,DEU,Niger,Germany,307,47,0,0,0,0,0
+2002,NIC,DEU,Nicaragua,Germany,12,0,0,0,0,0,0
+2002,NGA,DEU,Nigeria,Germany,1306,377,0,0,0,0,0
+2002,NOR,DEU,Norway,Germany,5,0,0,0,0,0,0
+2002,OMN,DEU,Oman,Germany,7,0,0,0,0,0,0
+2002,PAK,DEU,Pakistan,Germany,9254,615,0,0,0,0,0
+2002,PAN,DEU,Panama,Germany,6,0,0,0,0,0,0
+2002,PRY,DEU,Paraguay,Germany,15,0,0,0,0,0,0
+2002,PER,DEU,Peru,Germany,371,0,0,0,0,0,0
+2002,PHL,DEU,Philippines,Germany,141,0,0,0,0,0,0
+2002,POL,DEU,Poland,Germany,15182,10,0,0,0,0,0
+2002,PRT,DEU,Portugal,Germany,50,0,0,0,0,0,0
+2002,QAT,DEU,Qatar,Germany,5,0,0,0,0,0,0
+2002,ROU,DEU,Romania,Germany,4251,46,0,0,0,0,0
+2002,ZAF,DEU,South Africa,Germany,91,0,0,0,0,0,0
+2002,RUS,DEU,Russian Federation,Germany,44284,2351,0,0,0,0,0
+2002,RWA,DEU,Rwanda,Germany,562,17,0,0,0,0,0
+2002,SLV,DEU,El Salvador,Germany,43,0,0,0,0,0,0
+2002,SAU,DEU,Saudi Arabia,Germany,31,0,0,0,0,0,0
+2002,SEN,DEU,Senegal,Germany,140,12,0,0,0,0,0
+2002,SGP,DEU,Singapore,Germany,5,0,0,0,0,0,0
+2002,SLE,DEU,Sierra Leone,Germany,2191,177,0,0,0,0,0
+2002,SOM,DEU,Somalia,Germany,3881,111,0,0,0,0,0
+2002,ESP,DEU,Spain,Germany,40,0,0,0,0,0,0
+2002,SRB,DEU,Serbia,Germany,183170,5580,0,0,0,0,0
+2002,VNM,DEU,Viet Nam,Germany,26888,659,0,0,0,0,0
+2002,STA,DEU,Stateless,Germany,6533,83,0,0,0,0,0
+2002,STP,DEU,Sao Tome and Principe,Germany,5,0,0,0,0,0,0
+2002,SDN,DEU,Sudan,Germany,1362,160,0,0,0,0,0
+2002,SVK,DEU,Slovakia,Germany,334,118,0,0,0,0,0
+2002,SVN,DEU,Slovenia,Germany,140,0,0,0,0,0,0
+2002,SWZ,DEU,Eswatini,Germany,5,0,0,0,0,0,0
+2002,SWE,DEU,Sweden,Germany,20,0,0,0,0,0,0
+2002,CHE,DEU,Switzerland,Germany,12,0,0,0,0,0,0
+2002,SYR,DEU,Syrian Arab Republic,Germany,14398,1279,0,0,0,0,0
+2002,TZA,DEU,United Republic of Tanzania,Germany,28,13,0,0,0,0,0
+2002,THA,DEU,Thailand,Germany,242,0,0,0,0,0,0
+2002,TJK,DEU,Tajikistan,Germany,291,12,0,0,0,0,0
+2002,TKM,DEU,Turkmenistan,Germany,519,19,0,0,0,0,0
+2002,TGO,DEU,Togo,Germany,5743,841,0,0,0,0,0
+2002,TON,DEU,Tonga,Germany,7,0,0,0,0,0,0
+2002,TTO,DEU,Trinidad and Tobago,Germany,5,0,0,0,0,0,0
+2002,TUN,DEU,Tunisia,Germany,1047,67,0,0,0,0,0
+2002,TUR,DEU,Türkiye,Germany,148983,5744,0,0,0,0,0
+2002,ARE,DEU,United Arab Emirates,Germany,15,0,0,0,0,0,0
+2002,UGA,DEU,Uganda,Germany,336,46,0,0,0,0,0
+2002,UKN,DEU,Various / unknown,Germany,94944,115374,0,0,0,0,0
+2002,UKR,DEU,Ukraine,Germany,53502,245,0,0,0,0,0
+2002,URY,DEU,Uruguay,Germany,9,0,0,0,0,0,0
+2002,USA,DEU,United States of America,Germany,182,0,0,0,0,0,0
+2002,UZB,DEU,Uzbekistan,Germany,2940,38,0,0,0,0,0
+2002,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,24,0,0,0,0,0,0
+2002,YEM,DEU,Yemen,Germany,358,28,0,0,0,0,0
+2002,ZMB,DEU,Zambia,Germany,11,0,0,0,0,0,0
+2002,ZWE,DEU,Zimbabwe,Germany,27,19,0,0,0,0,0
+2003,AFG,DEU,Afghanistan,Germany,46975,2529,0,0,0,0,0
+2003,ALB,DEU,Albania,Germany,1929,106,0,0,0,0,0
+2003,DZA,DEU,Algeria,Germany,3727,292,0,0,0,0,0
+2003,AND,DEU,Andorra,Germany,7,0,0,0,0,0,0
+2003,AGO,DEU,Angola,Germany,3288,136,0,0,0,0,0
+2003,EGY,DEU,Egypt,Germany,1314,38,0,0,0,0,0
+2003,ARG,DEU,Argentina,Germany,53,0,0,0,0,0,0
+2003,ARM,DEU,Armenia,Germany,4893,405,0,0,0,0,0
+2003,AUS,DEU,Australia,Germany,12,0,0,0,0,0,0
+2003,AUT,DEU,Austria,Germany,53,0,0,0,0,0,0
+2003,AZE,DEU,Azerbaijan,Germany,8330,620,0,0,0,0,0
+2003,BHR,DEU,Bahrain,Germany,6,0,0,0,0,0,0
+2003,BDI,DEU,Burundi,Germany,283,17,0,0,0,0,0
+2003,BEL,DEU,Belgium,Germany,16,0,0,0,0,0,0
+2003,BEN,DEU,Benin,Germany,215,7,0,0,0,0,0
+2003,BGD,DEU,Bangladesh,Germany,577,54,0,0,0,0,0
+2003,BTN,DEU,Bhutan,Germany,204,16,0,0,0,0,0
+2003,BFA,DEU,Burkina Faso,Germany,710,33,0,0,0,0,0
+2003,BLR,DEU,Belarus,Germany,2973,168,0,0,0,0,0
+2003,BOL,DEU,Bolivia (Plurinational State of),Germany,62,0,0,0,0,0,0
+2003,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2003,BRA,DEU,Brazil,Germany,164,0,0,0,0,0,0
+2003,BIH,DEU,Bosnia and Herzegovina,Germany,38688,318,0,0,0,0,0
+2003,BGR,DEU,Bulgaria,Germany,993,88,0,0,0,0,0
+2003,KHM,DEU,Cambodia,Germany,248,8,0,0,0,0,0
+2003,CAN,DEU,Canada,Germany,43,0,0,0,0,0,0
+2003,CAF,DEU,Central African Republic,Germany,20,0,0,0,0,0,0
+2003,TCD,DEU,Chad,Germany,49,11,0,0,0,0,0
+2003,CHN,DEU,China,Germany,6940,431,0,0,0,0,0
+2003,CHL,DEU,Chile,Germany,984,0,0,0,0,0,0
+2003,CMR,DEU,Cameroon,Germany,1742,238,0,0,0,0,0
+2003,COG,DEU,Congo,Germany,901,19,0,0,0,0,0
+2003,COD,DEU,Democratic Republic of the Congo,Germany,7096,482,0,0,0,0,0
+2003,COM,DEU,Comoros,Germany,6,0,0,0,0,0,0
+2003,COL,DEU,Colombia,Germany,214,8,0,0,0,0,0
+2003,CRI,DEU,Costa Rica,Germany,5,0,0,0,0,0,0
+2003,CUB,DEU,Cuba,Germany,449,10,0,0,0,0,0
+2003,CPV,DEU,Cabo Verde,Germany,7,0,0,0,0,0,0
+2003,CYP,DEU,Cyprus,Germany,5,0,0,0,0,0,0
+2003,CZE,DEU,Czechia,Germany,5640,0,0,0,0,0,0
+2003,DNK,DEU,Denmark,Germany,5,0,0,0,0,0,0
+2003,DJI,DEU,Djibouti,Germany,9,0,0,0,0,0,0
+2003,DOM,DEU,Dominican Republic,Germany,45,0,0,0,0,0,0
+2003,ECU,DEU,Ecuador,Germany,100,0,0,0,0,0,0
+2003,GNQ,DEU,Equatorial Guinea,Germany,57,0,0,0,0,0,0
+2003,ERI,DEU,Eritrea,Germany,2754,320,0,0,0,0,0
+2003,EST,DEU,Estonia,Germany,637,0,0,0,0,0,0
+2003,ETH,DEU,Ethiopia,Germany,7966,151,0,0,0,0,0
+2003,FJI,DEU,Fiji,Germany,5,0,0,0,0,0,0
+2003,FIN,DEU,Finland,Germany,6,0,0,0,0,0,0
+2003,FRA,DEU,France,Germany,59,0,0,0,0,0,0
+2003,GAB,DEU,Gabon,Germany,22,0,0,0,0,0,0
+2003,GMB,DEU,Gambia,Germany,180,22,0,0,0,0,0
+2003,PSE,DEU,State of Palestine,Germany,0,12,0,0,0,0,0
+2003,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,47,0,0,0,0,0,0
+2003,GEO,DEU,Georgia,Germany,2701,363,0,0,0,0,0
+2003,GHA,DEU,Ghana,Germany,1435,72,0,0,0,0,0
+2003,GNB,DEU,Guinea-Bissau,Germany,59,8,0,0,0,0,0
+2003,GRC,DEU,Greece,Germany,214,0,0,0,0,0,0
+2003,GTM,DEU,Guatemala,Germany,5,0,0,0,0,0,0
+2003,GIN,DEU,Guinea,Germany,814,113,0,0,0,0,0
+2003,HTI,DEU,Haiti,Germany,15,9,0,0,0,0,0
+2003,HND,DEU,Honduras,Germany,14,0,0,0,0,0,0
+2003,HRV,DEU,Croatia,Germany,3812,5,0,0,0,0,0
+2003,HUN,DEU,Hungary,Germany,2349,31,0,0,0,0,0
+2003,ISL,DEU,Iceland,Germany,11,0,0,0,0,0,0
+2003,CIV,DEU,Côte d'Ivoire,Germany,664,146,0,0,0,0,0
+2003,IND,DEU,India,Germany,3158,358,0,0,0,0,0
+2003,IDN,DEU,Indonesia,Germany,83,12,0,0,0,0,0
+2003,IRL,DEU,Ireland,Germany,6,0,0,0,0,0,0
+2003,IRN,DEU,Iran (Islamic Republic of),Germany,47131,1509,0,0,0,0,0
+2003,IRQ,DEU,Iraq,Germany,73489,2794,0,0,0,0,0
+2003,ISR,DEU,Israel,Germany,388,38,0,0,0,0,0
+2003,ITA,DEU,Italy,Germany,179,0,0,0,0,0,0
+2003,JAM,DEU,Jamaica,Germany,13,0,0,0,0,0,0
+2003,JOR,DEU,Jordan,Germany,575,23,0,0,0,0,0
+2003,JPN,DEU,Japan,Germany,12,0,0,0,0,0,0
+2003,KAZ,DEU,Kazakhstan,Germany,3706,34,0,0,0,0,0
+2003,KEN,DEU,Kenya,Germany,227,6,0,0,0,0,0
+2003,KGZ,DEU,Kyrgyzstan,Germany,2242,5,0,0,0,0,0
+2003,KOR,DEU,Republic of Korea,Germany,144,0,0,0,0,0,0
+2003,PRK,DEU,Democratic People's Republic of Korea,Germany,258,5,0,0,0,0,0
+2003,KWT,DEU,Kuwait,Germany,34,7,0,0,0,0,0
+2003,LAO,DEU,Lao People's Democratic Republic,Germany,421,5,0,0,0,0,0
+2003,LBR,DEU,Liberia,Germany,815,425,0,0,0,0,0
+2003,LBY,DEU,Libya,Germany,535,54,0,0,0,0,0
+2003,LBN,DEU,Lebanon,Germany,18410,211,0,0,0,0,0
+2003,LSO,DEU,Lesotho,Germany,5,0,0,0,0,0,0
+2003,LKA,DEU,Sri Lanka,Germany,15121,140,0,0,0,0,0
+2003,LTU,DEU,Lithuania,Germany,1282,12,0,0,0,0,0
+2003,LVA,DEU,Latvia,Germany,2451,5,0,0,0,0,0
+2003,MDG,DEU,Madagascar,Germany,7,0,0,0,0,0,0
+2003,MRT,DEU,Mauritania,Germany,67,22,0,0,0,0,0
+2003,MKD,DEU,North Macedonia,Germany,3198,165,0,0,0,0,0
+2003,MDA,DEU,Republic of Moldova,Germany,5641,43,0,0,0,0,0
+2003,MEX,DEU,Mexico,Germany,11,0,0,0,0,0,0
+2003,MLI,DEU,Mali,Germany,164,7,0,0,0,0,0
+2003,MYS,DEU,Malaysia,Germany,23,0,0,0,0,0,0
+2003,MWI,DEU,Malawi,Germany,11,0,0,0,0,0,0
+2003,MNG,DEU,Mongolia,Germany,171,28,0,0,0,0,0
+2003,MAR,DEU,Morocco,Germany,927,55,0,0,0,0,0
+2003,MOZ,DEU,Mozambique,Germany,74,0,0,0,0,0,0
+2003,MUS,DEU,Mauritius,Germany,7,0,0,0,0,0,0
+2003,MMR,DEU,Myanmar,Germany,420,66,0,0,0,0,0
+2003,NAM,DEU,Namibia,Germany,11,0,0,0,0,0,0
+2003,NPL,DEU,Nepal,Germany,483,81,0,0,0,0,0
+2003,NLD,DEU,Netherlands (Kingdom of the),Germany,38,0,0,0,0,0,0
+2003,NER,DEU,Niger,Germany,396,14,0,0,0,0,0
+2003,NIC,DEU,Nicaragua,Germany,8,0,0,0,0,0,0
+2003,NGA,DEU,Nigeria,Germany,1509,256,0,0,0,0,0
+2003,NOR,DEU,Norway,Germany,5,0,0,0,0,0,0
+2003,PAK,DEU,Pakistan,Germany,9161,467,0,0,0,0,0
+2003,PAN,DEU,Panama,Germany,5,0,0,0,0,0,0
+2003,PRY,DEU,Paraguay,Germany,15,0,0,0,0,0,0
+2003,PER,DEU,Peru,Germany,312,0,0,0,0,0,0
+2003,PHL,DEU,Philippines,Germany,125,0,0,0,0,0,0
+2003,POL,DEU,Poland,Germany,13769,13,0,0,0,0,0
+2003,PRT,DEU,Portugal,Germany,44,0,0,0,0,0,0
+2003,QAT,DEU,Qatar,Germany,9,0,0,0,0,0,0
+2003,ROU,DEU,Romania,Germany,4053,12,0,0,0,0,0
+2003,ZAF,DEU,South Africa,Germany,97,0,0,0,0,0,0
+2003,RUS,DEU,Russian Federation,Germany,45568,2440,0,0,0,0,0
+2003,RWA,DEU,Rwanda,Germany,529,23,0,0,0,0,0
+2003,SLV,DEU,El Salvador,Germany,35,0,0,0,0,0,0
+2003,SAU,DEU,Saudi Arabia,Germany,70,0,0,0,0,0,0
+2003,SEN,DEU,Senegal,Germany,148,0,0,0,0,0,0
+2003,SGP,DEU,Singapore,Germany,5,0,0,0,0,0,0
+2003,SLE,DEU,Sierra Leone,Germany,1836,108,0,0,0,0,0
+2003,SOM,DEU,Somalia,Germany,3693,125,0,0,0,0,0
+2003,ESP,DEU,Spain,Germany,40,0,0,0,0,0,0
+2003,SRB,DEU,Serbia,Germany,168980,2585,0,0,0,0,0
+2003,VNM,DEU,Viet Nam,Germany,25357,456,0,0,0,0,0
+2003,STA,DEU,Stateless,Germany,6461,48,0,0,0,0,0
+2003,STP,DEU,Sao Tome and Principe,Germany,5,0,0,0,0,0,0
+2003,SDN,DEU,Sudan,Germany,1312,119,0,0,0,0,0
+2003,SVK,DEU,Slovakia,Germany,386,58,0,0,0,0,0
+2003,SVN,DEU,Slovenia,Germany,123,0,0,0,0,0,0
+2003,SWE,DEU,Sweden,Germany,19,0,0,0,0,0,0
+2003,CHE,DEU,Switzerland,Germany,12,0,0,0,0,0,0
+2003,SYR,DEU,Syrian Arab Republic,Germany,15745,703,0,0,0,0,0
+2003,TZA,DEU,United Republic of Tanzania,Germany,37,11,0,0,0,0,0
+2003,THA,DEU,Thailand,Germany,220,0,0,0,0,0,0
+2003,TJK,DEU,Tajikistan,Germany,248,7,0,0,0,0,0
+2003,TKM,DEU,Turkmenistan,Germany,551,23,0,0,0,0,0
+2003,TGO,DEU,Togo,Germany,5778,276,0,0,0,0,0
+2003,TON,DEU,Tonga,Germany,11,0,0,0,0,0,0
+2003,TTO,DEU,Trinidad and Tobago,Germany,5,0,0,0,0,0,0
+2003,TUN,DEU,Tunisia,Germany,1033,31,0,0,0,0,0
+2003,TUR,DEU,Türkiye,Germany,140702,3096,0,0,0,0,0
+2003,ARE,DEU,United Arab Emirates,Germany,6,0,0,0,0,0,0
+2003,UGA,DEU,Uganda,Germany,365,49,0,0,0,0,0
+2003,UKN,DEU,Various / unknown,Germany,104531,103547,0,0,0,0,0
+2003,UKR,DEU,Ukraine,Germany,57309,82,0,0,0,0,0
+2003,URY,DEU,Uruguay,Germany,9,0,0,0,0,0,0
+2003,USA,DEU,United States of America,Germany,204,0,0,0,0,0,0
+2003,UZB,DEU,Uzbekistan,Germany,3229,27,0,0,0,0,0
+2003,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,31,0,0,0,0,0,0
+2003,YEM,DEU,Yemen,Germany,494,23,0,0,0,0,0
+2003,ZMB,DEU,Zambia,Germany,11,0,0,0,0,0,0
+2003,ZWE,DEU,Zimbabwe,Germany,38,47,0,0,0,0,0
+2004,AFG,DEU,Afghanistan,Germany,38576,505,0,0,0,0,0
+2004,ALB,DEU,Albania,Germany,1604,50,0,0,0,0,0
+2004,DZA,DEU,Algeria,Germany,3339,153,0,0,0,0,0
+2004,AGO,DEU,Angola,Germany,3272,79,0,0,0,0,0
+2004,ATG,DEU,Antigua and Barbuda,Germany,6,0,0,0,0,0,0
+2004,EGY,DEU,Egypt,Germany,844,21,0,0,0,0,0
+2004,ARG,DEU,Argentina,Germany,29,0,0,0,0,0,0
+2004,ARM,DEU,Armenia,Germany,4856,202,0,0,0,0,0
+2004,AUS,DEU,Australia,Germany,11,0,0,0,0,0,0
+2004,AUT,DEU,Austria,Germany,44,0,0,0,0,0,0
+2004,AZE,DEU,Azerbaijan,Germany,9150,493,0,0,0,0,0
+2004,BHR,DEU,Bahrain,Germany,6,0,0,0,0,0,0
+2004,BRB,DEU,Barbados,Germany,5,0,0,0,0,0,0
+2004,BDI,DEU,Burundi,Germany,283,11,0,0,0,0,0
+2004,BEL,DEU,Belgium,Germany,20,0,0,0,0,0,0
+2004,BEN,DEU,Benin,Germany,228,7,0,0,0,0,0
+2004,BGD,DEU,Bangladesh,Germany,540,18,0,0,0,0,0
+2004,BTN,DEU,Bhutan,Germany,202,5,0,0,0,0,0
+2004,BFA,DEU,Burkina Faso,Germany,409,22,0,0,0,0,0
+2004,BLR,DEU,Belarus,Germany,3281,75,0,0,0,0,0
+2004,BOL,DEU,Bolivia (Plurinational State of),Germany,58,0,0,0,0,0,0
+2004,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2004,BRA,DEU,Brazil,Germany,154,0,0,0,0,0,0
+2004,BIH,DEU,Bosnia and Herzegovina,Germany,30083,168,0,0,0,0,0
+2004,BGR,DEU,Bulgaria,Germany,792,64,0,0,0,0,0
+2004,KHM,DEU,Cambodia,Germany,185,5,0,0,0,0,0
+2004,CAN,DEU,Canada,Germany,35,0,0,0,0,0,0
+2004,CAF,DEU,Central African Republic,Germany,22,0,0,0,0,0,0
+2004,TCD,DEU,Chad,Germany,37,0,0,0,0,0,0
+2004,CHN,DEU,China,Germany,6914,221,0,0,0,0,0
+2004,CHL,DEU,Chile,Germany,718,0,0,0,0,0,0
+2004,CMR,DEU,Cameroon,Germany,2138,252,0,0,0,0,0
+2004,COG,DEU,Congo,Germany,858,20,0,0,0,0,0
+2004,COD,DEU,Democratic Republic of the Congo,Germany,6668,210,0,0,0,0,0
+2004,COM,DEU,Comoros,Germany,6,0,0,0,0,0,0
+2004,COL,DEU,Colombia,Germany,199,10,0,0,0,0,0
+2004,CRI,DEU,Costa Rica,Germany,8,0,0,0,0,0,0
+2004,CUB,DEU,Cuba,Germany,393,7,0,0,0,0,0
+2004,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2004,CZE,DEU,Czechia,Germany,3743,0,0,0,0,0,0
+2004,DNK,DEU,Denmark,Germany,5,0,0,0,0,0,0
+2004,DJI,DEU,Djibouti,Germany,6,0,0,0,0,0,0
+2004,DOM,DEU,Dominican Republic,Germany,44,0,0,0,0,0,0
+2004,ECU,DEU,Ecuador,Germany,98,0,0,0,0,0,0
+2004,GNQ,DEU,Equatorial Guinea,Germany,43,0,0,0,0,0,0
+2004,ERI,DEU,Eritrea,Germany,2974,234,0,0,0,0,0
+2004,EST,DEU,Estonia,Germany,533,0,0,0,0,0,0
+2004,ETH,DEU,Ethiopia,Germany,6669,124,0,0,0,0,0
+2004,FRA,DEU,France,Germany,58,0,0,0,0,0,0
+2004,GAB,DEU,Gabon,Germany,19,5,0,0,0,0,0
+2004,GMB,DEU,Gambia,Germany,120,32,0,0,0,0,0
+2004,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,52,0,0,0,0,0,0
+2004,GEO,DEU,Georgia,Germany,2639,167,0,0,0,0,0
+2004,GHA,DEU,Ghana,Germany,1491,47,0,0,0,0,0
+2004,GNB,DEU,Guinea-Bissau,Germany,51,7,0,0,0,0,0
+2004,GRC,DEU,Greece,Germany,200,0,0,0,0,0,0
+2004,GIN,DEU,Guinea,Germany,891,81,0,0,0,0,0
+2004,HTI,DEU,Haiti,Germany,17,7,0,0,0,0,0
+2004,HND,DEU,Honduras,Germany,13,0,0,0,0,0,0
+2004,HRV,DEU,Croatia,Germany,2900,5,0,0,0,0,0
+2004,HUN,DEU,Hungary,Germany,1640,5,0,0,0,0,0
+2004,ISL,DEU,Iceland,Germany,8,0,0,0,0,0,0
+2004,CIV,DEU,Côte d'Ivoire,Germany,627,73,0,0,0,0,0
+2004,IND,DEU,India,Germany,3182,199,0,0,0,0,0
+2004,IDN,DEU,Indonesia,Germany,77,7,0,0,0,0,0
+2004,IRL,DEU,Ireland,Germany,5,0,0,0,0,0,0
+2004,IRN,DEU,Iran (Islamic Republic of),Germany,39904,861,0,0,0,0,0
+2004,IRQ,DEU,Iraq,Germany,68071,844,0,0,0,0,0
+2004,ISR,DEU,Israel,Germany,373,17,0,0,0,0,0
+2004,ITA,DEU,Italy,Germany,180,0,0,0,0,0,0
+2004,JAM,DEU,Jamaica,Germany,15,0,0,0,0,0,0
+2004,JOR,DEU,Jordan,Germany,572,22,0,0,0,0,0
+2004,JPN,DEU,Japan,Germany,9,0,0,0,0,0,0
+2004,KAZ,DEU,Kazakhstan,Germany,3524,12,0,0,0,0,0
+2004,KEN,DEU,Kenya,Germany,217,7,0,0,0,0,0
+2004,KGZ,DEU,Kyrgyzstan,Germany,2275,14,0,0,0,0,0
+2004,KOR,DEU,Republic of Korea,Germany,137,0,0,0,0,0,0
+2004,PRK,DEU,Democratic People's Republic of Korea,Germany,276,26,0,0,0,0,0
+2004,KWT,DEU,Kuwait,Germany,30,0,0,0,0,0,0
+2004,LAO,DEU,Lao People's Democratic Republic,Germany,315,0,0,0,0,0,0
+2004,LBR,DEU,Liberia,Germany,788,205,0,0,0,0,0
+2004,LBY,DEU,Libya,Germany,651,46,0,0,0,0,0
+2004,LBN,DEU,Lebanon,Germany,17302,103,0,0,0,0,0
+2004,LSO,DEU,Lesotho,Germany,5,0,0,0,0,0,0
+2004,LKA,DEU,Sri Lanka,Germany,12850,110,0,0,0,0,0
+2004,LTU,DEU,Lithuania,Germany,1204,0,0,0,0,0,0
+2004,LVA,DEU,Latvia,Germany,2202,5,0,0,0,0,0
+2004,MDG,DEU,Madagascar,Germany,7,0,0,0,0,0,0
+2004,MRT,DEU,Mauritania,Germany,68,5,0,0,0,0,0
+2004,MKD,DEU,North Macedonia,Germany,2971,81,0,0,0,0,0
+2004,MDA,DEU,Republic of Moldova,Germany,5509,15,0,0,0,0,0
+2004,MEX,DEU,Mexico,Germany,9,0,0,0,0,0,0
+2004,MLI,DEU,Mali,Germany,180,5,0,0,0,0,0
+2004,MYS,DEU,Malaysia,Germany,25,5,0,0,0,0,0
+2004,MWI,DEU,Malawi,Germany,11,0,0,0,0,0,0
+2004,MNG,DEU,Mongolia,Germany,167,15,0,0,0,0,0
+2004,MAR,DEU,Morocco,Germany,925,44,0,0,0,0,0
+2004,MOZ,DEU,Mozambique,Germany,62,0,0,0,0,0,0
+2004,MUS,DEU,Mauritius,Germany,5,0,0,0,0,0,0
+2004,MMR,DEU,Myanmar,Germany,453,29,0,0,0,0,0
+2004,NAM,DEU,Namibia,Germany,9,0,0,0,0,0,0
+2004,NPL,DEU,Nepal,Germany,483,65,0,0,0,0,0
+2004,NLD,DEU,Netherlands (Kingdom of the),Germany,40,0,0,0,0,0,0
+2004,NER,DEU,Niger,Germany,402,10,0,0,0,0,0
+2004,NIC,DEU,Nicaragua,Germany,6,0,0,0,0,0,0
+2004,NGA,DEU,Nigeria,Germany,1607,195,0,0,0,0,0
+2004,NOR,DEU,Norway,Germany,5,0,0,0,0,0,0
+2004,OMN,DEU,Oman,Germany,5,0,0,0,0,0,0
+2004,PAK,DEU,Pakistan,Germany,8656,244,0,0,0,0,0
+2004,PAN,DEU,Panama,Germany,5,0,0,0,0,0,0
+2004,PRY,DEU,Paraguay,Germany,11,0,0,0,0,0,0
+2004,PER,DEU,Peru,Germany,283,0,0,0,0,0,0
+2004,PHL,DEU,Philippines,Germany,100,0,0,0,0,0,0
+2004,POL,DEU,Poland,Germany,9292,5,0,0,0,0,0
+2004,PRT,DEU,Portugal,Germany,36,0,0,0,0,0,0
+2004,QAT,DEU,Qatar,Germany,5,0,0,0,0,0,0
+2004,ROU,DEU,Romania,Germany,3139,24,0,0,0,0,0
+2004,ZAF,DEU,South Africa,Germany,71,0,0,0,0,0,0
+2004,RUS,DEU,Russian Federation,Germany,45030,2125,0,0,0,0,0
+2004,RWA,DEU,Rwanda,Germany,496,23,0,0,0,0,0
+2004,SLV,DEU,El Salvador,Germany,29,0,0,0,0,0,0
+2004,SAU,DEU,Saudi Arabia,Germany,120,0,0,0,0,0,0
+2004,SEN,DEU,Senegal,Germany,61,5,0,0,0,0,0
+2004,SYC,DEU,Seychelles,Germany,5,0,0,0,0,0,0
+2004,SGP,DEU,Singapore,Germany,5,0,0,0,0,0,0
+2004,SLE,DEU,Sierra Leone,Germany,1426,58,0,0,0,0,0
+2004,SOM,DEU,Somalia,Germany,3423,116,0,0,0,0,0
+2004,ESP,DEU,Spain,Germany,38,0,0,0,0,0,0
+2004,SRB,DEU,Serbia,Germany,142681,1601,0,0,0,0,0
+2004,VNM,DEU,Viet Nam,Germany,21006,255,0,0,0,0,0
+2004,STA,DEU,Stateless,Germany,5848,31,0,0,10619,0,0
+2004,SDN,DEU,Sudan,Germany,1115,253,0,0,0,0,0
+2004,SVK,DEU,Slovakia,Germany,336,17,0,0,0,0,0
+2004,SVN,DEU,Slovenia,Germany,94,0,0,0,0,0,0
+2004,SWE,DEU,Sweden,Germany,20,0,0,0,0,0,0
+2004,CHE,DEU,Switzerland,Germany,6,0,0,0,0,0,0
+2004,SYR,DEU,Syrian Arab Republic,Germany,16184,475,0,0,0,0,0
+2004,TZA,DEU,United Republic of Tanzania,Germany,41,0,0,0,0,0,0
+2004,THA,DEU,Thailand,Germany,194,0,0,0,0,0,0
+2004,TJK,DEU,Tajikistan,Germany,190,0,0,0,0,0,0
+2004,TKM,DEU,Turkmenistan,Germany,520,5,0,0,0,0,0
+2004,TGO,DEU,Togo,Germany,5579,168,0,0,0,0,0
+2004,TON,DEU,Tonga,Germany,5,0,0,0,0,0,0
+2004,TUN,DEU,Tunisia,Germany,982,48,0,0,0,0,0
+2004,TUR,DEU,Türkiye,Germany,128419,1917,0,0,0,0,0
+2004,ARE,DEU,United Arab Emirates,Germany,45,0,0,0,0,0,0
+2004,UGA,DEU,Uganda,Germany,354,25,0,0,0,0,0
+2004,UKN,DEU,Various / unknown,Germany,110857,72183,0,0,0,0,0
+2004,UKR,DEU,Ukraine,Germany,57693,84,0,0,0,0,0
+2004,URY,DEU,Uruguay,Germany,11,0,0,0,0,0,0
+2004,USA,DEU,United States of America,Germany,192,0,0,0,0,0,0
+2004,UZB,DEU,Uzbekistan,Germany,3432,24,0,0,0,0,0
+2004,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,29,0,0,0,0,0,0
+2004,YEM,DEU,Yemen,Germany,542,18,0,0,0,0,0
+2004,ZMB,DEU,Zambia,Germany,13,0,0,0,0,0,0
+2004,ZWE,DEU,Zimbabwe,Germany,58,88,0,0,0,0,0
+2005,AFG,DEU,Afghanistan,Germany,31055,5081,0,0,0,0,0
+2005,ALB,DEU,Albania,Germany,3036,187,0,0,0,0,0
+2005,DZA,DEU,Algeria,Germany,5385,541,0,0,0,0,0
+2005,AND,DEU,Andorra,Germany,5,0,0,0,0,0,0
+2005,AGO,DEU,Angola,Germany,3753,623,0,0,0,0,0
+2005,EGY,DEU,Egypt,Germany,1277,75,0,0,0,0,0
+2005,ARG,DEU,Argentina,Germany,12,0,0,0,0,0,0
+2005,ARM,DEU,Armenia,Germany,3943,1085,0,0,0,0,0
+2005,AUS,DEU,Australia,Germany,41,0,0,0,0,0,0
+2005,AUT,DEU,Austria,Germany,62,0,0,0,0,0,0
+2005,AZE,DEU,Azerbaijan,Germany,6668,2541,0,0,0,0,0
+2005,BDI,DEU,Burundi,Germany,178,66,0,0,0,0,0
+2005,BEL,DEU,Belgium,Germany,54,0,0,0,0,0,0
+2005,BEN,DEU,Benin,Germany,298,69,0,0,0,0,0
+2005,BGD,DEU,Bangladesh,Germany,1438,169,0,0,0,0,0
+2005,BTN,DEU,Bhutan,Germany,123,22,0,0,0,0,0
+2005,BFA,DEU,Burkina Faso,Germany,401,80,0,0,0,0,0
+2005,BLR,DEU,Belarus,Germany,3218,184,0,0,0,0,0
+2005,BOL,DEU,Bolivia (Plurinational State of),Germany,22,0,0,0,0,0,0
+2005,BRA,DEU,Brazil,Germany,12,0,0,0,0,0,0
+2005,BIH,DEU,Bosnia and Herzegovina,Germany,9223,888,0,0,0,0,0
+2005,BGR,DEU,Bulgaria,Germany,2651,159,0,0,0,0,0
+2005,KHM,DEU,Cambodia,Germany,181,13,0,0,0,0,0
+2005,CAN,DEU,Canada,Germany,109,0,0,0,0,0,0
+2005,CAF,DEU,Central African Republic,Germany,18,5,0,0,0,0,0
+2005,TCD,DEU,Chad,Germany,46,17,0,0,0,0,0
+2005,CHN,DEU,China,Germany,3892,976,0,0,0,0,0
+2005,CHL,DEU,Chile,Germany,488,0,0,0,0,0,0
+2005,CMR,DEU,Cameroon,Germany,1841,948,0,0,0,0,0
+2005,COG,DEU,Congo,Germany,697,202,0,0,0,0,0
+2005,COD,DEU,Democratic Republic of the Congo,Germany,6280,1210,0,0,0,0,0
+2005,COL,DEU,Colombia,Germany,227,117,0,0,0,0,0
+2005,CUB,DEU,Cuba,Germany,513,66,0,0,0,0,0
+2005,CZE,DEU,Czechia,Germany,3016,14,0,0,0,0,0
+2005,DNK,DEU,Denmark,Germany,10,0,0,0,0,0,0
+2005,DOM,DEU,Dominican Republic,Germany,7,0,0,0,0,0,0
+2005,ECU,DEU,Ecuador,Germany,91,7,0,0,0,0,0
+2005,GNQ,DEU,Equatorial Guinea,Germany,35,0,0,0,0,0,0
+2005,ERI,DEU,Eritrea,Germany,2746,1135,0,0,0,0,0
+2005,EST,DEU,Estonia,Germany,437,5,0,0,0,0,0
+2005,ETH,DEU,Ethiopia,Germany,5146,726,0,0,0,0,0
+2005,FIN,DEU,Finland,Germany,5,0,0,0,0,0,0
+2005,FRA,DEU,France,Germany,241,5,0,0,0,0,0
+2005,GAB,DEU,Gabon,Germany,16,10,0,0,0,0,0
+2005,GMB,DEU,Gambia,Germany,1041,111,0,0,0,0,0
+2005,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,42,0,0,0,0,0,0
+2005,GEO,DEU,Georgia,Germany,2664,547,0,0,0,0,0
+2005,GHA,DEU,Ghana,Germany,7136,385,0,0,0,0,0
+2005,GNB,DEU,Guinea-Bissau,Germany,76,36,0,0,0,0,0
+2005,GRC,DEU,Greece,Germany,307,0,0,0,0,0,0
+2005,GIN,DEU,Guinea,Germany,723,424,0,0,0,0,0
+2005,HTI,DEU,Haiti,Germany,7,7,0,0,0,0,0
+2005,HRV,DEU,Croatia,Germany,2784,42,0,0,0,0,0
+2005,HUN,DEU,Hungary,Germany,2398,10,0,0,0,0,0
+2005,ISL,DEU,Iceland,Germany,5,0,0,0,0,0,0
+2005,CIV,DEU,Côte d'Ivoire,Germany,813,287,0,0,0,0,0
+2005,IND,DEU,India,Germany,5947,704,0,0,0,0,0
+2005,IDN,DEU,Indonesia,Germany,26,8,0,0,0,0,0
+2005,IRL,DEU,Ireland,Germany,18,0,0,0,0,0,0
+2005,IRN,DEU,Iran (Islamic Republic of),Germany,24016,4883,0,0,0,0,0
+2005,IRQ,DEU,Iraq,Germany,52922,5690,0,0,0,0,0
+2005,ISR,DEU,Israel,Germany,160,59,0,0,0,0,0
+2005,ITA,DEU,Italy,Germany,204,0,0,0,0,0,0
+2005,JAM,DEU,Jamaica,Germany,5,0,0,0,0,0,0
+2005,JOR,DEU,Jordan,Germany,1032,102,0,0,0,0,0
+2005,KAZ,DEU,Kazakhstan,Germany,1812,72,0,0,0,0,0
+2005,KEN,DEU,Kenya,Germany,290,120,0,0,0,0,0
+2005,KGZ,DEU,Kyrgyzstan,Germany,1961,48,0,0,0,0,0
+2005,KOR,DEU,Republic of Korea,Germany,66,5,0,0,0,0,0
+2005,PRK,DEU,Democratic People's Republic of Korea,Germany,193,42,0,0,0,0,0
+2005,KWT,DEU,Kuwait,Germany,12,5,0,0,0,0,0
+2005,LAO,DEU,Lao People's Democratic Republic,Germany,246,6,0,0,0,0,0
+2005,LBR,DEU,Liberia,Germany,744,287,0,0,0,0,0
+2005,LBY,DEU,Libya,Germany,353,108,0,0,0,0,0
+2005,LBN,DEU,Lebanon,Germany,15619,775,0,0,0,0,0
+2005,LKA,DEU,Sri Lanka,Germany,15304,542,0,0,0,0,0
+2005,LTU,DEU,Lithuania,Germany,1129,9,0,0,0,0,0
+2005,LVA,DEU,Latvia,Germany,1869,5,0,0,0,0,0
+2005,MDG,DEU,Madagascar,Germany,5,0,0,0,0,0,0
+2005,MRT,DEU,Mauritania,Germany,57,10,0,0,0,0,0
+2005,MKD,DEU,North Macedonia,Germany,6539,293,0,0,0,0,0
+2005,MDA,DEU,Republic of Moldova,Germany,5466,75,0,0,0,0,0
+2005,MEX,DEU,Mexico,Germany,0,5,0,0,0,0,0
+2005,MLI,DEU,Mali,Germany,134,28,0,0,0,0,0
+2005,MYS,DEU,Malaysia,Germany,21,5,0,0,0,0,0
+2005,MNG,DEU,Mongolia,Germany,193,43,0,0,0,0,0
+2005,MAR,DEU,Morocco,Germany,2491,174,0,0,0,0,0
+2005,MOZ,DEU,Mozambique,Germany,70,5,0,0,0,0,0
+2005,MUS,DEU,Mauritius,Germany,5,0,0,0,0,0,0
+2005,MMR,DEU,Myanmar,Germany,331,227,0,0,0,0,0
+2005,NAM,DEU,Namibia,Germany,8,0,0,0,0,0,0
+2005,NPL,DEU,Nepal,Germany,530,242,0,0,0,0,0
+2005,NLD,DEU,Netherlands (Kingdom of the),Germany,150,5,0,0,0,0,0
+2005,NER,DEU,Niger,Germany,326,88,0,0,0,0,0
+2005,NIC,DEU,Nicaragua,Germany,6,0,0,0,0,0,0
+2005,NGA,DEU,Nigeria,Germany,5984,1170,0,0,0,0,0
+2005,NOR,DEU,Norway,Germany,12,0,0,0,0,0,0
+2005,NZL,DEU,New Zealand,Germany,5,0,0,0,0,0,0
+2005,PAK,DEU,Pakistan,Germany,10815,1153,0,0,0,0,0
+2005,PAN,DEU,Panama,Germany,5,0,0,0,0,0,0
+2005,PRY,DEU,Paraguay,Germany,9,0,0,0,0,0,0
+2005,PER,DEU,Peru,Germany,272,6,0,0,0,0,0
+2005,PHL,DEU,Philippines,Germany,70,5,0,0,0,0,0
+2005,POL,DEU,Poland,Germany,18265,8,0,0,0,0,0
+2005,PRT,DEU,Portugal,Germany,63,0,0,0,0,0,0
+2005,ROU,DEU,Romania,Germany,8496,44,0,0,0,0,0
+2005,ZAF,DEU,South Africa,Germany,64,5,0,0,0,0,0
+2005,RUS,DEU,Russian Federation,Germany,41732,4900,0,0,0,0,0
+2005,RWA,DEU,Rwanda,Germany,272,82,0,0,0,0,0
+2005,SLV,DEU,El Salvador,Germany,18,0,0,0,0,0,0
+2005,SAU,DEU,Saudi Arabia,Germany,5,5,0,0,0,0,0
+2005,SEN,DEU,Senegal,Germany,311,21,0,0,0,0,0
+2005,SLE,DEU,Sierra Leone,Germany,1166,331,0,0,0,0,0
+2005,SOM,DEU,Somalia,Germany,2903,284,0,0,0,0,0
+2005,ESP,DEU,Spain,Germany,39,0,0,0,0,0,0
+2005,SRB,DEU,Serbia,Germany,99789,11968,0,0,0,0,0
+2005,VNM,DEU,Viet Nam,Germany,30786,1146,0,0,0,0,0
+2005,STA,DEU,Stateless,Germany,4090,196,0,0,9476,0,0
+2005,SDN,DEU,Sudan,Germany,851,373,0,0,0,0,0
+2005,SVK,DEU,Slovakia,Germany,511,54,0,0,0,0,0
+2005,SVN,DEU,Slovenia,Germany,125,0,0,0,0,0,0
+2005,SWE,DEU,Sweden,Germany,64,0,0,0,0,0,0
+2005,CHE,DEU,Switzerland,Germany,9,0,0,0,0,0,0
+2005,SYR,DEU,Syrian Arab Republic,Germany,10469,2888,0,0,0,0,0
+2005,TZA,DEU,United Republic of Tanzania,Germany,28,15,0,0,0,0,0
+2005,THA,DEU,Thailand,Germany,67,5,0,0,0,0,0
+2005,TJK,DEU,Tajikistan,Germany,152,22,0,0,0,0,0
+2005,TKM,DEU,Turkmenistan,Germany,460,32,0,0,0,0,0
+2005,TGO,DEU,Togo,Germany,5988,1290,0,0,0,0,0
+2005,TUN,DEU,Tunisia,Germany,1537,130,0,0,0,0,0
+2005,TUR,DEU,Türkiye,Germany,122891,8367,0,0,0,0,0
+2005,ARE,DEU,United Arab Emirates,Germany,5,0,0,0,0,0,0
+2005,UGA,DEU,Uganda,Germany,363,116,0,0,0,0,0
+2005,UKN,DEU,Various / unknown,Germany,14088,2726,0,0,0,0,0
+2005,UKR,DEU,Ukraine,Germany,56276,195,0,0,0,0,0
+2005,URY,DEU,Uruguay,Germany,9,0,0,0,0,0,0
+2005,USA,DEU,United States of America,Germany,87,0,0,0,0,0,0
+2005,UZB,DEU,Uzbekistan,Germany,3353,70,0,0,0,0,0
+2005,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,6,0,0,0,0,0,0
+2005,YEM,DEU,Yemen,Germany,296,126,0,0,0,0,0
+2005,ZMB,DEU,Zambia,Germany,9,0,0,0,0,0,0
+2005,ZWE,DEU,Zimbabwe,Germany,28,120,0,0,0,0,0
+2006,AFG,DEU,Afghanistan,Germany,21879,3999,0,0,0,0,0
+2006,ALB,DEU,Albania,Germany,963,160,0,0,0,0,0
+2006,DZA,DEU,Algeria,Germany,1248,419,0,0,0,0,0
+2006,AND,DEU,Andorra,Germany,5,0,0,0,0,0,0
+2006,AGO,DEU,Angola,Germany,2006,381,0,0,0,0,0
+2006,EGY,DEU,Egypt,Germany,617,64,0,0,0,0,0
+2006,ARG,DEU,Argentina,Germany,28,0,0,0,0,0,0
+2006,ARM,DEU,Armenia,Germany,1874,667,0,0,0,0,0
+2006,AUS,DEU,Australia,Germany,24,0,0,0,0,0,0
+2006,AUT,DEU,Austria,Germany,25,0,0,0,0,0,0
+2006,AZE,DEU,Azerbaijan,Germany,3627,1576,0,0,0,0,0
+2006,BHR,DEU,Bahrain,Germany,6,0,0,0,0,0,0
+2006,BRB,DEU,Barbados,Germany,10,0,0,0,0,0,0
+2006,BDI,DEU,Burundi,Germany,134,35,0,0,0,0,0
+2006,BEL,DEU,Belgium,Germany,9,0,0,0,0,0,0
+2006,BEN,DEU,Benin,Germany,84,30,0,0,0,0,0
+2006,BGD,DEU,Bangladesh,Germany,384,185,0,0,0,0,0
+2006,BHS,DEU,Bahamas,Germany,5,0,0,0,0,0,0
+2006,BTN,DEU,Bhutan,Germany,72,23,0,0,0,0,0
+2006,BFA,DEU,Burkina Faso,Germany,91,58,0,0,0,0,0
+2006,BLR,DEU,Belarus,Germany,1524,144,0,0,0,0,0
+2006,BOL,DEU,Bolivia (Plurinational State of),Germany,76,0,0,0,0,0,0
+2006,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2006,BRA,DEU,Brazil,Germany,135,5,0,0,0,0,0
+2006,BIH,DEU,Bosnia and Herzegovina,Germany,28098,567,0,0,0,0,0
+2006,BGR,DEU,Bulgaria,Germany,1168,87,0,0,0,0,0
+2006,KHM,DEU,Cambodia,Germany,82,25,0,0,0,0,0
+2006,CAN,DEU,Canada,Germany,57,0,0,0,0,0,0
+2006,CAF,DEU,Central African Republic,Germany,12,5,0,0,0,0,0
+2006,TCD,DEU,Chad,Germany,28,15,0,0,0,0,0
+2006,CHN,DEU,China,Germany,3577,677,0,0,0,0,0
+2006,CHL,DEU,Chile,Germany,331,0,0,0,0,0,0
+2006,CMR,DEU,Cameroon,Germany,760,589,0,0,0,0,0
+2006,COG,DEU,Congo,Germany,446,128,0,0,0,0,0
+2006,COD,DEU,Democratic Republic of the Congo,Germany,3563,750,0,0,0,0,0
+2006,COL,DEU,Colombia,Germany,431,463,0,0,0,0,0
+2006,CRI,DEU,Costa Rica,Germany,31,0,0,0,0,0,0
+2006,CUB,DEU,Cuba,Germany,619,80,0,0,0,0,0
+2006,CPV,DEU,Cabo Verde,Germany,17,0,0,0,0,0,0
+2006,CZE,DEU,Czechia,Germany,1605,44,0,0,0,0,0
+2006,DNK,DEU,Denmark,Germany,5,0,0,0,0,0,0
+2006,DJI,DEU,Djibouti,Germany,5,0,0,0,0,0,0
+2006,DMA,DEU,Dominica,Germany,9,0,0,0,0,0,0
+2006,DOM,DEU,Dominican Republic,Germany,56,0,0,0,0,0,0
+2006,ECU,DEU,Ecuador,Germany,73,5,0,0,0,0,0
+2006,GNQ,DEU,Equatorial Guinea,Germany,14,0,0,0,0,0,0
+2006,ERI,DEU,Eritrea,Germany,2276,860,0,0,0,0,0
+2006,EST,DEU,Estonia,Germany,171,0,0,0,0,0,0
+2006,ETH,DEU,Ethiopia,Germany,2738,705,0,0,0,0,0
+2006,FIN,DEU,Finland,Germany,5,0,0,0,0,0,0
+2006,FRA,DEU,France,Germany,23,0,0,0,0,0,0
+2006,GAB,DEU,Gabon,Germany,10,0,0,0,0,0,0
+2006,GMB,DEU,Gambia,Germany,136,138,0,0,0,0,0
+2006,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,18,0,0,0,0,0,0
+2006,GEO,DEU,Georgia,Germany,1172,326,0,0,0,0,0
+2006,GHA,DEU,Ghana,Germany,1491,305,0,0,0,0,0
+2006,GNB,DEU,Guinea-Bissau,Germany,17,20,0,0,0,0,0
+2006,GRC,DEU,Greece,Germany,52,0,0,0,0,0,0
+2006,GTM,DEU,Guatemala,Germany,24,0,0,0,0,0,0
+2006,GIN,DEU,Guinea,Germany,260,300,0,0,0,0,0
+2006,GUY,DEU,Guyana,Germany,8,0,0,0,0,0,0
+2006,HTI,DEU,Haiti,Germany,41,0,0,0,0,0,0
+2006,HND,DEU,Honduras,Germany,33,0,0,0,0,0,0
+2006,HRV,DEU,Croatia,Germany,1574,31,0,0,0,0,0
+2006,HUN,DEU,Hungary,Germany,2160,15,0,0,0,0,0
+2006,ISL,DEU,Iceland,Germany,27,0,0,0,0,0,0
+2006,CIV,DEU,Côte d'Ivoire,Germany,239,183,0,0,0,0,0
+2006,IND,DEU,India,Germany,2040,548,0,0,0,0,0
+2006,IDN,DEU,Indonesia,Germany,460,5,0,0,0,0,0
+2006,IRN,DEU,Iran (Islamic Republic of),Germany,13213,3924,0,0,0,0,0
+2006,IRQ,DEU,Iraq,Germany,36204,5228,0,0,0,0,0
+2006,ISR,DEU,Israel,Germany,199,109,0,0,0,0,0
+2006,ITA,DEU,Italy,Germany,82,0,0,0,0,0,0
+2006,JAM,DEU,Jamaica,Germany,75,0,0,0,0,0,0
+2006,JOR,DEU,Jordan,Germany,596,73,0,0,0,0,0
+2006,JPN,DEU,Japan,Germany,146,0,0,0,0,0,0
+2006,KAZ,DEU,Kazakhstan,Germany,3799,29,0,0,0,0,0
+2006,KEN,DEU,Kenya,Germany,343,147,0,0,0,0,0
+2006,KGZ,DEU,Kyrgyzstan,Germany,867,19,0,0,0,0,0
+2006,KIR,DEU,Kiribati,Germany,8,0,0,0,0,0,0
+2006,KOR,DEU,Republic of Korea,Germany,1109,0,0,0,0,0,0
+2006,PRK,DEU,Democratic People's Republic of Korea,Germany,238,21,0,0,0,0,0
+2006,KWT,DEU,Kuwait,Germany,114,0,0,0,0,0,0
+2006,LAO,DEU,Lao People's Democratic Republic,Germany,151,0,0,0,0,0,0
+2006,LBR,DEU,Liberia,Germany,226,75,0,0,0,0,0
+2006,LBY,DEU,Libya,Germany,338,69,0,0,0,0,0
+2006,LCA,DEU,Saint Lucia,Germany,7,0,0,0,0,0,0
+2006,LBN,DEU,Lebanon,Germany,9335,960,0,0,0,0,0
+2006,LSO,DEU,Lesotho,Germany,5,0,0,0,0,0,0
+2006,LKA,DEU,Sri Lanka,Germany,5831,446,0,0,0,0,0
+2006,LTU,DEU,Lithuania,Germany,564,0,0,0,0,0,0
+2006,LVA,DEU,Latvia,Germany,537,7,0,0,0,0,0
+2006,MDG,DEU,Madagascar,Germany,22,0,0,0,0,0,0
+2006,MRT,DEU,Mauritania,Germany,32,0,0,0,0,0,0
+2006,MKD,DEU,North Macedonia,Germany,6013,253,0,0,0,0,0
+2006,MDA,DEU,Republic of Moldova,Germany,2170,56,0,0,0,0,0
+2006,MEX,DEU,Mexico,Germany,24,5,0,0,0,0,0
+2006,MLI,DEU,Mali,Germany,42,18,0,0,0,0,0
+2006,MYS,DEU,Malaysia,Germany,192,0,0,0,0,0,0
+2006,MWI,DEU,Malawi,Germany,5,0,0,0,0,0,0
+2006,MNE,DEU,Montenegro,Germany,131,98,0,0,0,0,0
+2006,MNG,DEU,Mongolia,Germany,202,44,0,0,0,0,0
+2006,MAR,DEU,Morocco,Germany,4186,180,0,0,0,0,0
+2006,MOZ,DEU,Mozambique,Germany,193,0,0,0,0,0,0
+2006,MLT,DEU,Malta,Germany,20,0,0,0,0,0,0
+2006,MUS,DEU,Mauritius,Germany,50,0,0,0,0,0,0
+2006,MMR,DEU,Myanmar,Germany,486,121,0,0,0,0,0
+2006,NAM,DEU,Namibia,Germany,21,0,0,0,0,0,0
+2006,NPL,DEU,Nepal,Germany,224,147,0,0,0,0,0
+2006,NLD,DEU,Netherlands (Kingdom of the),Germany,26,0,0,0,0,0,0
+2006,NER,DEU,Niger,Germany,92,49,0,0,0,0,0
+2006,NIC,DEU,Nicaragua,Germany,25,0,0,0,0,0,0
+2006,NGA,DEU,Nigeria,Germany,1096,858,0,0,0,0,0
+2006,NZL,DEU,New Zealand,Germany,7,0,0,0,0,0,0
+2006,OMN,DEU,Oman,Germany,26,0,0,0,0,0,0
+2006,PAK,DEU,Pakistan,Germany,3580,974,0,0,0,0,0
+2006,PAN,DEU,Panama,Germany,14,0,0,0,0,0,0
+2006,PRY,DEU,Paraguay,Germany,52,0,0,0,0,0,0
+2006,PER,DEU,Peru,Germany,465,5,0,0,0,0,0
+2006,PHL,DEU,Philippines,Germany,134,0,0,0,0,0,0
+2006,POL,DEU,Poland,Germany,12182,11,0,0,0,0,0
+2006,PRT,DEU,Portugal,Germany,7,0,0,0,0,0,0
+2006,QAT,DEU,Qatar,Germany,41,0,0,0,0,0,0
+2006,ROU,DEU,Romania,Germany,3897,27,0,0,0,0,0
+2006,ZAF,DEU,South Africa,Germany,270,5,0,0,0,0,0
+2006,RUS,DEU,Russian Federation,Germany,25346,3521,0,0,0,0,0
+2006,RWA,DEU,Rwanda,Germany,173,76,0,0,0,0,0
+2006,SLV,DEU,El Salvador,Germany,24,0,0,0,0,0,0
+2006,SAU,DEU,Saudi Arabia,Germany,410,0,0,0,0,0,0
+2006,SEN,DEU,Senegal,Germany,121,23,0,0,0,0,0
+2006,SYC,DEU,Seychelles,Germany,11,0,0,0,0,0,0
+2006,SGP,DEU,Singapore,Germany,63,0,0,0,0,0,0
+2006,SLE,DEU,Sierra Leone,Germany,356,286,0,0,0,0,0
+2006,SOM,DEU,Somalia,Germany,2165,269,0,0,0,0,0
+2006,ESP,DEU,Spain,Germany,2431,0,0,0,0,0,0
+2006,SRB,DEU,Serbia,Germany,75210,7685,0,0,0,0,0
+2006,VNM,DEU,Viet Nam,Germany,11678,880,0,0,0,0,0
+2006,STA,DEU,Stateless,Germany,3429,144,0,0,10013,0,0
+2006,SDN,DEU,Sudan,Germany,392,216,0,0,0,0,0
+2006,SVK,DEU,Slovakia,Germany,459,126,0,0,0,0,0
+2006,SVN,DEU,Slovenia,Germany,1734,0,0,0,0,0,0
+2006,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2006,CHE,DEU,Switzerland,Germany,28,0,0,0,0,0,0
+2006,SYR,DEU,Syrian Arab Republic,Germany,5844,2117,0,0,0,0,0
+2006,TZA,DEU,United Republic of Tanzania,Germany,44,0,0,0,0,0,0
+2006,THA,DEU,Thailand,Germany,2867,0,0,0,0,0,0
+2006,TJK,DEU,Tajikistan,Germany,97,15,0,0,0,0,0
+2006,TKM,DEU,Turkmenistan,Germany,181,31,0,0,0,0,0
+2006,TGO,DEU,Togo,Germany,3008,645,0,0,0,0,0
+2006,TON,DEU,Tonga,Germany,5,0,0,0,0,0,0
+2006,TTO,DEU,Trinidad and Tobago,Germany,27,0,0,0,0,0,0
+2006,TUN,DEU,Tunisia,Germany,1207,129,0,0,0,0,0
+2006,TUR,DEU,Türkiye,Germany,175579,5765,0,0,0,0,0
+2006,TUV,DEU,Tuvalu,Germany,5,0,0,0,0,0,0
+2006,ARE,DEU,United Arab Emirates,Germany,232,0,0,0,0,0,0
+2006,UGA,DEU,Uganda,Germany,173,101,0,0,0,0,0
+2006,UKN,DEU,Various / unknown,Germany,72847,1858,0,0,0,0,0
+2006,UKR,DEU,Ukraine,Germany,16446,126,0,0,0,0,0
+2006,URY,DEU,Uruguay,Germany,28,0,0,0,0,0,0
+2006,USA,DEU,United States of America,Germany,349,0,0,0,0,0,0
+2006,UZB,DEU,Uzbekistan,Germany,1294,45,0,0,0,0,0
+2006,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,134,5,0,0,0,0,0
+2006,YEM,DEU,Yemen,Germany,161,88,0,0,0,0,0
+2006,ZMB,DEU,Zambia,Germany,22,0,0,0,0,0,0
+2006,ZWE,DEU,Zimbabwe,Germany,37,59,0,0,0,0,0
+2007,AFG,DEU,Afghanistan,Germany,24236,2223,0,0,0,0,0
+2007,ALB,DEU,Albania,Germany,1011,88,0,0,0,0,0
+2007,DZA,DEU,Algeria,Germany,1299,328,0,0,0,0,0
+2007,AND,DEU,Andorra,Germany,5,0,0,0,0,0,0
+2007,AGO,DEU,Angola,Germany,2408,191,0,0,0,0,0
+2007,EGY,DEU,Egypt,Germany,616,41,0,0,0,0,0
+2007,ARG,DEU,Argentina,Germany,145,5,0,0,0,0,0
+2007,ARM,DEU,Armenia,Germany,2178,489,0,0,0,0,0
+2007,AUS,DEU,Australia,Germany,57,0,0,0,0,0,0
+2007,AUT,DEU,Austria,Germany,14,0,0,0,0,0,0
+2007,AZE,DEU,Azerbaijan,Germany,4507,946,0,0,0,0,0
+2007,BHR,DEU,Bahrain,Germany,9,0,0,0,0,0,0
+2007,BRB,DEU,Barbados,Germany,9,0,0,0,0,0,0
+2007,BDI,DEU,Burundi,Germany,120,25,0,0,0,0,0
+2007,BEL,DEU,Belgium,Germany,7,0,0,0,0,0,0
+2007,BEN,DEU,Benin,Germany,97,38,0,0,0,0,0
+2007,BGD,DEU,Bangladesh,Germany,456,84,0,0,0,0,0
+2007,BHS,DEU,Bahamas,Germany,5,0,0,0,0,0,0
+2007,BTN,DEU,Bhutan,Germany,82,17,0,0,0,0,0
+2007,BFA,DEU,Burkina Faso,Germany,110,48,0,0,0,0,0
+2007,BLR,DEU,Belarus,Germany,1669,63,0,0,0,0,0
+2007,BOL,DEU,Bolivia (Plurinational State of),Germany,62,0,0,0,0,0,0
+2007,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2007,BRA,DEU,Brazil,Germany,913,0,0,0,0,0,0
+2007,BIH,DEU,Bosnia and Herzegovina,Germany,26261,319,0,0,0,0,0
+2007,BGR,DEU,Bulgaria,Germany,281,23,0,0,0,0,0
+2007,KHM,DEU,Cambodia,Germany,113,20,0,0,0,0,0
+2007,CAN,DEU,Canada,Germany,487,0,0,0,0,0,0
+2007,CAF,DEU,Central African Republic,Germany,15,0,0,0,0,0,0
+2007,TCD,DEU,Chad,Germany,33,10,0,0,0,0,0
+2007,CHN,DEU,China,Germany,3483,353,0,0,0,0,0
+2007,CHL,DEU,Chile,Germany,296,5,0,0,0,0,0
+2007,CMR,DEU,Cameroon,Germany,813,366,0,0,0,0,0
+2007,COG,DEU,Congo,Germany,511,89,0,0,0,0,0
+2007,COD,DEU,Democratic Republic of the Congo,Germany,4202,518,0,0,0,0,0
+2007,COM,DEU,Comoros,Germany,5,0,0,0,0,0,0
+2007,COL,DEU,Colombia,Germany,374,73,0,0,0,0,0
+2007,CRI,DEU,Costa Rica,Germany,26,0,0,0,0,0,0
+2007,CUB,DEU,Cuba,Germany,514,40,0,0,0,0,0
+2007,CPV,DEU,Cabo Verde,Germany,11,0,0,0,0,0,0
+2007,CZE,DEU,Czechia,Germany,164,5,0,0,0,0,0
+2007,DNK,DEU,Denmark,Germany,5,0,0,0,0,0,0
+2007,DJI,DEU,Djibouti,Germany,5,0,0,0,0,0,0
+2007,DMA,DEU,Dominica,Germany,8,0,0,0,0,0,0
+2007,DOM,DEU,Dominican Republic,Germany,198,0,0,0,0,0,0
+2007,ECU,DEU,Ecuador,Germany,160,0,0,0,0,0,0
+2007,GNQ,DEU,Equatorial Guinea,Germany,14,0,0,0,0,0,0
+2007,ERI,DEU,Eritrea,Germany,2993,436,0,0,0,0,0
+2007,EST,DEU,Estonia,Germany,81,0,0,0,0,0,0
+2007,ETH,DEU,Ethiopia,Germany,3412,403,0,0,0,0,0
+2007,FRA,DEU,France,Germany,15,0,0,0,0,0,0
+2007,GAB,DEU,Gabon,Germany,9,5,0,0,0,0,0
+2007,GMB,DEU,Gambia,Germany,115,117,0,0,0,0,0
+2007,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,23,0,0,0,0,0,0
+2007,GEO,DEU,Georgia,Germany,1385,174,0,0,0,0,0
+2007,GHA,DEU,Ghana,Germany,1309,252,0,0,0,0,0
+2007,GNB,DEU,Guinea-Bissau,Germany,19,12,0,0,0,0,0
+2007,GRC,DEU,Greece,Germany,42,0,0,0,0,0,0
+2007,GTM,DEU,Guatemala,Germany,18,0,0,0,0,0,0
+2007,GIN,DEU,Guinea,Germany,317,203,0,0,0,0,0
+2007,GUY,DEU,Guyana,Germany,8,0,0,0,0,0,0
+2007,HTI,DEU,Haiti,Germany,39,5,0,0,0,0,0
+2007,HND,DEU,Honduras,Germany,31,0,0,0,0,0,0
+2007,HRV,DEU,Croatia,Germany,17747,20,0,0,0,0,0
+2007,HUN,DEU,Hungary,Germany,1975,5,0,0,0,0,0
+2007,ISL,DEU,Iceland,Germany,5,0,0,0,0,0,0
+2007,CIV,DEU,Côte d'Ivoire,Germany,265,123,0,0,0,0,0
+2007,IND,DEU,India,Germany,1849,349,0,0,0,0,0
+2007,IDN,DEU,Indonesia,Germany,354,5,0,0,0,0,0
+2007,IRN,DEU,Iran (Islamic Republic of),Germany,15123,2463,0,0,0,0,0
+2007,IRQ,DEU,Iraq,Germany,34731,5153,0,0,0,0,0
+2007,ISR,DEU,Israel,Germany,612,29,0,0,0,0,0
+2007,ITA,DEU,Italy,Germany,62,0,0,0,0,0,0
+2007,JAM,DEU,Jamaica,Germany,64,0,0,0,0,0,0
+2007,JOR,DEU,Jordan,Germany,549,37,0,0,0,0,0
+2007,JPN,DEU,Japan,Germany,497,0,0,0,0,0,0
+2007,KAZ,DEU,Kazakhstan,Germany,2980,15,0,0,0,0,0
+2007,KEN,DEU,Kenya,Germany,284,128,0,0,0,0,0
+2007,KGZ,DEU,Kyrgyzstan,Germany,1213,19,0,0,0,0,0
+2007,KIR,DEU,Kiribati,Germany,5,0,0,0,0,0,0
+2007,KOR,DEU,Republic of Korea,Germany,857,0,0,0,0,0,0
+2007,PRK,DEU,Democratic People's Republic of Korea,Germany,204,14,0,0,0,0,0
+2007,KWT,DEU,Kuwait,Germany,116,0,0,0,0,0,0
+2007,LAO,DEU,Lao People's Democratic Republic,Germany,173,0,0,0,0,0,0
+2007,LBR,DEU,Liberia,Germany,258,33,0,0,0,0,0
+2007,LBY,DEU,Libya,Germany,470,44,0,0,0,0,0
+2007,LCA,DEU,Saint Lucia,Germany,6,0,0,0,0,0,0
+2007,LBN,DEU,Lebanon,Germany,9485,591,0,0,0,0,0
+2007,LSO,DEU,Lesotho,Germany,5,0,0,0,0,0,0
+2007,LKA,DEU,Sri Lanka,Germany,6388,562,0,0,0,0,0
+2007,LTU,DEU,Lithuania,Germany,159,6,0,0,0,0,0
+2007,LVA,DEU,Latvia,Germany,314,5,0,0,0,0,0
+2007,MDG,DEU,Madagascar,Germany,21,0,0,0,0,0,0
+2007,MRT,DEU,Mauritania,Germany,32,0,0,0,0,0,0
+2007,MKD,DEU,North Macedonia,Germany,5926,108,0,0,0,0,0
+2007,MDA,DEU,Republic of Moldova,Germany,3275,29,0,0,0,0,0
+2007,MEX,DEU,Mexico,Germany,193,0,0,0,0,0,0
+2007,MLI,DEU,Mali,Germany,42,11,0,0,0,0,0
+2007,MYS,DEU,Malaysia,Germany,139,0,0,0,0,0,0
+2007,MWI,DEU,Malawi,Germany,5,0,0,0,0,0,0
+2007,MNE,DEU,Montenegro,Germany,523,70,0,0,0,0,0
+2007,MNG,DEU,Mongolia,Germany,178,23,0,0,0,0,0
+2007,MAR,DEU,Morocco,Germany,3405,133,0,0,0,0,0
+2007,MOZ,DEU,Mozambique,Germany,174,5,0,0,0,0,0
+2007,MUS,DEU,Mauritius,Germany,40,0,0,0,0,0,0
+2007,MMR,DEU,Myanmar,Germany,607,78,0,0,0,0,0
+2007,NAM,DEU,Namibia,Germany,16,0,0,0,0,0,0
+2007,NPL,DEU,Nepal,Germany,248,55,0,0,0,0,0
+2007,NLD,DEU,Netherlands (Kingdom of the),Germany,22,5,0,0,0,0,0
+2007,NER,DEU,Niger,Germany,117,32,0,0,0,0,0
+2007,NIC,DEU,Nicaragua,Germany,19,0,0,0,0,0,0
+2007,NGA,DEU,Nigeria,Germany,1143,632,0,0,0,0,0
+2007,NZL,DEU,New Zealand,Germany,12,0,0,0,0,0,0
+2007,OMN,DEU,Oman,Germany,25,0,0,0,0,0,0
+2007,PAK,DEU,Pakistan,Germany,4298,628,0,0,0,0,0
+2007,PAN,DEU,Panama,Germany,11,0,0,0,0,0,0
+2007,PRY,DEU,Paraguay,Germany,43,0,0,0,0,0,0
+2007,PER,DEU,Peru,Germany,385,0,0,0,0,0,0
+2007,PHL,DEU,Philippines,Germany,810,5,0,0,0,0,0
+2007,POL,DEU,Poland,Germany,1438,7,0,0,0,0,0
+2007,PRT,DEU,Portugal,Germany,7,0,0,0,0,0,0
+2007,QAT,DEU,Qatar,Germany,50,0,0,0,0,0,0
+2007,ROU,DEU,Romania,Germany,1262,7,0,0,0,0,0
+2007,ZAF,DEU,South Africa,Germany,210,0,0,0,0,0,0
+2007,RUS,DEU,Russian Federation,Germany,30424,2295,0,0,0,0,0
+2007,RWA,DEU,Rwanda,Germany,186,40,0,0,0,0,0
+2007,SLV,DEU,El Salvador,Germany,22,0,0,0,0,0,0
+2007,SAU,DEU,Saudi Arabia,Germany,532,6,0,0,0,0,0
+2007,SEN,DEU,Senegal,Germany,103,13,0,0,0,0,0
+2007,SYC,DEU,Seychelles,Germany,6,0,0,0,0,0,0
+2007,SGP,DEU,Singapore,Germany,48,0,0,0,0,0,0
+2007,SLE,DEU,Sierra Leone,Germany,414,182,0,0,0,0,0
+2007,SOM,DEU,Somalia,Germany,2227,155,0,0,0,0,0
+2007,ESP,DEU,Spain,Germany,18,0,0,0,0,0,0
+2007,SRB,DEU,Serbia,Germany,91616,3975,0,0,0,0,0
+2007,VNM,DEU,Viet Nam,Germany,13222,602,0,0,0,0,0
+2007,STA,DEU,Stateless,Germany,3717,115,0,0,9091,0,0
+2007,SDN,DEU,Sudan,Germany,433,106,0,0,0,0,0
+2007,SVK,DEU,Slovakia,Germany,38,12,0,0,0,0,0
+2007,SVN,DEU,Slovenia,Germany,25,0,0,0,0,0,0
+2007,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2007,CHE,DEU,Switzerland,Germany,23,0,0,0,0,0,0
+2007,SYR,DEU,Syrian Arab Republic,Germany,6996,1414,0,0,0,0,0
+2007,TZA,DEU,United Republic of Tanzania,Germany,38,5,0,0,0,0,0
+2007,THA,DEU,Thailand,Germany,2051,0,0,0,0,0,0
+2007,TJK,DEU,Tajikistan,Germany,125,8,0,0,0,0,0
+2007,TKM,DEU,Turkmenistan,Germany,216,30,0,0,0,0,0
+2007,TGO,DEU,Togo,Germany,3246,318,0,0,0,0,0
+2007,TTO,DEU,Trinidad and Tobago,Germany,23,0,0,0,0,0,0
+2007,TUN,DEU,Tunisia,Germany,874,94,0,0,0,0,0
+2007,TUR,DEU,Türkiye,Germany,169616,3709,0,0,0,0,0
+2007,ARE,DEU,United Arab Emirates,Germany,269,0,0,0,0,0,0
+2007,UGA,DEU,Uganda,Germany,178,60,0,0,0,0,0
+2007,UKN,DEU,Various / unknown,Germany,20690,1251,0,0,0,0,0
+2007,UKR,DEU,Ukraine,Germany,19573,76,0,0,0,0,0
+2007,URY,DEU,Uruguay,Germany,22,0,0,0,0,0,0
+2007,USA,DEU,United States of America,Germany,604,5,0,0,0,0,0
+2007,UZB,DEU,Uzbekistan,Germany,1654,32,0,0,0,0,0
+2007,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,95,5,0,0,0,0,0
+2007,YEM,DEU,Yemen,Germany,242,43,0,0,0,0,0
+2007,ZMB,DEU,Zambia,Germany,18,0,0,0,0,0,0
+2007,ZWE,DEU,Zimbabwe,Germany,36,20,0,0,0,0,0
+2008,AFG,DEU,Afghanistan,Germany,25108,1729,0,0,0,1632,0
+2008,ALB,DEU,Albania,Germany,1076,95,0,0,0,0,0
+2008,DZA,DEU,Algeria,Germany,1336,387,0,0,0,0,0
+2008,AGO,DEU,Angola,Germany,2463,175,0,0,0,0,0
+2008,EGY,DEU,Egypt,Germany,607,63,0,0,0,0,0
+2008,ARG,DEU,Argentina,Germany,24,0,0,0,0,0,0
+2008,ARM,DEU,Armenia,Germany,2527,459,0,0,0,0,0
+2008,AUS,DEU,Australia,Germany,37,0,0,0,0,0,0
+2008,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2008,AZE,DEU,Azerbaijan,Germany,5315,920,0,0,0,0,0
+2008,BHR,DEU,Bahrain,Germany,15,0,0,0,0,0,0
+2008,BRB,DEU,Barbados,Germany,6,0,0,0,0,0,0
+2008,BDI,DEU,Burundi,Germany,123,19,0,0,0,0,0
+2008,BEL,DEU,Belgium,Germany,5,0,0,0,0,0,0
+2008,BEN,DEU,Benin,Germany,105,56,0,0,0,0,0
+2008,BGD,DEU,Bangladesh,Germany,475,86,0,0,0,0,0
+2008,BTN,DEU,Bhutan,Germany,98,19,0,0,0,0,0
+2008,BFA,DEU,Burkina Faso,Germany,116,54,0,0,0,0,0
+2008,BLR,DEU,Belarus,Germany,1842,59,0,0,0,0,0
+2008,BOL,DEU,Bolivia (Plurinational State of),Germany,54,0,0,0,0,0,0
+2008,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2008,BRA,DEU,Brazil,Germany,658,0,0,0,0,0,0
+2008,BIH,DEU,Bosnia and Herzegovina,Germany,24697,317,0,0,0,0,0
+2008,BGR,DEU,Bulgaria,Germany,206,16,0,0,0,0,0
+2008,KHM,DEU,Cambodia,Germany,130,19,0,0,0,0,0
+2008,CAN,DEU,Canada,Germany,63,0,0,0,0,0,0
+2008,CAF,DEU,Central African Republic,Germany,12,0,0,0,0,0,0
+2008,TCD,DEU,Chad,Germany,34,8,0,0,0,0,0
+2008,CHN,DEU,China,Germany,3613,425,0,0,0,0,0
+2008,CHL,DEU,Chile,Germany,278,5,0,0,0,0,0
+2008,CMR,DEU,Cameroon,Germany,912,360,0,0,0,0,0
+2008,COG,DEU,Congo,Germany,534,81,0,0,0,0,0
+2008,COD,DEU,Democratic Republic of the Congo,Germany,4418,476,0,0,0,0,0
+2008,COM,DEU,Comoros,Germany,5,0,0,0,0,0,0
+2008,COL,DEU,Colombia,Germany,334,36,0,0,0,0,0
+2008,CRI,DEU,Costa Rica,Germany,23,0,0,0,0,0,0
+2008,CUB,DEU,Cuba,Germany,463,30,0,0,0,0,0
+2008,CPV,DEU,Cabo Verde,Germany,10,0,0,0,0,0,0
+2008,CZE,DEU,Czechia,Germany,159,5,0,0,0,0,0
+2008,DJI,DEU,Djibouti,Germany,6,0,0,0,0,0,0
+2008,DMA,DEU,Dominica,Germany,5,0,0,0,0,0,0
+2008,DOM,DEU,Dominican Republic,Germany,148,0,0,0,0,0,0
+2008,ECU,DEU,Ecuador,Germany,154,5,0,0,0,0,0
+2008,GNQ,DEU,Equatorial Guinea,Germany,15,0,0,0,0,0,0
+2008,ERI,DEU,Eritrea,Germany,3480,351,0,0,0,0,0
+2008,EST,DEU,Estonia,Germany,77,0,0,0,0,0,0
+2008,ETH,DEU,Ethiopia,Germany,3584,401,0,0,0,0,0
+2008,FRA,DEU,France,Germany,12,0,0,0,0,0,0
+2008,GAB,DEU,Gabon,Germany,10,5,0,0,0,0,0
+2008,GMB,DEU,Gambia,Germany,114,189,0,0,0,0,0
+2008,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,16,0,0,0,0,0,0
+2008,GEO,DEU,Georgia,Germany,1509,247,0,0,0,0,0
+2008,GHA,DEU,Ghana,Germany,1339,263,0,0,0,0,0
+2008,GNB,DEU,Guinea-Bissau,Germany,24,13,0,0,0,0,0
+2008,GRC,DEU,Greece,Germany,17,0,0,0,0,0,0
+2008,GTM,DEU,Guatemala,Germany,18,0,0,0,0,0,0
+2008,GIN,DEU,Guinea,Germany,404,263,0,0,0,0,0
+2008,GUY,DEU,Guyana,Germany,6,0,0,0,0,0,0
+2008,HTI,DEU,Haiti,Germany,41,5,0,0,0,0,0
+2008,HND,DEU,Honduras,Germany,24,0,0,0,0,0,0
+2008,HRV,DEU,Croatia,Germany,16241,20,0,0,0,0,0
+2008,HUN,DEU,Hungary,Germany,128,0,0,0,0,0,0
+2008,ISL,DEU,Iceland,Germany,5,0,0,0,0,0,0
+2008,CIV,DEU,Côte d'Ivoire,Germany,307,108,0,0,0,0,0
+2008,IND,DEU,India,Germany,1827,492,0,0,0,0,0
+2008,IDN,DEU,Indonesia,Germany,312,5,0,0,0,0,0
+2008,IRN,DEU,Iran (Islamic Republic of),Germany,15816,2388,0,0,0,0,0
+2008,IRQ,DEU,Iraq,Germany,38854,5801,0,0,0,7763,0
+2008,ISR,DEU,Israel,Germany,574,10,0,0,0,0,0
+2008,ITA,DEU,Italy,Germany,32,0,0,0,0,0,0
+2008,JAM,DEU,Jamaica,Germany,59,5,0,0,0,0,0
+2008,JOR,DEU,Jordan,Germany,538,42,0,0,0,0,0
+2008,JPN,DEU,Japan,Germany,158,0,0,0,0,0,0
+2008,KAZ,DEU,Kazakhstan,Germany,2755,17,0,0,0,0,0
+2008,KEN,DEU,Kenya,Germany,284,233,0,0,0,0,0
+2008,KGZ,DEU,Kyrgyzstan,Germany,1370,22,0,0,0,0,0
+2008,KIR,DEU,Kiribati,Germany,5,0,0,0,0,0,0
+2008,KOR,DEU,Republic of Korea,Germany,771,0,0,0,0,0,0
+2008,PRK,DEU,Democratic People's Republic of Korea,Germany,180,13,0,0,0,0,0
+2008,KWT,DEU,Kuwait,Germany,96,0,0,0,0,0,0
+2008,LAO,DEU,Lao People's Democratic Republic,Germany,171,0,0,0,0,0,0
+2008,LBR,DEU,Liberia,Germany,252,31,0,0,0,0,0
+2008,LBY,DEU,Libya,Germany,558,40,0,0,0,0,0
+2008,LCA,DEU,Saint Lucia,Germany,5,0,0,0,0,0,0
+2008,LBN,DEU,Lebanon,Germany,9650,680,0,0,0,0,0
+2008,LSO,DEU,Lesotho,Germany,5,0,0,0,0,0,0
+2008,LKA,DEU,Sri Lanka,Germany,6594,738,0,0,0,0,0
+2008,LTU,DEU,Lithuania,Germany,186,0,0,0,0,0,0
+2008,LVA,DEU,Latvia,Germany,431,0,0,0,0,0,0
+2008,MDG,DEU,Madagascar,Germany,21,0,0,0,0,0,0
+2008,MRT,DEU,Mauritania,Germany,36,5,0,0,0,0,0
+2008,MKD,DEU,North Macedonia,Germany,5729,108,0,0,0,0,0
+2008,MDA,DEU,Republic of Moldova,Germany,3823,22,0,0,0,0,0
+2008,MEX,DEU,Mexico,Germany,159,0,0,0,0,0,0
+2008,MLI,DEU,Mali,Germany,43,11,0,0,0,0,0
+2008,MYS,DEU,Malaysia,Germany,110,0,0,0,0,0,0
+2008,MWI,DEU,Malawi,Germany,5,0,0,0,0,0,0
+2008,MNE,DEU,Montenegro,Germany,1203,79,0,0,0,0,0
+2008,MNG,DEU,Mongolia,Germany,186,22,0,0,0,0,0
+2008,MAR,DEU,Morocco,Germany,2866,149,0,0,0,0,0
+2008,MOZ,DEU,Mozambique,Germany,158,0,0,0,0,0,0
+2008,MUS,DEU,Mauritius,Germany,5,0,0,0,0,0,0
+2008,MMR,DEU,Myanmar,Germany,729,66,0,0,0,0,0
+2008,NAM,DEU,Namibia,Germany,19,0,0,0,0,0,0
+2008,NPL,DEU,Nepal,Germany,259,36,0,0,0,0,0
+2008,NLD,DEU,Netherlands (Kingdom of the),Germany,13,6,0,0,0,0,0
+2008,NER,DEU,Niger,Germany,135,25,0,0,0,0,0
+2008,NIC,DEU,Nicaragua,Germany,18,0,0,0,0,0,0
+2008,NGA,DEU,Nigeria,Germany,1237,715,0,0,0,0,0
+2008,NZL,DEU,New Zealand,Germany,8,0,0,0,0,0,0
+2008,OMN,DEU,Oman,Germany,36,0,0,0,0,0,0
+2008,PAK,DEU,Pakistan,Germany,4607,655,0,0,0,0,0
+2008,PAN,DEU,Panama,Germany,9,0,0,0,0,0,0
+2008,PRY,DEU,Paraguay,Germany,40,0,0,0,0,0,0
+2008,PER,DEU,Peru,Germany,353,10,0,0,0,0,0
+2008,PHL,DEU,Philippines,Germany,605,5,0,0,0,0,0
+2008,POL,DEU,Poland,Germany,993,10,0,0,0,0,0
+2008,PRT,DEU,Portugal,Germany,8,0,0,0,0,0,0
+2008,QAT,DEU,Qatar,Germany,58,0,0,0,0,0,0
+2008,ROU,DEU,Romania,Germany,812,5,0,0,0,0,0
+2008,ZAF,DEU,South Africa,Germany,170,0,0,0,0,0,0
+2008,RUS,DEU,Russian Federation,Germany,35505,1812,0,0,0,0,0
+2008,RWA,DEU,Rwanda,Germany,194,34,0,0,0,0,0
+2008,SLV,DEU,El Salvador,Germany,23,0,0,0,0,0,0
+2008,SAU,DEU,Saudi Arabia,Germany,458,0,0,0,0,0,0
+2008,SEN,DEU,Senegal,Germany,91,17,0,0,0,0,0
+2008,SYC,DEU,Seychelles,Germany,5,0,0,0,0,0,0
+2008,SGP,DEU,Singapore,Germany,42,0,0,0,0,0,0
+2008,SLE,DEU,Sierra Leone,Germany,466,201,0,0,0,0,0
+2008,SOM,DEU,Somalia,Germany,2190,165,0,0,0,0,0
+2008,ESP,DEU,Spain,Germany,6,0,0,0,0,0,0
+2008,SRB,DEU,Serbia,Germany,98787,3460,0,0,0,11500,0
+2008,VNM,DEU,Viet Nam,Germany,14043,716,0,0,0,0,0
+2008,STA,DEU,Stateless,Germany,4202,106,0,0,9322,0,0
+2008,SDN,DEU,Sudan,Germany,458,131,0,0,0,0,0
+2008,SVK,DEU,Slovakia,Germany,27,5,0,0,0,0,0
+2008,SVN,DEU,Slovenia,Germany,23,0,0,0,0,0,0
+2008,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2008,CHE,DEU,Switzerland,Germany,18,0,0,0,0,0,0
+2008,SYR,DEU,Syrian Arab Republic,Germany,8205,1418,0,0,0,0,0
+2008,TZA,DEU,United Republic of Tanzania,Germany,36,11,0,0,0,0,0
+2008,THA,DEU,Thailand,Germany,1559,0,0,0,0,0,0
+2008,TJK,DEU,Tajikistan,Germany,129,24,0,0,0,0,0
+2008,TKM,DEU,Turkmenistan,Germany,242,21,0,0,0,0,0
+2008,TGO,DEU,Togo,Germany,3340,231,0,0,0,0,0
+2008,TTO,DEU,Trinidad and Tobago,Germany,19,0,0,0,0,0,0
+2008,TUN,DEU,Tunisia,Germany,770,88,0,0,0,0,0
+2008,TUR,DEU,Türkiye,Germany,161919,3212,0,0,0,0,0
+2008,ARE,DEU,United Arab Emirates,Germany,204,0,0,0,0,0,0
+2008,UGA,DEU,Uganda,Germany,183,56,0,0,0,0,0
+2008,UKN,DEU,Various / unknown,Germany,13112,1154,0,0,0,1605,0
+2008,UKR,DEU,Ukraine,Germany,22156,48,0,0,0,0,0
+2008,URY,DEU,Uruguay,Germany,21,0,0,0,0,0,0
+2008,USA,DEU,United States of America,Germany,344,0,0,0,0,0,0
+2008,UZB,DEU,Uzbekistan,Germany,1918,29,0,0,0,0,0
+2008,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,86,5,0,0,0,0,0
+2008,WSM,DEU,Samoa,Germany,5,0,0,0,0,0,0
+2008,YEM,DEU,Yemen,Germany,358,37,0,0,0,0,0
+2008,ZMB,DEU,Zambia,Germany,17,0,0,0,0,0,0
+2008,ZWE,DEU,Zimbabwe,Germany,42,67,0,0,0,0,0
+2009,AFG,DEU,Afghanistan,Germany,30320,3891,0,0,0,971,0
+2009,ALB,DEU,Albania,Germany,2310,76,0,0,0,0,0
+2009,DZA,DEU,Algeria,Germany,2317,458,0,0,0,0,0
+2009,AGO,DEU,Angola,Germany,3433,143,0,0,0,0,0
+2009,EGY,DEU,Egypt,Germany,832,83,0,0,0,0,0
+2009,ARG,DEU,Argentina,Germany,31,0,0,0,0,0,0
+2009,ARM,DEU,Armenia,Germany,3691,600,0,0,0,0,0
+2009,AUS,DEU,Australia,Germany,23,0,0,0,0,0,0
+2009,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2009,AZE,DEU,Azerbaijan,Germany,6063,1241,0,0,0,0,0
+2009,BHR,DEU,Bahrain,Germany,18,0,0,0,0,0,0
+2009,BDI,DEU,Burundi,Germany,145,21,0,0,0,0,0
+2009,BEN,DEU,Benin,Germany,167,81,0,0,0,0,0
+2009,BGD,DEU,Bangladesh,Germany,942,98,0,0,0,0,0
+2009,BTN,DEU,Bhutan,Germany,98,11,0,0,0,0,0
+2009,BFA,DEU,Burkina Faso,Germany,189,70,0,0,0,0,0
+2009,BLR,DEU,Belarus,Germany,1694,79,0,0,0,0,0
+2009,BOL,DEU,Bolivia (Plurinational State of),Germany,25,0,0,0,0,0,0
+2009,BRA,DEU,Brazil,Germany,163,0,0,0,0,0,0
+2009,BIH,DEU,Bosnia and Herzegovina,Germany,24947,329,0,0,0,0,0
+2009,BGR,DEU,Bulgaria,Germany,191,17,0,0,0,0,0
+2009,KHM,DEU,Cambodia,Germany,156,18,0,0,0,0,0
+2009,CAN,DEU,Canada,Germany,52,0,0,0,0,0,0
+2009,CAF,DEU,Central African Republic,Germany,15,0,0,0,0,0,0
+2009,TCD,DEU,Chad,Germany,39,10,0,0,0,0,0
+2009,CHN,DEU,China,Germany,3654,595,0,0,0,0,0
+2009,CHL,DEU,Chile,Germany,430,6,0,0,0,0,0
+2009,CMR,DEU,Cameroon,Germany,1180,417,0,0,0,0,0
+2009,COG,DEU,Congo,Germany,684,73,0,0,0,0,0
+2009,COD,DEU,Democratic Republic of the Congo,Germany,6093,508,0,0,0,0,0
+2009,COM,DEU,Comoros,Germany,5,0,0,0,0,0,0
+2009,COL,DEU,Colombia,Germany,229,31,0,0,0,0,0
+2009,CRI,DEU,Costa Rica,Germany,8,0,0,0,0,0,0
+2009,CUB,DEU,Cuba,Germany,381,23,0,0,0,0,0
+2009,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2009,CZE,DEU,Czechia,Germany,160,5,0,0,0,0,0
+2009,DJI,DEU,Djibouti,Germany,6,0,0,0,0,0,0
+2009,DOM,DEU,Dominican Republic,Germany,46,0,0,0,0,0,0
+2009,ECU,DEU,Ecuador,Germany,127,0,0,0,0,0,0
+2009,GNQ,DEU,Equatorial Guinea,Germany,23,5,0,0,0,0,0
+2009,ERI,DEU,Eritrea,Germany,4293,299,0,0,0,0,0
+2009,EST,DEU,Estonia,Germany,79,0,0,0,0,0,0
+2009,ETH,DEU,Ethiopia,Germany,4631,453,0,0,0,0,0
+2009,GAB,DEU,Gabon,Germany,10,0,0,0,0,0,0
+2009,GMB,DEU,Gambia,Germany,469,282,0,0,0,0,0
+2009,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,5,0,0,0,0,0,0
+2009,GEO,DEU,Georgia,Germany,1943,495,0,0,0,0,0
+2009,GHA,DEU,Ghana,Germany,4270,289,0,0,0,0,0
+2009,GNB,DEU,Guinea-Bissau,Germany,38,22,0,0,0,0,0
+2009,GRC,DEU,Greece,Germany,6,0,0,0,0,0,0
+2009,GTM,DEU,Guatemala,Germany,6,0,0,0,0,0,0
+2009,GIN,DEU,Guinea,Germany,572,383,0,0,0,0,0
+2009,HTI,DEU,Haiti,Germany,40,0,0,0,0,0,0
+2009,HND,DEU,Honduras,Germany,10,0,0,0,0,0,0
+2009,HRV,DEU,Croatia,Germany,4100,22,0,0,0,0,0
+2009,HUN,DEU,Hungary,Germany,133,0,0,0,0,0,0
+2009,CIV,DEU,Côte d'Ivoire,Germany,494,111,0,0,0,0,0
+2009,IND,DEU,India,Germany,2879,705,0,0,0,0,0
+2009,IDN,DEU,Indonesia,Germany,108,5,0,0,0,0,0
+2009,IRN,DEU,Iran (Islamic Republic of),Germany,20226,2684,0,0,0,0,0
+2009,IRQ,DEU,Iraq,Germany,49033,5403,0,0,0,6704,0
+2009,ISR,DEU,Israel,Germany,350,18,0,0,0,0,0
+2009,ITA,DEU,Italy,Germany,10,5,0,0,0,0,0
+2009,JAM,DEU,Jamaica,Germany,16,0,0,0,0,0,0
+2009,JOR,DEU,Jordan,Germany,788,62,0,0,0,0,0
+2009,JPN,DEU,Japan,Germany,121,0,0,0,0,0,0
+2009,KAZ,DEU,Kazakhstan,Germany,1665,22,0,0,0,0,0
+2009,KEN,DEU,Kenya,Germany,253,280,0,0,0,0,0
+2009,KGZ,DEU,Kyrgyzstan,Germany,1358,31,0,0,0,0,0
+2009,KOR,DEU,Republic of Korea,Germany,226,0,0,0,0,0,0
+2009,PRK,DEU,Democratic People's Republic of Korea,Germany,156,14,0,0,0,0,0
+2009,KWT,DEU,Kuwait,Germany,151,0,0,0,0,0,0
+2009,LAO,DEU,Lao People's Democratic Republic,Germany,173,0,0,0,0,0,0
+2009,LBR,DEU,Liberia,Germany,357,35,0,0,0,0,0
+2009,LBY,DEU,Libya,Germany,571,23,0,0,0,0,0
+2009,LBN,DEU,Lebanon,Germany,12950,624,0,0,0,0,0
+2009,LKA,DEU,Sri Lanka,Germany,12248,748,0,0,0,0,0
+2009,LTU,DEU,Lithuania,Germany,208,5,0,0,0,0,0
+2009,LVA,DEU,Latvia,Germany,468,10,0,0,0,0,0
+2009,MDG,DEU,Madagascar,Germany,15,0,0,0,0,0,0
+2009,MRT,DEU,Mauritania,Germany,47,0,0,0,0,0,0
+2009,MKD,DEU,North Macedonia,Germany,6081,167,0,0,0,0,0
+2009,MDA,DEU,Republic of Moldova,Germany,4041,35,0,0,0,0,0
+2009,MEX,DEU,Mexico,Germany,32,0,0,0,0,0,0
+2009,MLI,DEU,Mali,Germany,72,16,0,0,0,0,0
+2009,MYS,DEU,Malaysia,Germany,27,5,0,0,0,0,0
+2009,MNE,DEU,Montenegro,Germany,2425,93,0,0,0,0,0
+2009,MNG,DEU,Mongolia,Germany,178,30,0,0,0,0,0
+2009,MAR,DEU,Morocco,Germany,1530,208,0,0,0,0,0
+2009,MOZ,DEU,Mozambique,Germany,92,0,0,0,0,0,0
+2009,MMR,DEU,Myanmar,Germany,756,69,0,0,0,0,0
+2009,NAM,DEU,Namibia,Germany,7,0,0,0,0,0,0
+2009,NPL,DEU,Nepal,Germany,350,38,0,0,0,0,0
+2009,NLD,DEU,Netherlands (Kingdom of the),Germany,7,7,0,0,0,0,0
+2009,NER,DEU,Niger,Germany,192,27,0,0,0,0,0
+2009,NIC,DEU,Nicaragua,Germany,7,0,0,0,0,0,0
+2009,NGA,DEU,Nigeria,Germany,2640,1119,0,0,0,0,0
+2009,NZL,DEU,New Zealand,Germany,9,0,0,0,0,0,0
+2009,OMN,DEU,Oman,Germany,42,0,0,0,0,0,0
+2009,PAK,DEU,Pakistan,Germany,7383,829,0,0,0,0,0
+2009,PAN,DEU,Panama,Germany,5,0,0,0,0,0,0
+2009,PRY,DEU,Paraguay,Germany,7,0,0,0,0,0,0
+2009,PER,DEU,Peru,Germany,221,0,0,0,0,0,0
+2009,PHL,DEU,Philippines,Germany,216,5,0,0,0,0,0
+2009,POL,DEU,Poland,Germany,743,10,0,0,0,0,0
+2009,PRT,DEU,Portugal,Germany,5,0,0,0,0,0,0
+2009,QAT,DEU,Qatar,Germany,55,0,0,0,0,0,0
+2009,ROU,DEU,Romania,Germany,674,10,0,0,0,0,0
+2009,ZAF,DEU,South Africa,Germany,51,5,0,0,0,0,0
+2009,RUS,DEU,Russian Federation,Germany,37642,1948,0,0,0,0,0
+2009,RWA,DEU,Rwanda,Germany,224,47,0,0,0,0,0
+2009,SLV,DEU,El Salvador,Germany,12,0,0,0,0,0,0
+2009,SAU,DEU,Saudi Arabia,Germany,364,0,0,0,0,0,0
+2009,SEN,DEU,Senegal,Germany,152,37,0,0,0,0,0
+2009,SGP,DEU,Singapore,Germany,9,0,0,0,0,0,0
+2009,SLE,DEU,Sierra Leone,Germany,686,209,0,0,0,0,0
+2009,SOM,DEU,Somalia,Germany,2407,326,0,0,0,0,0
+2009,ESP,DEU,Spain,Germany,5,0,0,0,0,0,0
+2009,SRB,DEU,Serbia,Germany,123700,3756,0,0,0,10000,0
+2009,VNM,DEU,Viet Nam,Germany,25215,624,0,0,0,0,0
+2009,STA,DEU,Stateless,Germany,5097,172,0,0,8226,0,0
+2009,SDN,DEU,Sudan,Germany,546,133,0,0,0,0,0
+2009,SVK,DEU,Slovakia,Germany,32,0,0,0,0,0,0
+2009,SVN,DEU,Slovenia,Germany,15,0,0,0,0,0,0
+2009,CHE,DEU,Switzerland,Germany,5,0,0,0,0,0,0
+2009,SYR,DEU,Syrian Arab Republic,Germany,10217,1811,0,0,0,0,0
+2009,TZA,DEU,United Republic of Tanzania,Germany,30,5,0,0,0,0,0
+2009,THA,DEU,Thailand,Germany,235,0,0,0,0,0,0
+2009,TJK,DEU,Tajikistan,Germany,129,62,0,0,0,0,0
+2009,TKM,DEU,Turkmenistan,Germany,210,5,0,0,0,0,0
+2009,TGO,DEU,Togo,Germany,4592,204,0,0,0,0,0
+2009,TUN,DEU,Tunisia,Germany,772,120,0,0,0,0,0
+2009,TUR,DEU,Türkiye,Germany,101068,3141,0,0,0,0,0
+2009,ARE,DEU,United Arab Emirates,Germany,357,0,0,0,0,0,0
+2009,UGA,DEU,Uganda,Germany,260,70,0,0,0,0,0
+2009,UKN,DEU,Various / unknown,Germany,14447,1382,0,0,0,0,0
+2009,UKR,DEU,Ukraine,Germany,18412,73,0,0,0,0,0
+2009,URY,DEU,Uruguay,Germany,10,0,0,0,0,0,0
+2009,USA,DEU,United States of America,Germany,298,5,0,0,0,0,0
+2009,UZB,DEU,Uzbekistan,Germany,1933,21,0,0,0,0,0
+2009,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,35,5,0,0,0,0,0
+2009,YEM,DEU,Yemen,Germany,396,56,0,0,0,0,0
+2009,ZMB,DEU,Zambia,Germany,12,0,0,0,0,0,0
+2009,ZWE,DEU,Zimbabwe,Germany,42,71,0,0,0,0,0
+2010,AFG,DEU,Afghanistan,Germany,30404,7024,0,0,0,1073,0
+2010,ALB,DEU,Albania,Germany,2275,66,0,0,0,0,0
+2010,DZA,DEU,Algeria,Germany,2283,426,0,0,0,0,0
+2010,AGO,DEU,Angola,Germany,3321,176,0,0,0,0,0
+2010,EGY,DEU,Egypt,Germany,875,117,0,0,0,0,0
+2010,ARG,DEU,Argentina,Germany,32,0,0,0,0,0,0
+2010,ARM,DEU,Armenia,Germany,3918,658,0,0,0,0,0
+2010,AUS,DEU,Australia,Germany,33,0,0,0,0,0,0
+2010,AZE,DEU,Azerbaijan,Germany,6326,1116,0,0,0,0,0
+2010,BHR,DEU,Bahrain,Germany,37,0,0,0,0,0,0
+2010,BDI,DEU,Burundi,Germany,138,19,0,0,0,0,0
+2010,BEL,DEU,Belgium,Germany,6,0,0,0,0,0,0
+2010,BEN,DEU,Benin,Germany,181,117,0,0,0,0,0
+2010,BGD,DEU,Bangladesh,Germany,935,129,0,0,0,0,0
+2010,BTN,DEU,Bhutan,Germany,83,9,0,0,0,0,0
+2010,BFA,DEU,Burkina Faso,Germany,208,79,0,0,0,0,0
+2010,BLR,DEU,Belarus,Germany,1842,64,0,0,0,0,0
+2010,BOL,DEU,Bolivia (Plurinational State of),Germany,28,0,0,0,0,0,0
+2010,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2010,BRA,DEU,Brazil,Germany,143,0,0,0,0,0,0
+2010,BIH,DEU,Bosnia and Herzegovina,Germany,24622,397,0,0,0,0,0
+2010,BGR,DEU,Bulgaria,Germany,192,11,0,0,0,0,0
+2010,KHM,DEU,Cambodia,Germany,157,17,0,0,0,0,0
+2010,CAN,DEU,Canada,Germany,46,0,0,0,0,0,0
+2010,CAF,DEU,Central African Republic,Germany,14,0,0,0,0,0,0
+2010,TCD,DEU,Chad,Germany,53,5,0,0,0,0,0
+2010,CHN,DEU,China,Germany,3752,547,0,0,0,0,0
+2010,CHL,DEU,Chile,Germany,423,5,0,0,0,0,0
+2010,CMR,DEU,Cameroon,Germany,1236,406,0,0,0,0,0
+2010,COG,DEU,Congo,Germany,608,55,0,0,0,0,0
+2010,COD,DEU,Democratic Republic of the Congo,Germany,5587,465,0,0,0,0,0
+2010,COM,DEU,Comoros,Germany,11,0,0,0,0,0,0
+2010,COL,DEU,Colombia,Germany,253,18,0,0,0,0,0
+2010,CRI,DEU,Costa Rica,Germany,9,0,0,0,0,0,0
+2010,CUB,DEU,Cuba,Germany,383,22,0,0,0,0,0
+2010,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2010,CZE,DEU,Czechia,Germany,169,5,0,0,0,0,0
+2010,DJI,DEU,Djibouti,Germany,5,0,0,0,0,0,0
+2010,DOM,DEU,Dominican Republic,Germany,49,0,0,0,0,0,0
+2010,ECU,DEU,Ecuador,Germany,124,0,0,0,0,0,0
+2010,GNQ,DEU,Equatorial Guinea,Germany,23,8,0,0,0,0,0
+2010,ERI,DEU,Eritrea,Germany,4519,536,0,0,0,0,0
+2010,EST,DEU,Estonia,Germany,84,0,0,0,0,0,0
+2010,ETH,DEU,Ethiopia,Germany,4628,466,0,0,0,0,0
+2010,FRA,DEU,France,Germany,6,0,0,0,0,0,0
+2010,GAB,DEU,Gabon,Germany,11,5,0,0,0,0,0
+2010,GMB,DEU,Gambia,Germany,469,327,0,0,0,0,0
+2010,PSE,DEU,State of Palestine,Germany,5,0,0,0,0,0,0
+2010,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,9,0,0,0,0,0,0
+2010,GEO,DEU,Georgia,Germany,2034,439,0,0,0,0,0
+2010,GHA,DEU,Ghana,Germany,4294,290,0,0,0,0,0
+2010,GNB,DEU,Guinea-Bissau,Germany,34,26,0,0,0,0,0
+2010,GRD,DEU,Grenada,Germany,5,0,0,0,0,0,0
+2010,GTM,DEU,Guatemala,Germany,5,0,0,0,0,0,0
+2010,GIN,DEU,Guinea,Germany,649,397,0,0,0,0,0
+2010,HTI,DEU,Haiti,Germany,49,0,0,0,0,0,0
+2010,HND,DEU,Honduras,Germany,9,0,0,0,0,0,0
+2010,HRV,DEU,Croatia,Germany,4209,20,0,0,0,0,0
+2010,HUN,DEU,Hungary,Germany,130,0,0,0,0,0,0
+2010,CIV,DEU,Côte d'Ivoire,Germany,493,111,0,0,0,0,0
+2010,IND,DEU,India,Germany,2774,722,0,0,0,0,0
+2010,IDN,DEU,Indonesia,Germany,117,0,0,0,0,0,0
+2010,IRN,DEU,Iran (Islamic Republic of),Germany,20444,3436,0,0,0,0,0
+2010,IRQ,DEU,Iraq,Germany,50432,5589,0,0,0,6709,0
+2010,ISR,DEU,Israel,Germany,339,16,0,0,0,0,0
+2010,ITA,DEU,Italy,Germany,11,0,0,0,0,0,0
+2010,JAM,DEU,Jamaica,Germany,15,0,0,0,0,0,0
+2010,JOR,DEU,Jordan,Germany,828,60,0,0,0,0,0
+2010,JPN,DEU,Japan,Germany,123,0,0,0,0,0,0
+2010,KAZ,DEU,Kazakhstan,Germany,1675,30,0,0,0,0,0
+2010,KEN,DEU,Kenya,Germany,290,302,0,0,0,0,0
+2010,KGZ,DEU,Kyrgyzstan,Germany,1412,76,0,0,0,0,0
+2010,KOR,DEU,Republic of Korea,Germany,218,0,0,0,0,0,0
+2010,PRK,DEU,Democratic People's Republic of Korea,Germany,146,14,0,0,0,0,0
+2010,KWT,DEU,Kuwait,Germany,162,0,0,0,0,0,0
+2010,LAO,DEU,Lao People's Democratic Republic,Germany,176,0,0,0,0,0,0
+2010,LBR,DEU,Liberia,Germany,324,35,0,0,0,0,0
+2010,LBY,DEU,Libya,Germany,636,26,0,0,0,0,0
+2010,LBN,DEU,Lebanon,Germany,12514,487,0,0,0,0,0
+2010,LKA,DEU,Sri Lanka,Germany,12057,687,0,0,0,0,0
+2010,LTU,DEU,Lithuania,Germany,236,0,0,0,0,0,0
+2010,LVA,DEU,Latvia,Germany,457,5,0,0,0,0,0
+2010,MDG,DEU,Madagascar,Germany,9,0,0,0,0,0,0
+2010,MRT,DEU,Mauritania,Germany,49,10,0,0,0,0,0
+2010,MKD,DEU,North Macedonia,Germany,6035,1877,0,0,0,0,0
+2010,MDA,DEU,Republic of Moldova,Germany,4229,42,0,0,0,0,0
+2010,MEX,DEU,Mexico,Germany,31,0,0,0,0,0,0
+2010,MLI,DEU,Mali,Germany,75,27,0,0,0,0,0
+2010,MYS,DEU,Malaysia,Germany,30,0,0,0,0,0,0
+2010,MNE,DEU,Montenegro,Germany,3061,92,0,0,0,0,0
+2010,MNG,DEU,Mongolia,Germany,196,53,0,0,0,0,0
+2010,MAR,DEU,Morocco,Germany,1500,191,0,0,0,0,0
+2010,MOZ,DEU,Mozambique,Germany,94,5,0,0,0,0,0
+2010,MMR,DEU,Myanmar,Germany,799,95,0,0,0,0,0
+2010,NAM,DEU,Namibia,Germany,10,0,0,0,0,0,0
+2010,NPL,DEU,Nepal,Germany,349,31,0,0,0,0,0
+2010,NLD,DEU,Netherlands (Kingdom of the),Germany,9,5,0,0,0,0,0
+2010,NER,DEU,Niger,Germany,210,45,0,0,0,0,0
+2010,NIC,DEU,Nicaragua,Germany,5,0,0,0,0,0,0
+2010,NGA,DEU,Nigeria,Germany,2601,1241,0,0,0,0,0
+2010,NZL,DEU,New Zealand,Germany,11,0,0,0,0,0,0
+2010,OMN,DEU,Oman,Germany,42,0,0,0,0,0,0
+2010,PAK,DEU,Pakistan,Germany,7078,1275,0,0,0,0,0
+2010,PRY,DEU,Paraguay,Germany,7,0,0,0,0,0,0
+2010,PER,DEU,Peru,Germany,208,0,0,0,0,0,0
+2010,PHL,DEU,Philippines,Germany,228,0,0,0,0,0,0
+2010,POL,DEU,Poland,Germany,753,5,0,0,0,0,0
+2010,PRT,DEU,Portugal,Germany,5,0,0,0,0,0,0
+2010,QAT,DEU,Qatar,Germany,97,0,0,0,0,0,0
+2010,ROU,DEU,Romania,Germany,554,16,0,0,0,0,0
+2010,ZAF,DEU,South Africa,Germany,47,5,0,0,0,0,0
+2010,RUS,DEU,Russian Federation,Germany,39460,2020,0,0,0,0,0
+2010,RWA,DEU,Rwanda,Germany,218,47,0,0,0,0,0
+2010,SLV,DEU,El Salvador,Germany,14,0,0,0,0,0,0
+2010,SAU,DEU,Saudi Arabia,Germany,359,0,0,0,0,0,0
+2010,SEN,DEU,Senegal,Germany,145,40,0,0,0,0,0
+2010,SGP,DEU,Singapore,Germany,8,0,0,0,0,0,0
+2010,SLE,DEU,Sierra Leone,Germany,737,170,0,0,0,0,0
+2010,SOM,DEU,Somalia,Germany,2620,1921,0,0,0,0,0
+2010,ESP,DEU,Spain,Germany,8,0,0,0,0,0,0
+2010,SRB,DEU,Serbia,Germany,122340,7789,0,0,0,8500,0
+2010,VNM,DEU,Viet Nam,Germany,24918,574,0,0,0,0,0
+2010,STA,DEU,Stateless,Germany,5103,294,0,0,7920,0,0
+2010,SDN,DEU,Sudan,Germany,531,147,0,0,0,0,0
+2010,SVK,DEU,Slovakia,Germany,26,0,0,0,0,0,0
+2010,SVN,DEU,Slovenia,Germany,14,0,0,0,0,0,0
+2010,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2010,CHE,DEU,Switzerland,Germany,5,0,0,0,0,0,0
+2010,SYR,DEU,Syrian Arab Republic,Germany,10518,2690,0,0,0,0,0
+2010,TZA,DEU,United Republic of Tanzania,Germany,25,0,0,0,0,0,0
+2010,THA,DEU,Thailand,Germany,210,0,0,0,0,0,0
+2010,TJK,DEU,Tajikistan,Germany,128,98,0,0,0,0,0
+2010,TKM,DEU,Turkmenistan,Germany,215,10,0,0,0,0,0
+2010,TGO,DEU,Togo,Germany,4382,201,0,0,0,0,0
+2010,TUN,DEU,Tunisia,Germany,789,78,0,0,0,0,0
+2010,TUR,DEU,Türkiye,Germany,97908,2860,0,0,0,0,0
+2010,ARE,DEU,United Arab Emirates,Germany,367,5,0,0,0,0,0
+2010,UGA,DEU,Uganda,Germany,286,82,0,0,0,0,0
+2010,UKN,DEU,Various / unknown,Germany,14432,1576,0,0,0,0,0
+2010,UKR,DEU,Ukraine,Germany,19398,94,0,0,0,0,0
+2010,URY,DEU,Uruguay,Germany,10,0,0,0,0,0,0
+2010,USA,DEU,United States of America,Germany,343,0,0,0,0,0,0
+2010,UZB,DEU,Uzbekistan,Germany,2082,35,0,0,0,0,0
+2010,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,24,10,0,0,0,0,0
+2010,YEM,DEU,Yemen,Germany,408,50,0,0,0,0,0
+2010,ZMB,DEU,Zambia,Germany,14,0,0,0,0,0,0
+2010,ZWE,DEU,Zimbabwe,Germany,56,61,0,0,0,0,0
+2011,AFG,DEU,Afghanistan,Germany,30425,11087,0,0,0,1358,0
+2011,ALB,DEU,Albania,Germany,2207,82,0,0,0,0,0
+2011,DZA,DEU,Algeria,Germany,2165,451,0,0,0,0,0
+2011,AGO,DEU,Angola,Germany,3118,169,0,0,0,0,0
+2011,EGY,DEU,Egypt,Germany,877,206,0,0,0,0,0
+2011,ARG,DEU,Argentina,Germany,36,0,0,0,0,0,0
+2011,ARM,DEU,Armenia,Germany,3963,663,0,0,0,0,0
+2011,AUS,DEU,Australia,Germany,33,0,0,0,0,0,0
+2011,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2011,AZE,DEU,Azerbaijan,Germany,6368,1287,0,0,0,0,0
+2011,BHR,DEU,Bahrain,Germany,31,0,0,0,0,0,0
+2011,BDI,DEU,Burundi,Germany,112,21,0,0,0,0,0
+2011,BEL,DEU,Belgium,Germany,6,0,0,0,0,0,0
+2011,BEN,DEU,Benin,Germany,180,79,0,0,0,0,0
+2011,BGD,DEU,Bangladesh,Germany,896,208,0,0,0,0,0
+2011,BTN,DEU,Bhutan,Germany,77,12,0,0,0,0,0
+2011,BFA,DEU,Burkina Faso,Germany,195,107,0,0,0,0,0
+2011,BLR,DEU,Belarus,Germany,1904,93,0,0,0,0,0
+2011,BOL,DEU,Bolivia (Plurinational State of),Germany,27,0,0,0,0,0,0
+2011,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2011,BRA,DEU,Brazil,Germany,159,5,0,0,0,0,0
+2011,BIH,DEU,Bosnia and Herzegovina,Germany,24016,406,0,0,0,0,0
+2011,BGR,DEU,Bulgaria,Germany,167,35,0,0,0,0,0
+2011,KHM,DEU,Cambodia,Germany,161,27,0,0,0,0,0
+2011,CAN,DEU,Canada,Germany,48,0,0,0,0,0,0
+2011,CAF,DEU,Central African Republic,Germany,12,0,0,0,0,0,0
+2011,TCD,DEU,Chad,Germany,51,5,0,0,0,0,0
+2011,CHN,DEU,China,Germany,3639,494,0,0,0,0,0
+2011,CHL,DEU,Chile,Germany,416,0,0,0,0,0,0
+2011,CMR,DEU,Cameroon,Germany,1210,397,0,0,0,0,0
+2011,COG,DEU,Congo,Germany,535,54,0,0,0,0,0
+2011,COD,DEU,Democratic Republic of the Congo,Germany,5146,425,0,0,0,0,0
+2011,COM,DEU,Comoros,Germany,11,0,0,0,0,0,0
+2011,COL,DEU,Colombia,Germany,242,51,0,0,0,0,0
+2011,CRI,DEU,Costa Rica,Germany,13,0,0,0,0,0,0
+2011,CUB,DEU,Cuba,Germany,369,24,0,0,0,0,0
+2011,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2011,CZE,DEU,Czechia,Germany,167,0,0,0,0,0,0
+2011,DJI,DEU,Djibouti,Germany,5,0,0,0,0,0,0
+2011,DOM,DEU,Dominican Republic,Germany,45,0,0,0,0,0,0
+2011,ECU,DEU,Ecuador,Germany,130,0,0,0,0,0,0
+2011,GNQ,DEU,Equatorial Guinea,Germany,24,8,0,0,0,0,0
+2011,ERI,DEU,Eritrea,Germany,4606,762,0,0,0,0,0
+2011,EST,DEU,Estonia,Germany,77,9,0,0,0,0,0
+2011,ETH,DEU,Ethiopia,Germany,4485,623,0,0,0,0,0
+2011,FRA,DEU,France,Germany,9,0,0,0,0,0,0
+2011,GAB,DEU,Gabon,Germany,13,0,0,0,0,0,0
+2011,GMB,DEU,Gambia,Germany,473,286,0,0,0,0,0
+2011,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,10,0,0,0,0,0,0
+2011,GEO,DEU,Georgia,Germany,2105,455,0,0,0,0,0
+2011,GHA,DEU,Ghana,Germany,4280,329,0,0,0,0,0
+2011,GNB,DEU,Guinea-Bissau,Germany,32,20,0,0,0,0,0
+2011,GRC,DEU,Greece,Germany,5,5,0,0,0,0,0
+2011,GTM,DEU,Guatemala,Germany,5,0,0,0,0,0,0
+2011,GIN,DEU,Guinea,Germany,672,482,0,0,0,0,0
+2011,HTI,DEU,Haiti,Germany,47,12,0,0,0,0,0
+2011,HND,DEU,Honduras,Germany,14,15,0,0,0,0,0
+2011,HRV,DEU,Croatia,Germany,4280,24,0,0,0,0,0
+2011,HUN,DEU,Hungary,Germany,127,0,0,0,0,0,0
+2011,CIV,DEU,Côte d'Ivoire,Germany,465,179,0,0,0,0,0
+2011,IND,DEU,India,Germany,2769,644,0,0,0,0,0
+2011,IDN,DEU,Indonesia,Germany,127,0,0,0,0,0,0
+2011,IRN,DEU,Iran (Islamic Republic of),Germany,20462,4695,0,0,0,0,0
+2011,IRQ,DEU,Iraq,Germany,48976,6074,0,0,0,7213,0
+2011,ISR,DEU,Israel,Germany,343,14,0,0,0,0,0
+2011,ITA,DEU,Italy,Germany,9,0,0,0,0,0,0
+2011,JAM,DEU,Jamaica,Germany,15,6,0,0,0,0,0
+2011,JOR,DEU,Jordan,Germany,795,50,0,0,0,0,0
+2011,JPN,DEU,Japan,Germany,139,0,0,0,0,0,0
+2011,KAZ,DEU,Kazakhstan,Germany,1626,45,0,0,0,0,0
+2011,KEN,DEU,Kenya,Germany,313,324,0,0,0,0,0
+2011,KGZ,DEU,Kyrgyzstan,Germany,1535,118,0,0,0,0,0
+2011,KOR,DEU,Republic of Korea,Germany,139,0,0,0,0,0,0
+2011,PRK,DEU,Democratic People's Republic of Korea,Germany,193,10,0,0,0,0,0
+2011,KWT,DEU,Kuwait,Germany,186,0,0,0,0,0,0
+2011,LAO,DEU,Lao People's Democratic Republic,Germany,172,0,0,0,0,0,0
+2011,LBR,DEU,Liberia,Germany,276,30,0,0,0,0,0
+2011,LBY,DEU,Libya,Germany,686,160,0,0,0,0,0
+2011,LBN,DEU,Lebanon,Germany,11697,513,0,0,0,0,0
+2011,LKA,DEU,Sri Lanka,Germany,11724,875,0,0,0,0,0
+2011,LTU,DEU,Lithuania,Germany,246,0,0,0,0,0,0
+2011,LVA,DEU,Latvia,Germany,435,9,0,0,0,0,0
+2011,MDG,DEU,Madagascar,Germany,12,0,0,0,0,0,0
+2011,MRT,DEU,Mauritania,Germany,49,11,0,0,0,0,0
+2011,MKD,DEU,North Macedonia,Germany,5982,1079,0,0,0,0,0
+2011,MDA,DEU,Republic of Moldova,Germany,4139,29,0,0,0,0,0
+2011,MEX,DEU,Mexico,Germany,36,0,0,0,0,0,0
+2011,MLI,DEU,Mali,Germany,66,34,0,0,0,0,0
+2011,MYS,DEU,Malaysia,Germany,32,0,0,0,0,0,0
+2011,MWI,DEU,Malawi,Germany,0,5,0,0,0,0,0
+2011,MNE,DEU,Montenegro,Germany,3487,142,0,0,0,0,0
+2011,MNG,DEU,Mongolia,Germany,202,51,0,0,0,0,0
+2011,MAR,DEU,Morocco,Germany,1433,254,0,0,0,0,0
+2011,MOZ,DEU,Mozambique,Germany,102,5,0,0,0,0,0
+2011,MMR,DEU,Myanmar,Germany,819,97,0,0,0,0,0
+2011,NAM,DEU,Namibia,Germany,7,0,0,0,0,0,0
+2011,NPL,DEU,Nepal,Germany,331,39,0,0,0,0,0
+2011,NLD,DEU,Netherlands (Kingdom of the),Germany,11,5,0,0,0,0,0
+2011,NER,DEU,Niger,Germany,198,33,0,0,0,0,0
+2011,NIC,DEU,Nicaragua,Germany,7,0,0,0,0,0,0
+2011,NGA,DEU,Nigeria,Germany,2667,1243,0,0,0,0,0
+2011,NZL,DEU,New Zealand,Germany,13,0,0,0,0,0,0
+2011,OMN,DEU,Oman,Germany,42,0,0,0,0,0,0
+2011,PAK,DEU,Pakistan,Germany,6629,3073,0,0,0,0,0
+2011,PRY,DEU,Paraguay,Germany,7,0,0,0,0,0,0
+2011,PER,DEU,Peru,Germany,204,0,0,0,0,0,0
+2011,PHL,DEU,Philippines,Germany,217,5,0,0,0,0,0
+2011,POL,DEU,Poland,Germany,746,5,0,0,0,0,0
+2011,PRT,DEU,Portugal,Germany,5,0,0,0,0,0,0
+2011,QAT,DEU,Qatar,Germany,82,0,0,0,0,0,0
+2011,ROU,DEU,Romania,Germany,517,11,0,0,0,0,0
+2011,ZAF,DEU,South Africa,Germany,46,5,0,0,0,0,0
+2011,RUS,DEU,Russian Federation,Germany,39816,2593,0,0,0,0,0
+2011,RWA,DEU,Rwanda,Germany,217,58,0,0,0,0,0
+2011,SLV,DEU,El Salvador,Germany,15,5,0,0,0,0,0
+2011,SAU,DEU,Saudi Arabia,Germany,384,0,0,0,0,0,0
+2011,SEN,DEU,Senegal,Germany,151,52,0,0,0,0,0
+2011,SGP,DEU,Singapore,Germany,8,0,0,0,0,0,0
+2011,SLE,DEU,Sierra Leone,Germany,748,159,0,0,0,0,0
+2011,SOM,DEU,Somalia,Germany,3139,1582,0,0,0,0,0
+2011,ESP,DEU,Spain,Germany,8,0,0,0,0,0,0
+2011,SRB,DEU,Serbia,Germany,110455,7635,0,0,0,7838,0
+2011,VNM,DEU,Viet Nam,Germany,24261,570,0,0,0,0,0
+2011,SSD,DEU,South Sudan,Germany,0,5,0,0,0,0,0
+2011,STA,DEU,Stateless,Germany,5010,391,0,0,8044,0,0
+2011,SDN,DEU,Sudan,Germany,509,169,0,0,0,0,0
+2011,SUR,DEU,Suriname,Germany,5,0,0,0,0,0,0
+2011,SVK,DEU,Slovakia,Germany,27,0,0,0,0,0,0
+2011,SVN,DEU,Slovenia,Germany,10,0,0,0,0,0,0
+2011,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2011,CHE,DEU,Switzerland,Germany,5,0,0,0,0,0,0
+2011,SYR,DEU,Syrian Arab Republic,Germany,10155,4713,0,0,0,0,0
+2011,TZA,DEU,United Republic of Tanzania,Germany,30,10,0,0,0,0,0
+2011,THA,DEU,Thailand,Germany,212,0,0,0,0,0,0
+2011,TJK,DEU,Tajikistan,Germany,146,135,0,0,0,0,0
+2011,TKM,DEU,Turkmenistan,Germany,200,15,0,0,0,0,0
+2011,TGO,DEU,Togo,Germany,4007,160,0,0,0,0,0
+2011,TUN,DEU,Tunisia,Germany,752,286,0,0,0,0,0
+2011,TUR,DEU,Türkiye,Germany,92968,2806,0,0,0,0,0
+2011,ARE,DEU,United Arab Emirates,Germany,417,0,0,0,0,0,0
+2011,UGA,DEU,Uganda,Germany,258,88,0,0,0,0,0
+2011,UKN,DEU,Various / unknown,Germany,12934,1697,0,0,0,0,0
+2011,UKR,DEU,Ukraine,Germany,19922,70,0,0,0,0,0
+2011,URY,DEU,Uruguay,Germany,9,0,0,0,0,0,0
+2011,USA,DEU,United States of America,Germany,346,5,0,0,0,0,0
+2011,UZB,DEU,Uzbekistan,Germany,2191,43,0,0,0,0,0
+2011,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,24,5,0,0,0,0,0
+2011,YEM,DEU,Yemen,Germany,402,67,0,0,0,0,0
+2011,ZMB,DEU,Zambia,Germany,13,0,0,0,0,0,0
+2011,ZWE,DEU,Zimbabwe,Germany,56,45,0,0,0,0,0
+2012,AFG,DEU,Afghanistan,Germany,31746,14357,0,0,0,0,0
+2012,ALB,DEU,Albania,Germany,2201,231,0,0,0,0,0
+2012,DZA,DEU,Algeria,Germany,2198,538,0,0,0,0,0
+2012,AGO,DEU,Angola,Germany,3041,190,0,0,0,0,0
+2012,EGY,DEU,Egypt,Germany,860,373,0,0,0,0,0
+2012,ARG,DEU,Argentina,Germany,38,0,0,0,0,0,0
+2012,ARM,DEU,Armenia,Germany,4419,957,0,0,0,0,0
+2012,AUS,DEU,Australia,Germany,36,0,0,0,0,0,0
+2012,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2012,AZE,DEU,Azerbaijan,Germany,6575,1337,0,0,0,0,0
+2012,BHR,DEU,Bahrain,Germany,49,0,0,0,0,0,0
+2012,BDI,DEU,Burundi,Germany,105,16,0,0,0,0,0
+2012,BEL,DEU,Belgium,Germany,7,0,0,0,0,0,0
+2012,BEN,DEU,Benin,Germany,183,144,0,0,0,0,0
+2012,BGD,DEU,Bangladesh,Germany,913,346,0,0,0,0,0
+2012,BTN,DEU,Bhutan,Germany,74,11,0,0,0,0,0
+2012,BFA,DEU,Burkina Faso,Germany,197,135,0,0,0,0,0
+2012,BLR,DEU,Belarus,Germany,1989,103,0,0,0,0,0
+2012,BOL,DEU,Bolivia (Plurinational State of),Germany,26,0,0,0,0,0,0
+2012,BWA,DEU,Botswana,Germany,0,5,0,0,0,0,0
+2012,BRA,DEU,Brazil,Germany,163,5,0,0,0,0,0
+2012,BIH,DEU,Bosnia and Herzegovina,Germany,23460,1671,0,0,0,0,0
+2012,BGR,DEU,Bulgaria,Germany,181,24,0,0,0,0,0
+2012,KHM,DEU,Cambodia,Germany,164,20,0,0,0,0,0
+2012,CAN,DEU,Canada,Germany,53,0,0,0,0,0,0
+2012,CAF,DEU,Central African Republic,Germany,12,0,0,0,0,0,0
+2012,TCD,DEU,Chad,Germany,44,62,0,0,0,0,0
+2012,CHN,DEU,China,Germany,3815,526,0,0,0,0,0
+2012,CHL,DEU,Chile,Germany,396,0,0,0,0,0,0
+2012,CMR,DEU,Cameroon,Germany,1244,385,0,0,0,0,0
+2012,COG,DEU,Congo,Germany,518,59,0,0,0,0,0
+2012,COD,DEU,Democratic Republic of the Congo,Germany,5206,473,0,0,0,0,0
+2012,COM,DEU,Comoros,Germany,11,0,0,0,0,0,0
+2012,COL,DEU,Colombia,Germany,241,59,0,0,0,0,0
+2012,CRI,DEU,Costa Rica,Germany,12,0,0,0,0,0,0
+2012,CUB,DEU,Cuba,Germany,364,36,0,0,0,0,0
+2012,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2012,CZE,DEU,Czechia,Germany,165,0,0,0,0,0,0
+2012,DJI,DEU,Djibouti,Germany,5,0,0,0,0,0,0
+2012,DOM,DEU,Dominican Republic,Germany,42,0,0,0,0,0,0
+2012,ECU,DEU,Ecuador,Germany,133,0,0,0,0,0,0
+2012,GNQ,DEU,Equatorial Guinea,Germany,26,10,0,0,0,0,0
+2012,ERI,DEU,Eritrea,Germany,4836,1018,0,0,0,0,0
+2012,EST,DEU,Estonia,Germany,78,0,0,0,0,0,0
+2012,ETH,DEU,Ethiopia,Germany,4538,851,0,0,0,0,0
+2012,FRA,DEU,France,Germany,7,0,0,0,0,0,0
+2012,GAB,DEU,Gabon,Germany,11,5,0,0,0,0,0
+2012,GMB,DEU,Gambia,Germany,502,350,0,0,0,0,0
+2012,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,7,0,0,0,0,0,0
+2012,GEO,DEU,Georgia,Germany,2202,1163,0,0,0,0,0
+2012,GHA,DEU,Ghana,Germany,4323,591,0,0,0,0,0
+2012,GNB,DEU,Guinea-Bissau,Germany,39,72,0,0,0,0,0
+2012,GRC,DEU,Greece,Germany,5,0,0,0,0,0,0
+2012,GTM,DEU,Guatemala,Germany,6,9,0,0,0,0,0
+2012,GIN,DEU,Guinea,Germany,756,668,0,0,0,0,0
+2012,HTI,DEU,Haiti,Germany,45,17,0,0,0,0,0
+2012,HND,DEU,Honduras,Germany,24,7,0,0,0,0,0
+2012,HRV,DEU,Croatia,Germany,4614,42,0,0,0,0,0
+2012,HUN,DEU,Hungary,Germany,121,0,0,0,0,0,0
+2012,CIV,DEU,Côte d'Ivoire,Germany,491,198,0,0,0,0,0
+2012,IND,DEU,India,Germany,2796,739,0,0,0,0,0
+2012,IDN,DEU,Indonesia,Germany,130,0,0,0,0,0,0
+2012,IRN,DEU,Iran (Islamic Republic of),Germany,21629,6618,0,0,0,0,0
+2012,IRQ,DEU,Iraq,Germany,49829,6302,0,0,0,0,0
+2012,ISR,DEU,Israel,Germany,325,30,0,0,0,0,0
+2012,ITA,DEU,Italy,Germany,11,0,0,0,0,0,0
+2012,JAM,DEU,Jamaica,Germany,13,17,0,0,0,0,0
+2012,JOR,DEU,Jordan,Germany,847,46,0,0,0,0,0
+2012,JPN,DEU,Japan,Germany,136,0,0,0,0,0,0
+2012,KAZ,DEU,Kazakhstan,Germany,1627,73,0,0,0,0,0
+2012,KEN,DEU,Kenya,Germany,365,275,0,0,0,0,0
+2012,KGZ,DEU,Kyrgyzstan,Germany,1509,110,0,0,0,0,0
+2012,KOR,DEU,Republic of Korea,Germany,187,0,0,0,0,0,0
+2012,PRK,DEU,Democratic People's Republic of Korea,Germany,138,10,0,0,0,0,0
+2012,KWT,DEU,Kuwait,Germany,267,0,0,0,0,0,0
+2012,LAO,DEU,Lao People's Democratic Republic,Germany,174,0,0,0,0,0,0
+2012,LBR,DEU,Liberia,Germany,284,52,0,0,0,0,0
+2012,LBY,DEU,Libya,Germany,2280,249,0,0,0,0,0
+2012,LBN,DEU,Lebanon,Germany,11819,657,0,0,0,0,0
+2012,LKA,DEU,Sri Lanka,Germany,11672,994,0,0,0,0,0
+2012,LTU,DEU,Lithuania,Germany,244,5,0,0,0,0,0
+2012,LVA,DEU,Latvia,Germany,414,5,0,0,0,0,0
+2012,MDG,DEU,Madagascar,Germany,13,0,0,0,0,0,0
+2012,MRT,DEU,Mauritania,Germany,49,20,0,0,0,0,0
+2012,MKD,DEU,North Macedonia,Germany,6175,3800,0,0,0,0,0
+2012,MDA,DEU,Republic of Moldova,Germany,3988,33,0,0,0,0,0
+2012,MEX,DEU,Mexico,Germany,42,8,0,0,0,0,0
+2012,MLI,DEU,Mali,Germany,86,200,0,0,0,0,0
+2012,MYS,DEU,Malaysia,Germany,33,0,0,0,0,0,0
+2012,MWI,DEU,Malawi,Germany,5,5,0,0,0,0,0
+2012,MNE,DEU,Montenegro,Germany,3762,267,0,0,0,0,0
+2012,MNG,DEU,Mongolia,Germany,215,59,0,0,0,0,0
+2012,MAR,DEU,Morocco,Germany,1454,421,0,0,0,0,0
+2012,MOZ,DEU,Mozambique,Germany,109,5,0,0,0,0,0
+2012,MMR,DEU,Myanmar,Germany,813,109,0,0,0,0,0
+2012,NAM,DEU,Namibia,Germany,10,0,0,0,0,0,0
+2012,NPL,DEU,Nepal,Germany,349,49,0,0,0,0,0
+2012,NLD,DEU,Netherlands (Kingdom of the),Germany,13,0,0,0,0,0,0
+2012,NER,DEU,Niger,Germany,212,54,0,0,0,0,0
+2012,NIC,DEU,Nicaragua,Germany,5,0,0,0,0,0,0
+2012,NGA,DEU,Nigeria,Germany,2833,1542,0,0,0,0,0
+2012,NZL,DEU,New Zealand,Germany,14,0,0,0,0,0,0
+2012,OMN,DEU,Oman,Germany,45,0,0,0,0,0,0
+2012,PAK,DEU,Pakistan,Germany,6943,5436,0,0,0,0,0
+2012,PAN,DEU,Panama,Germany,5,0,0,0,0,0,0
+2012,PRY,DEU,Paraguay,Germany,8,0,0,0,0,0,0
+2012,PER,DEU,Peru,Germany,195,5,0,0,0,0,0
+2012,PHL,DEU,Philippines,Germany,249,5,0,0,0,0,0
+2012,POL,DEU,Poland,Germany,737,5,0,0,0,0,0
+2012,PRT,DEU,Portugal,Germany,5,0,0,0,0,0,0
+2012,QAT,DEU,Qatar,Germany,109,0,0,0,0,0,0
+2012,ROU,DEU,Romania,Germany,492,10,0,0,0,0,0
+2012,ZAF,DEU,South Africa,Germany,49,0,0,0,0,0,0
+2012,RUS,DEU,Russian Federation,Germany,40204,4668,0,0,0,0,0
+2012,RWA,DEU,Rwanda,Germany,217,62,0,0,0,0,0
+2012,SLV,DEU,El Salvador,Germany,19,0,0,0,0,0,0
+2012,SAU,DEU,Saudi Arabia,Germany,394,5,0,0,0,0,0
+2012,SEN,DEU,Senegal,Germany,154,128,0,0,0,0,0
+2012,SYC,DEU,Seychelles,Germany,5,0,0,0,0,0,0
+2012,SGP,DEU,Singapore,Germany,9,0,0,0,0,0,0
+2012,SLE,DEU,Sierra Leone,Germany,749,200,0,0,0,0,0
+2012,SOM,DEU,Somalia,Germany,3634,1972,0,0,0,0,0
+2012,ESP,DEU,Spain,Germany,10,5,0,0,0,0,0
+2012,SRB,DEU,Serbia,Germany,113809,10620,0,0,0,0,0
+2012,VNM,DEU,Viet Nam,Germany,23799,586,0,0,0,0,0
+2012,SSD,DEU,South Sudan,Germany,6,20,0,0,0,0,0
+2012,STA,DEU,Stateless,Germany,5359,324,0,0,5683,0,0
+2012,SDN,DEU,Sudan,Germany,575,267,0,0,0,0,0
+2012,SVK,DEU,Slovakia,Germany,27,5,0,0,0,0,0
+2012,SVN,DEU,Slovenia,Germany,12,0,0,0,0,0,0
+2012,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2012,CHE,DEU,Switzerland,Germany,5,0,0,0,0,0,0
+2012,SYR,DEU,Syrian Arab Republic,Germany,18165,5986,0,0,0,0,0
+2012,TZA,DEU,United Republic of Tanzania,Germany,33,5,0,0,0,0,0
+2012,THA,DEU,Thailand,Germany,210,0,0,0,0,0,0
+2012,TJK,DEU,Tajikistan,Germany,146,126,0,0,0,0,0
+2012,TKM,DEU,Turkmenistan,Germany,195,29,0,0,0,0,0
+2012,TGO,DEU,Togo,Germany,3905,162,0,0,0,0,0
+2012,TTO,DEU,Trinidad and Tobago,Germany,5,0,0,0,0,0,0
+2012,TUN,DEU,Tunisia,Germany,747,329,0,0,0,0,0
+2012,TUR,DEU,Türkiye,Germany,90773,2723,0,0,0,0,0
+2012,ARE,DEU,United Arab Emirates,Germany,510,0,0,0,0,0,0
+2012,UGA,DEU,Uganda,Germany,272,108,0,0,0,0,0
+2012,UKN,DEU,Various / unknown,Germany,13338,1560,0,0,0,0,0
+2012,UKR,DEU,Ukraine,Germany,20059,158,0,0,0,0,0
+2012,URY,DEU,Uruguay,Germany,9,0,0,0,0,0,0
+2012,USA,DEU,United States of America,Germany,350,5,0,0,0,0,0
+2012,UZB,DEU,Uzbekistan,Germany,2200,59,0,0,0,0,0
+2012,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,30,10,0,0,0,0,0
+2012,YEM,DEU,Yemen,Germany,481,69,0,0,0,0,0
+2012,ZMB,DEU,Zambia,Germany,16,0,0,0,0,0,0
+2012,ZWE,DEU,Zimbabwe,Germany,59,37,0,0,0,0,0
+2013,AFG,DEU,Afghanistan,Germany,24203,16148,0,0,0,0,0
+2013,ALB,DEU,Albania,Germany,296,1266,0,0,0,0,0
+2013,DZA,DEU,Algeria,Germany,307,1150,0,0,0,0,0
+2013,AGO,DEU,Angola,Germany,850,214,0,0,0,0,0
+2013,EGY,DEU,Egypt,Germany,266,2259,0,0,0,0,0
+2013,ARG,DEU,Argentina,Germany,16,0,0,0,0,0,0
+2013,ARM,DEU,Armenia,Germany,1022,1832,0,0,0,0,0
+2013,AUS,DEU,Australia,Germany,16,0,0,0,0,0,0
+2013,AZE,DEU,Azerbaijan,Germany,2082,1814,0,0,0,0,0
+2013,BHR,DEU,Bahrain,Germany,5,13,0,0,0,0,0
+2013,BDI,DEU,Burundi,Germany,72,19,0,0,0,0,0
+2013,BEL,DEU,Belgium,Germany,5,0,0,0,0,0,0
+2013,BEN,DEU,Benin,Germany,24,209,0,0,0,0,0
+2013,BGD,DEU,Bangladesh,Germany,118,839,0,0,0,0,0
+2013,BTN,DEU,Bhutan,Germany,31,17,0,0,0,0,0
+2013,BFA,DEU,Burkina Faso,Germany,38,244,0,0,0,0,0
+2013,BLR,DEU,Belarus,Germany,155,114,0,0,0,0,0
+2013,BOL,DEU,Bolivia (Plurinational State of),Germany,7,0,0,0,0,0,0
+2013,BWA,DEU,Botswana,Germany,0,5,0,0,0,0,0
+2013,BRA,DEU,Brazil,Germany,66,9,0,0,0,0,0
+2013,BIH,DEU,Bosnia and Herzegovina,Germany,1344,3147,0,0,0,0,0
+2013,BGR,DEU,Bulgaria,Germany,94,27,0,0,0,0,0
+2013,KHM,DEU,Cambodia,Germany,26,23,0,0,0,0,0
+2013,CAN,DEU,Canada,Germany,34,0,0,0,0,0,0
+2013,CAF,DEU,Central African Republic,Germany,0,8,0,0,0,0,0
+2013,TCD,DEU,Chad,Germany,18,259,0,0,0,0,0
+2013,CHN,DEU,China,Germany,1490,663,0,0,0,0,0
+2013,CHL,DEU,Chile,Germany,196,0,0,0,0,0,0
+2013,CMR,DEU,Cameroon,Germany,528,623,0,0,0,0,0
+2013,COG,DEU,Congo,Germany,194,96,0,0,0,0,0
+2013,COD,DEU,Democratic Republic of the Congo,Germany,1672,584,0,0,0,0,0
+2013,COL,DEU,Colombia,Germany,70,54,0,0,0,0,0
+2013,CRI,DEU,Costa Rica,Germany,5,0,0,0,0,0,0
+2013,CUB,DEU,Cuba,Germany,126,76,0,0,0,0,0
+2013,CZE,DEU,Czechia,Germany,510,5,0,0,0,0,0
+2013,DJI,DEU,Djibouti,Germany,0,7,0,0,0,0,0
+2013,DOM,DEU,Dominican Republic,Germany,19,5,0,0,0,0,0
+2013,ECU,DEU,Ecuador,Germany,22,0,0,0,0,0,0
+2013,GNQ,DEU,Equatorial Guinea,Germany,15,0,0,0,0,0,0
+2013,ERI,DEU,Eritrea,Germany,3984,4101,0,0,0,0,0
+2013,ETH,DEU,Ethiopia,Germany,2639,1290,0,0,0,0,0
+2013,FRA,DEU,France,Germany,15,0,0,0,0,0,0
+2013,GAB,DEU,Gabon,Germany,0,7,0,0,0,0,0
+2013,GMB,DEU,Gambia,Germany,126,869,0,0,0,0,0
+2013,PSE,DEU,State of Palestine,Germany,32,243,0,0,0,0,0
+2013,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,8,0,0,0,0,0,0
+2013,GEO,DEU,Georgia,Germany,333,2449,0,0,0,0,0
+2013,GHA,DEU,Ghana,Germany,236,1038,0,0,0,0,0
+2013,GNB,DEU,Guinea-Bissau,Germany,17,227,0,0,0,0,0
+2013,GRC,DEU,Greece,Germany,46,0,0,0,0,0,0
+2013,GTM,DEU,Guatemala,Germany,5,8,0,0,0,0,0
+2013,GIN,DEU,Guinea,Germany,472,1627,0,0,0,0,0
+2013,HTI,DEU,Haiti,Germany,15,12,0,0,0,0,0
+2013,HND,DEU,Honduras,Germany,8,6,0,0,0,0,0
+2013,HRV,DEU,Croatia,Germany,359,33,0,0,0,0,0
+2013,HUN,DEU,Hungary,Germany,308,11,0,0,0,0,0
+2013,CIV,DEU,Côte d'Ivoire,Germany,185,366,0,0,0,0,0
+2013,IND,DEU,India,Germany,401,1349,0,0,0,0,0
+2013,IDN,DEU,Indonesia,Germany,28,5,0,0,0,0,0
+2013,IRN,DEU,Iran (Islamic Republic of),Germany,17150,7788,0,0,0,0,0
+2013,IRQ,DEU,Iraq,Germany,40230,6093,0,0,0,0,0
+2013,ISR,DEU,Israel,Germany,43,40,0,0,0,0,0
+2013,ITA,DEU,Italy,Germany,10,15,0,0,0,0,0
+2013,JAM,DEU,Jamaica,Germany,5,24,0,0,0,0,0
+2013,JOR,DEU,Jordan,Germany,99,99,0,0,0,0,0
+2013,JPN,DEU,Japan,Germany,112,0,0,0,0,0,0
+2013,KAZ,DEU,Kazakhstan,Germany,84,157,0,0,0,0,0
+2013,KEN,DEU,Kenya,Germany,158,279,0,0,0,0,0
+2013,KGZ,DEU,Kyrgyzstan,Germany,60,170,0,0,0,0,0
+2013,KOR,DEU,Republic of Korea,Germany,122,5,0,0,0,0,0
+2013,PRK,DEU,Democratic People's Republic of Korea,Germany,112,83,0,0,0,0,0
+2013,KWT,DEU,Kuwait,Germany,5,0,0,0,0,0,0
+2013,LAO,DEU,Lao People's Democratic Republic,Germany,55,0,0,0,0,0,0
+2013,LBR,DEU,Liberia,Germany,68,80,0,0,0,0,0
+2013,LBY,DEU,Libya,Germany,141,453,0,0,0,0,0
+2013,LBN,DEU,Lebanon,Germany,449,824,0,0,0,0,0
+2013,LKA,DEU,Sri Lanka,Germany,4077,1243,0,0,0,0,0
+2013,LTU,DEU,Lithuania,Germany,7,5,0,0,0,0,0
+2013,LVA,DEU,Latvia,Germany,12,5,0,0,0,0,0
+2013,MDG,DEU,Madagascar,Germany,5,0,0,0,0,0,0
+2013,MRT,DEU,Mauritania,Germany,15,106,0,0,0,0,0
+2013,MKD,DEU,North Macedonia,Germany,341,5951,0,0,0,0,0
+2013,MDA,DEU,Republic of Moldova,Germany,31,68,0,0,0,0,0
+2013,MEX,DEU,Mexico,Germany,28,5,0,0,0,0,0
+2013,MLI,DEU,Mali,Germany,21,697,0,0,0,0,0
+2013,MYS,DEU,Malaysia,Germany,11,0,0,0,0,0,0
+2013,MNE,DEU,Montenegro,Germany,218,314,0,0,0,0,0
+2013,MNG,DEU,Mongolia,Germany,39,185,0,0,0,0,0
+2013,MAR,DEU,Morocco,Germany,144,1085,0,0,0,0,0
+2013,MOZ,DEU,Mozambique,Germany,11,0,0,0,0,0,0
+2013,MMR,DEU,Myanmar,Germany,825,116,0,0,0,0,0
+2013,NPL,DEU,Nepal,Germany,55,50,0,0,0,0,0
+2013,NLD,DEU,Netherlands (Kingdom of the),Germany,9,0,0,0,0,0,0
+2013,NER,DEU,Niger,Germany,36,126,0,0,0,0,0
+2013,NGA,DEU,Nigeria,Germany,720,2893,0,0,0,0,0
+2013,NOR,DEU,Norway,Germany,5,0,0,0,0,0,0
+2013,NZL,DEU,New Zealand,Germany,10,0,0,0,0,0,0
+2013,PAK,DEU,Pakistan,Germany,3387,7534,0,0,0,0,0
+2013,PER,DEU,Peru,Germany,48,6,0,0,0,0,0
+2013,PHL,DEU,Philippines,Germany,28,11,0,0,0,0,0
+2013,POL,DEU,Poland,Germany,742,5,0,0,0,0,0
+2013,ROU,DEU,Romania,Germany,182,18,0,0,0,0,0
+2013,ZAF,DEU,South Africa,Germany,32,0,0,0,0,0,0
+2013,RUS,DEU,Russian Federation,Germany,4358,12890,0,0,0,0,0
+2013,RWA,DEU,Rwanda,Germany,170,53,0,0,0,0,0
+2013,SLV,DEU,El Salvador,Germany,7,0,0,0,0,0,0
+2013,SAU,DEU,Saudi Arabia,Germany,11,6,0,0,0,0,0
+2013,SEN,DEU,Senegal,Germany,31,627,0,0,0,0,0
+2013,SGP,DEU,Singapore,Germany,7,0,0,0,0,0,0
+2013,SLE,DEU,Sierra Leone,Germany,323,328,0,0,0,0,0
+2013,SOM,DEU,Somalia,Germany,3512,4803,0,0,0,0,0
+2013,ESP,DEU,Spain,Germany,12,15,0,0,0,0,0
+2013,SRB,DEU,Serbia,Germany,8410,14515,0,0,0,0,0
+2013,VNM,DEU,Viet Nam,Germany,1495,568,0,0,0,0,0
+2013,SSD,DEU,South Sudan,Germany,7,32,0,0,0,0,0
+2013,STA,DEU,Stateless,Germany,920,589,0,0,11709,0,0
+2013,SDN,DEU,Sudan,Germany,296,555,0,0,0,0,0
+2013,SVK,DEU,Slovakia,Germany,99,6,0,0,0,0,0
+2013,SVN,DEU,Slovenia,Germany,11,0,0,0,0,0,0
+2013,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2013,SYR,DEU,Syrian Arab Republic,Germany,21253,10566,0,0,0,0,0
+2013,TZA,DEU,United Republic of Tanzania,Germany,18,31,0,0,0,0,0
+2013,THA,DEU,Thailand,Germany,58,0,0,0,0,0,0
+2013,TJK,DEU,Tajikistan,Germany,73,201,0,0,0,0,0
+2013,TKM,DEU,Turkmenistan,Germany,21,139,0,0,0,0,0
+2013,TGO,DEU,Togo,Germany,1404,232,0,0,0,0,0
+2013,TUN,DEU,Tunisia,Germany,94,652,0,0,0,0,0
+2013,TUR,DEU,Türkiye,Germany,24449,3165,0,0,0,0,0
+2013,UGA,DEU,Uganda,Germany,120,123,0,0,0,0,0
+2013,UKN,DEU,Various / unknown,Germany,4523,2981,0,0,0,0,0
+2013,UKR,DEU,Ukraine,Germany,261,259,0,0,0,0,0
+2013,USA,DEU,United States of America,Germany,238,11,0,0,0,0,0
+2013,UZB,DEU,Uzbekistan,Germany,88,56,0,0,0,0,0
+2013,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,5,13,0,0,0,0,0
+2013,YEM,DEU,Yemen,Germany,112,155,0,0,0,0,0
+2013,ZMB,DEU,Zambia,Germany,5,0,0,0,0,0,0
+2013,ZWE,DEU,Zimbabwe,Germany,48,41,0,0,0,0,0
+2014,AFG,DEU,Afghanistan,Germany,27814,19023,0,0,0,0,0
+2014,ALB,DEU,Albania,Germany,366,6985,0,0,0,0,0
+2014,DZA,DEU,Algeria,Germany,301,2263,0,0,0,0,0
+2014,AGO,DEU,Angola,Germany,800,236,0,0,0,0,0
+2014,EGY,DEU,Egypt,Germany,355,2842,0,0,0,0,0
+2014,ARG,DEU,Argentina,Germany,14,5,0,0,0,0,0
+2014,ARM,DEU,Armenia,Germany,1127,3338,0,0,0,0,0
+2014,AUS,DEU,Australia,Germany,11,0,0,0,0,0,0
+2014,AZE,DEU,Azerbaijan,Germany,2167,2379,0,0,0,0,0
+2014,BHR,DEU,Bahrain,Germany,23,28,0,0,0,0,0
+2014,BDI,DEU,Burundi,Germany,71,22,0,0,0,0,0
+2014,BEL,DEU,Belgium,Germany,5,0,0,0,0,0,0
+2014,BEN,DEU,Benin,Germany,30,325,0,0,0,0,0
+2014,BGD,DEU,Bangladesh,Germany,153,1282,0,0,0,0,0
+2014,BTN,DEU,Bhutan,Germany,28,21,0,0,0,0,0
+2014,BFA,DEU,Burkina Faso,Germany,37,262,0,0,0,0,0
+2014,BLR,DEU,Belarus,Germany,155,142,0,0,0,0,0
+2014,BOL,DEU,Bolivia (Plurinational State of),Germany,7,0,0,0,0,0,0
+2014,BWA,DEU,Botswana,Germany,0,8,0,0,0,0,0
+2014,BRA,DEU,Brazil,Germany,58,16,0,0,0,0,0
+2014,BIH,DEU,Bosnia and Herzegovina,Germany,1381,5541,0,0,0,0,0
+2014,BGR,DEU,Bulgaria,Germany,91,36,0,0,0,0,0
+2014,KHM,DEU,Cambodia,Germany,26,28,0,0,0,0,0
+2014,CAN,DEU,Canada,Germany,34,0,0,0,0,0,0
+2014,CAF,DEU,Central African Republic,Germany,0,37,0,0,0,0,0
+2014,TCD,DEU,Chad,Germany,16,269,0,0,0,0,0
+2014,CHN,DEU,China,Germany,1530,886,0,0,0,0,0
+2014,CHL,DEU,Chile,Germany,194,0,0,0,0,0,0
+2014,CMR,DEU,Cameroon,Germany,538,1030,0,0,0,0,0
+2014,COG,DEU,Congo,Germany,194,120,0,0,0,0,0
+2014,COD,DEU,Democratic Republic of the Congo,Germany,1646,665,0,0,0,0,0
+2014,COM,DEU,Comoros,Germany,0,5,0,0,0,0,0
+2014,COL,DEU,Colombia,Germany,63,52,0,0,0,0,0
+2014,CUB,DEU,Cuba,Germany,113,102,0,0,0,0,0
+2014,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2014,CZE,DEU,Czechia,Germany,859,15,0,0,0,0,0
+2014,DJI,DEU,Djibouti,Germany,0,13,0,0,0,0,0
+2014,DOM,DEU,Dominican Republic,Germany,21,5,0,0,0,0,0
+2014,ECU,DEU,Ecuador,Germany,22,0,0,0,0,0,0
+2014,GNQ,DEU,Equatorial Guinea,Germany,14,8,0,0,0,0,0
+2014,ERI,DEU,Eritrea,Germany,4716,15819,0,0,0,0,0
+2014,EST,DEU,Estonia,Germany,0,5,0,0,0,0,0
+2014,ETH,DEU,Ethiopia,Germany,2695,2115,0,0,0,0,0
+2014,FRA,DEU,France,Germany,14,0,0,0,0,0,0
+2014,GAB,DEU,Gabon,Germany,5,10,0,0,0,0,0
+2014,GMB,DEU,Gambia,Germany,144,2416,0,0,0,0,0
+2014,PSE,DEU,State of Palestine,Germany,250,400,0,0,0,0,0
+2014,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,11,0,0,0,0,0,0
+2014,GEO,DEU,Georgia,Germany,343,3476,0,0,0,0,0
+2014,GHA,DEU,Ghana,Germany,256,1695,0,0,0,0,0
+2014,GNB,DEU,Guinea-Bissau,Germany,18,357,0,0,0,0,0
+2014,GRC,DEU,Greece,Germany,48,5,0,0,0,0,0
+2014,GTM,DEU,Guatemala,Germany,5,14,0,0,0,0,0
+2014,GIN,DEU,Guinea,Germany,569,2218,0,0,0,0,0
+2014,HTI,DEU,Haiti,Germany,15,7,0,0,0,0,0
+2014,HND,DEU,Honduras,Germany,22,7,0,0,0,0,0
+2014,HRV,DEU,Croatia,Germany,345,34,0,0,0,0,0
+2014,HUN,DEU,Hungary,Germany,295,17,0,0,0,0,0
+2014,CIV,DEU,Côte d'Ivoire,Germany,171,443,0,0,0,0,0
+2014,IND,DEU,India,Germany,417,2357,0,0,0,0,0
+2014,IDN,DEU,Indonesia,Germany,31,5,0,0,0,0,0
+2014,IRN,DEU,Iran (Islamic Republic of),Germany,18814,7632,0,0,0,0,0
+2014,IRQ,DEU,Iraq,Germany,41167,10360,0,0,0,0,0
+2014,ISR,DEU,Israel,Germany,39,47,0,0,0,0,0
+2014,ITA,DEU,Italy,Germany,11,22,0,0,0,0,0
+2014,JAM,DEU,Jamaica,Germany,6,20,0,0,0,0,0
+2014,JOR,DEU,Jordan,Germany,107,175,0,0,0,0,0
+2014,JPN,DEU,Japan,Germany,216,0,0,0,0,0,0
+2014,KAZ,DEU,Kazakhstan,Germany,89,188,0,0,0,0,0
+2014,KEN,DEU,Kenya,Germany,182,370,0,0,0,0,0
+2014,KGZ,DEU,Kyrgyzstan,Germany,95,171,0,0,0,0,0
+2014,KOR,DEU,Republic of Korea,Germany,141,8,0,0,0,0,0
+2014,PRK,DEU,Democratic People's Republic of Korea,Germany,104,84,0,0,0,0,0
+2014,KWT,DEU,Kuwait,Germany,13,0,0,0,0,0,0
+2014,LAO,DEU,Lao People's Democratic Republic,Germany,52,0,0,0,0,0,0
+2014,LBR,DEU,Liberia,Germany,64,109,0,0,0,0,0
+2014,LBY,DEU,Libya,Germany,267,786,0,0,0,0,0
+2014,LBN,DEU,Lebanon,Germany,489,1176,0,0,0,0,0
+2014,LKA,DEU,Sri Lanka,Germany,4046,1308,0,0,0,0,0
+2014,LTU,DEU,Lithuania,Germany,6,5,0,0,0,0,0
+2014,LVA,DEU,Latvia,Germany,10,5,0,0,0,0,0
+2014,MRT,DEU,Mauritania,Germany,14,114,0,0,0,0,0
+2014,MKD,DEU,North Macedonia,Germany,390,7087,0,0,0,0,0
+2014,MDA,DEU,Republic of Moldova,Germany,40,299,0,0,0,0,0
+2014,MEX,DEU,Mexico,Germany,26,10,0,0,0,0,0
+2014,MLI,DEU,Mali,Germany,34,802,0,0,0,0,0
+2014,MYS,DEU,Malaysia,Germany,7,0,0,0,0,0,0
+2014,MNE,DEU,Montenegro,Germany,220,1008,0,0,0,0,0
+2014,MNG,DEU,Mongolia,Germany,35,511,0,0,0,0,0
+2014,MAR,DEU,Morocco,Germany,154,1557,0,0,0,0,0
+2014,MOZ,DEU,Mozambique,Germany,12,10,0,0,0,0,0
+2014,MMR,DEU,Myanmar,Germany,769,147,0,0,0,0,0
+2014,NAM,DEU,Namibia,Germany,5,0,0,0,0,0,0
+2014,NPL,DEU,Nepal,Germany,51,56,0,0,0,0,0
+2014,NLD,DEU,Netherlands (Kingdom of the),Germany,10,10,0,0,0,0,0
+2014,NER,DEU,Niger,Germany,41,159,0,0,0,0,0
+2014,NGA,DEU,Nigeria,Germany,867,5978,0,0,0,0,0
+2014,NZL,DEU,New Zealand,Germany,9,0,0,0,0,0,0
+2014,PAK,DEU,Pakistan,Germany,4331,9125,0,0,0,0,0
+2014,PER,DEU,Peru,Germany,46,8,0,0,0,0,0
+2014,PHL,DEU,Philippines,Germany,31,18,0,0,0,0,0
+2014,POL,DEU,Poland,Germany,718,20,0,0,0,0,0
+2014,PRT,DEU,Portugal,Germany,5,0,0,0,0,0,0
+2014,ROU,DEU,Romania,Germany,177,23,0,0,0,0,0
+2014,ZAF,DEU,South Africa,Germany,30,8,0,0,0,0,0
+2014,RUS,DEU,Russian Federation,Germany,4608,12677,0,0,0,0,0
+2014,RWA,DEU,Rwanda,Germany,173,67,0,0,0,0,0
+2014,SLV,DEU,El Salvador,Germany,6,13,0,0,0,0,0
+2014,SAU,DEU,Saudi Arabia,Germany,15,0,0,0,0,0,0
+2014,SEN,DEU,Senegal,Germany,36,1173,0,0,0,0,0
+2014,SGP,DEU,Singapore,Germany,7,0,0,0,0,0,0
+2014,SLE,DEU,Sierra Leone,Germany,324,477,0,0,0,0,0
+2014,SOM,DEU,Somalia,Germany,4205,8386,0,0,0,0,0
+2014,ESP,DEU,Spain,Germany,15,23,0,0,0,0,0
+2014,SRB,DEU,Serbia,Germany,9294,27788,0,0,0,0,0
+2014,VNM,DEU,Viet Nam,Germany,1449,825,0,0,0,0,0
+2014,SSD,DEU,South Sudan,Germany,11,50,0,0,0,0,0
+2014,STA,DEU,Stateless,Germany,1559,1173,0,0,11917,0,0
+2014,SDN,DEU,Sudan,Germany,330,1022,0,0,0,0,0
+2014,SVK,DEU,Slovakia,Germany,99,5,0,0,0,0,0
+2014,SVN,DEU,Slovenia,Germany,9,5,0,0,0,0,0
+2014,SWE,DEU,Sweden,Germany,5,5,0,0,0,0,0
+2014,SYR,DEU,Syrian Arab Republic,Germany,40994,29591,0,0,0,0,0
+2014,TZA,DEU,United Republic of Tanzania,Germany,12,66,0,0,0,0,0
+2014,THA,DEU,Thailand,Germany,67,0,0,0,0,0,0
+2014,TJK,DEU,Tajikistan,Germany,95,424,0,0,0,0,0
+2014,TKM,DEU,Turkmenistan,Germany,26,425,0,0,0,0,0
+2014,TGO,DEU,Togo,Germany,1293,332,0,0,0,0,0
+2014,TUN,DEU,Tunisia,Germany,90,664,0,0,0,0,0
+2014,TUR,DEU,Türkiye,Germany,22242,3815,0,0,0,0,0
+2014,UGA,DEU,Uganda,Germany,120,152,0,0,0,0,0
+2014,UKN,DEU,Various / unknown,Germany,4526,5011,0,0,0,0,0
+2014,UKR,DEU,Ukraine,Germany,299,2772,0,0,0,0,0
+2014,USA,DEU,United States of America,Germany,216,17,0,0,0,0,0
+2014,UZB,DEU,Uzbekistan,Germany,85,52,0,0,0,0,0
+2014,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,5,18,0,0,0,0,0
+2014,YEM,DEU,Yemen,Germany,109,266,0,0,0,0,0
+2014,ZMB,DEU,Zambia,Germany,6,10,0,0,0,0,0
+2014,ZWE,DEU,Zimbabwe,Germany,47,38,0,0,0,0,0
+2015,AFG,DEU,Afghanistan,Germany,30026,42602,0,0,0,0,0
+2015,ALB,DEU,Albania,Germany,472,32295,0,0,0,0,0
+2015,DZA,DEU,Algeria,Germany,289,3661,0,0,0,0,0
+2015,AGO,DEU,Angola,Germany,796,187,0,0,0,0,0
+2015,EGY,DEU,Egypt,Germany,636,3109,0,0,0,0,0
+2015,ARG,DEU,Argentina,Germany,12,5,0,0,0,0,0
+2015,ARM,DEU,Armenia,Germany,1191,4675,0,0,0,0,0
+2015,AUS,DEU,Australia,Germany,5,0,0,0,0,0,0
+2015,AZE,DEU,Azerbaijan,Germany,2171,3190,0,0,0,0,0
+2015,BHR,DEU,Bahrain,Germany,55,9,0,0,0,0,0
+2015,BDI,DEU,Burundi,Germany,71,13,0,0,0,0,0
+2015,BEL,DEU,Belgium,Germany,5,5,0,0,0,0,0
+2015,BEN,DEU,Benin,Germany,34,570,0,0,0,0,0
+2015,BGD,DEU,Bangladesh,Germany,186,1487,0,0,0,0,0
+2015,BTN,DEU,Bhutan,Germany,27,17,0,0,0,0,0
+2015,BFA,DEU,Burkina Faso,Germany,36,336,0,0,0,0,0
+2015,BLR,DEU,Belarus,Germany,154,371,0,0,0,0,0
+2015,BOL,DEU,Bolivia (Plurinational State of),Germany,7,0,0,0,0,0,0
+2015,BWA,DEU,Botswana,Germany,0,10,0,0,0,0,0
+2015,BRA,DEU,Brazil,Germany,35,10,0,0,0,0,0
+2015,BIH,DEU,Bosnia and Herzegovina,Germany,1412,6032,0,0,0,0,0
+2015,BGR,DEU,Bulgaria,Germany,85,22,0,0,0,0,0
+2015,KHM,DEU,Cambodia,Germany,26,20,0,0,0,0,0
+2015,CAN,DEU,Canada,Germany,20,0,0,0,0,0,0
+2015,CAF,DEU,Central African Republic,Germany,5,62,0,0,0,0,0
+2015,TCD,DEU,Chad,Germany,24,230,0,0,0,0,0
+2015,CHN,DEU,China,Germany,1406,1273,0,0,0,0,0
+2015,CHL,DEU,Chile,Germany,184,0,0,0,0,0,0
+2015,CMR,DEU,Cameroon,Germany,515,1506,0,0,0,0,0
+2015,COG,DEU,Congo,Germany,178,125,0,0,0,0,0
+2015,COD,DEU,Democratic Republic of the Congo,Germany,1537,654,0,0,0,0,0
+2015,COM,DEU,Comoros,Germany,0,11,0,0,0,0,0
+2015,COL,DEU,Colombia,Germany,61,43,0,0,0,0,0
+2015,CUB,DEU,Cuba,Germany,102,160,0,0,0,0,0
+2015,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2015,CZE,DEU,Czechia,Germany,837,5,0,0,0,0,0
+2015,DJI,DEU,Djibouti,Germany,0,29,0,0,0,0,0
+2015,DOM,DEU,Dominican Republic,Germany,15,5,0,0,0,0,0
+2015,ECU,DEU,Ecuador,Germany,18,0,0,0,0,0,0
+2015,GNQ,DEU,Equatorial Guinea,Germany,15,11,0,0,0,0,0
+2015,ERI,DEU,Eritrea,Germany,10980,16716,0,0,0,0,0
+2015,ETH,DEU,Ethiopia,Germany,2657,3740,0,0,0,0,0
+2015,FRA,DEU,France,Germany,14,0,0,0,0,0,0
+2015,GAB,DEU,Gabon,Germany,0,10,0,0,0,0,0
+2015,GMB,DEU,Gambia,Germany,172,5024,0,0,0,0,0
+2015,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,12,0,0,0,0,0,0
+2015,GEO,DEU,Georgia,Germany,360,4593,0,0,0,0,0
+2015,GHA,DEU,Ghana,Germany,274,2149,0,0,0,0,0
+2015,GNB,DEU,Guinea-Bissau,Germany,24,539,0,0,0,0,0
+2015,GRC,DEU,Greece,Germany,47,13,0,0,0,0,0
+2015,GTM,DEU,Guatemala,Germany,0,5,0,0,0,0,0
+2015,GIN,DEU,Guinea,Germany,641,2452,0,0,0,0,0
+2015,HTI,DEU,Haiti,Germany,16,10,0,0,0,0,0
+2015,HND,DEU,Honduras,Germany,27,17,0,0,0,0,0
+2015,HRV,DEU,Croatia,Germany,328,25,0,0,0,0,0
+2015,HUN,DEU,Hungary,Germany,291,5,0,0,0,0,0
+2015,CIV,DEU,Côte d'Ivoire,Germany,181,692,0,0,0,0,0
+2015,IND,DEU,India,Germany,299,3658,0,0,0,0,0
+2015,IDN,DEU,Indonesia,Germany,20,7,0,0,0,0,0
+2015,IRN,DEU,Iran (Islamic Republic of),Germany,19763,9390,0,0,0,0,0
+2015,IRQ,DEU,Iraq,Germany,51396,25278,0,0,0,0,0
+2015,ISR,DEU,Israel,Germany,26,60,0,0,0,0,0
+2015,ITA,DEU,Italy,Germany,13,21,0,0,0,0,0
+2015,JAM,DEU,Jamaica,Germany,6,28,0,0,0,0,0
+2015,JOR,DEU,Jordan,Germany,138,258,0,0,0,0,0
+2015,JPN,DEU,Japan,Germany,101,0,0,0,0,0,0
+2015,KAZ,DEU,Kazakhstan,Germany,87,181,0,0,0,0,0
+2015,KEN,DEU,Kenya,Germany,180,276,0,0,0,0,0
+2015,KGZ,DEU,Kyrgyzstan,Germany,104,161,0,0,0,0,0
+2015,KOR,DEU,Republic of Korea,Germany,82,12,0,0,0,0,0
+2015,PRK,DEU,Democratic People's Republic of Korea,Germany,101,114,0,0,0,0,0
+2015,KWT,DEU,Kuwait,Germany,5,5,0,0,0,0,0
+2015,LAO,DEU,Lao People's Democratic Republic,Germany,50,0,0,0,0,0,0
+2015,LBR,DEU,Liberia,Germany,61,147,0,0,0,0,0
+2015,LBY,DEU,Libya,Germany,334,1574,0,0,0,0,0
+2015,LBN,DEU,Lebanon,Germany,521,2068,0,0,0,0,0
+2015,LKA,DEU,Sri Lanka,Germany,3920,1271,0,0,0,0,0
+2015,LTU,DEU,Lithuania,Germany,5,0,0,0,0,0,0
+2015,LVA,DEU,Latvia,Germany,11,6,0,0,0,0,0
+2015,MRT,DEU,Mauritania,Germany,15,160,0,0,0,0,0
+2015,MKD,DEU,North Macedonia,Germany,459,13627,0,0,0,0,0
+2015,MDA,DEU,Republic of Moldova,Germany,44,1825,0,0,0,0,0
+2015,MEX,DEU,Mexico,Germany,20,10,0,0,0,0,0
+2015,MLI,DEU,Mali,Germany,49,1038,0,0,0,0,0
+2015,MYS,DEU,Malaysia,Germany,6,0,0,0,0,0,0
+2015,MWI,DEU,Malawi,Germany,5,0,0,0,0,0,0
+2015,MNE,DEU,Montenegro,Germany,237,2717,0,0,0,0,0
+2015,MNG,DEU,Mongolia,Germany,36,701,0,0,0,0,0
+2015,MAR,DEU,Morocco,Germany,161,2441,0,0,0,0,0
+2015,MOZ,DEU,Mozambique,Germany,12,0,0,0,0,0,0
+2015,MUS,DEU,Mauritius,Germany,5,0,0,0,0,0,0
+2015,MMR,DEU,Myanmar,Germany,708,170,0,0,0,0,0
+2015,NPL,DEU,Nepal,Germany,45,40,0,0,0,0,0
+2015,NLD,DEU,Netherlands (Kingdom of the),Germany,12,5,0,0,0,0,0
+2015,NER,DEU,Niger,Germany,45,233,0,0,0,0,0
+2015,NGA,DEU,Nigeria,Germany,981,9996,0,0,0,0,0
+2015,NZL,DEU,New Zealand,Germany,8,0,0,0,0,0,0
+2015,OMN,DEU,Oman,Germany,5,5,0,0,0,0,0
+2015,PAK,DEU,Pakistan,Germany,4702,14966,0,0,0,0,0
+2015,PRY,DEU,Paraguay,Germany,0,5,0,0,0,0,0
+2015,PER,DEU,Peru,Germany,42,8,0,0,0,0,0
+2015,PHL,DEU,Philippines,Germany,28,26,0,0,0,0,0
+2015,POL,DEU,Poland,Germany,703,27,0,0,0,0,0
+2015,PRT,DEU,Portugal,Germany,5,5,0,0,0,0,0
+2015,ROU,DEU,Romania,Germany,170,14,0,0,0,0,0
+2015,ZAF,DEU,South Africa,Germany,24,19,0,0,0,0,0
+2015,RUS,DEU,Russian Federation,Germany,4856,12725,0,0,0,0,0
+2015,RWA,DEU,Rwanda,Germany,188,67,0,0,0,0,0
+2015,SLV,DEU,El Salvador,Germany,8,9,0,0,0,0,0
+2015,SAU,DEU,Saudi Arabia,Germany,15,16,0,0,0,0,0
+2015,SEN,DEU,Senegal,Germany,41,2274,0,0,0,0,0
+2015,SGP,DEU,Singapore,Germany,6,0,0,0,0,0,0
+2015,SLE,DEU,Sierra Leone,Germany,341,682,0,0,0,0,0
+2015,SOM,DEU,Somalia,Germany,4860,11422,0,0,0,0,0
+2015,ESP,DEU,Spain,Germany,14,20,0,0,0,0,0
+2015,SRB,DEU,Serbia,Germany,9157,45121,0,0,0,0,0
+2015,VNM,DEU,Viet Nam,Germany,1357,1086,0,0,0,0,0
+2015,SSD,DEU,South Sudan,Germany,19,72,0,0,0,0,0
+2015,STA,DEU,Stateless,Germany,2935,3104,0,0,12569,0,0
+2015,SDN,DEU,Sudan,Germany,457,1587,0,0,0,0,0
+2015,SVK,DEU,Slovakia,Germany,95,7,0,0,0,0,0
+2015,SVN,DEU,Slovenia,Germany,7,5,0,0,0,0,0
+2015,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2015,SYR,DEU,Syrian Arab Republic,Germany,115604,81582,0,0,0,0,0
+2015,TZA,DEU,United Republic of Tanzania,Germany,13,95,0,0,0,0,0
+2015,THA,DEU,Thailand,Germany,46,5,0,0,0,0,0
+2015,TJK,DEU,Tajikistan,Germany,103,574,0,0,0,0,0
+2015,TKM,DEU,Turkmenistan,Germany,29,718,0,0,0,0,0
+2015,TGO,DEU,Togo,Germany,1188,483,0,0,0,0,0
+2015,TUN,DEU,Tunisia,Germany,90,1129,0,0,0,0,0
+2015,TUR,DEU,Türkiye,Germany,20281,3941,0,0,0,0,0
+2015,ARE,DEU,United Arab Emirates,Germany,0,6,0,0,0,0,0
+2015,UGA,DEU,Uganda,Germany,112,205,0,0,0,0,0
+2015,UKN,DEU,Various / unknown,Germany,9089,15048,0,0,0,0,0
+2015,UKR,DEU,Ukraine,Germany,320,6628,0,0,0,0,0
+2015,USA,DEU,United States of America,Germany,159,14,0,0,0,0,0
+2015,UZB,DEU,Uzbekistan,Germany,78,47,0,0,0,0,0
+2015,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,6,37,0,0,0,0,0
+2015,YEM,DEU,Yemen,Germany,140,538,0,0,0,0,0
+2015,ZMB,DEU,Zambia,Germany,6,5,0,0,0,0,0
+2015,ZWE,DEU,Zimbabwe,Germany,46,35,0,0,0,0,0
+2016,AFG,DEU,Afghanistan,Germany,46292,126522,0,0,0,0,0
+2016,ALB,DEU,Albania,Germany,699,11258,0,0,0,0,0
+2016,DZA,DEU,Algeria,Germany,397,2744,0,0,0,0,0
+2016,AGO,DEU,Angola,Germany,748,296,0,0,0,0,0
+2016,EGY,DEU,Egypt,Germany,1079,3231,0,0,0,0,0
+2016,ARG,DEU,Argentina,Germany,13,5,0,0,0,0,0
+2016,ARM,DEU,Armenia,Germany,1336,8555,0,0,0,0,0
+2016,AUS,DEU,Australia,Germany,5,0,0,0,0,0,0
+2016,AZE,DEU,Azerbaijan,Germany,2312,6242,0,0,0,0,0
+2016,BHR,DEU,Bahrain,Germany,58,21,0,0,0,0,0
+2016,BDI,DEU,Burundi,Germany,69,61,0,0,0,0,0
+2016,BEL,DEU,Belgium,Germany,5,0,0,0,0,0,0
+2016,BEN,DEU,Benin,Germany,34,538,0,0,0,0,0
+2016,BGD,DEU,Bangladesh,Germany,284,3275,0,0,0,0,0
+2016,BTN,DEU,Bhutan,Germany,23,14,0,0,0,0,0
+2016,BFA,DEU,Burkina Faso,Germany,41,373,0,0,0,0,0
+2016,BLR,DEU,Belarus,Germany,152,483,0,0,0,0,0
+2016,BOL,DEU,Bolivia (Plurinational State of),Germany,8,0,0,0,0,0,0
+2016,BWA,DEU,Botswana,Germany,0,11,0,0,0,0,0
+2016,BRA,DEU,Brazil,Germany,29,26,0,0,0,0,0
+2016,BIH,DEU,Bosnia and Herzegovina,Germany,1450,2244,0,0,0,0,0
+2016,BGR,DEU,Bulgaria,Germany,85,17,0,0,0,0,0
+2016,KHM,DEU,Cambodia,Germany,26,18,0,0,0,0,0
+2016,CAN,DEU,Canada,Germany,23,0,0,0,0,0,0
+2016,CAF,DEU,Central African Republic,Germany,6,92,0,0,0,0,0
+2016,TCD,DEU,Chad,Germany,46,311,0,0,0,0,0
+2016,CHN,DEU,China,Germany,1385,1673,0,0,0,0,0
+2016,CHL,DEU,Chile,Germany,180,0,0,0,0,0,0
+2016,CMR,DEU,Cameroon,Germany,503,2510,0,0,0,0,0
+2016,COG,DEU,Congo,Germany,173,246,0,0,0,0,0
+2016,COD,DEU,Democratic Republic of the Congo,Germany,1452,784,0,0,0,0,0
+2016,COM,DEU,Comoros,Germany,0,18,0,0,0,0,0
+2016,COL,DEU,Colombia,Germany,65,84,0,0,0,0,0
+2016,CUB,DEU,Cuba,Germany,95,186,0,0,0,0,0
+2016,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2016,CZE,DEU,Czechia,Germany,811,11,0,0,0,0,0
+2016,DJI,DEU,Djibouti,Germany,5,38,0,0,0,0,0
+2016,DOM,DEU,Dominican Republic,Germany,7,8,0,0,0,0,0
+2016,ECU,DEU,Ecuador,Germany,13,0,0,0,0,0,0
+2016,GNQ,DEU,Equatorial Guinea,Germany,16,16,0,0,0,0,0
+2016,ERI,DEU,Eritrea,Germany,30020,15400,0,0,0,0,0
+2016,ETH,DEU,Ethiopia,Germany,2823,7247,0,0,0,0,0
+2016,FRA,DEU,France,Germany,14,0,0,0,0,0,0
+2016,GAB,DEU,Gabon,Germany,5,31,0,0,0,0,0
+2016,GMB,DEU,Gambia,Germany,227,9773,0,0,0,0,0
+2016,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,13,7,0,0,0,0,0
+2016,GEO,DEU,Georgia,Germany,394,5298,0,0,0,0,0
+2016,GHA,DEU,Ghana,Germany,285,3267,0,0,0,0,0
+2016,GNB,DEU,Guinea-Bissau,Germany,33,452,0,0,0,0,0
+2016,GRC,DEU,Greece,Germany,45,14,0,0,0,0,0
+2016,GTM,DEU,Guatemala,Germany,0,6,0,0,0,0,0
+2016,GIN,DEU,Guinea,Germany,756,5031,0,0,0,0,0
+2016,HTI,DEU,Haiti,Germany,16,11,0,0,0,0,0
+2016,HND,DEU,Honduras,Germany,32,12,0,0,0,0,0
+2016,HRV,DEU,Croatia,Germany,327,22,0,0,0,0,0
+2016,HUN,DEU,Hungary,Germany,269,7,0,0,0,0,0
+2016,CIV,DEU,Côte d'Ivoire,Germany,182,2010,0,0,0,0,0
+2016,IND,DEU,India,Germany,266,3449,0,0,0,0,0
+2016,IDN,DEU,Indonesia,Germany,14,9,0,0,0,0,0
+2016,IRN,DEU,Iran (Islamic Republic of),Germany,22910,27254,0,0,0,0,0
+2016,IRQ,DEU,Iraq,Germany,86045,65646,0,0,0,0,0
+2016,ISR,DEU,Israel,Germany,26,59,0,0,0,0,0
+2016,ITA,DEU,Italy,Germany,14,21,0,0,0,0,0
+2016,JAM,DEU,Jamaica,Germany,7,43,0,0,0,0,0
+2016,JOR,DEU,Jordan,Germany,182,344,0,0,0,0,0
+2016,JPN,DEU,Japan,Germany,37,0,0,0,0,0,0
+2016,KAZ,DEU,Kazakhstan,Germany,91,238,0,0,0,0,0
+2016,KEN,DEU,Kenya,Germany,170,339,0,0,0,0,0
+2016,KGZ,DEU,Kyrgyzstan,Germany,119,254,0,0,0,0,0
+2016,KOR,DEU,Republic of Korea,Germany,56,20,0,0,0,0,0
+2016,PRK,DEU,Democratic People's Republic of Korea,Germany,95,135,0,0,0,0,0
+2016,KWT,DEU,Kuwait,Germany,14,25,0,0,0,0,0
+2016,LAO,DEU,Lao People's Democratic Republic,Germany,48,0,0,0,0,0,0
+2016,LBR,DEU,Liberia,Germany,60,258,0,0,0,0,0
+2016,LBY,DEU,Libya,Germany,686,1829,0,0,0,0,0
+2016,LBN,DEU,Lebanon,Germany,804,4452,0,0,0,0,0
+2016,LKA,DEU,Sri Lanka,Germany,3829,1523,0,0,0,0,0
+2016,LTU,DEU,Lithuania,Germany,5,0,0,0,0,0,0
+2016,LVA,DEU,Latvia,Germany,9,10,0,0,0,0,0
+2016,MRT,DEU,Mauritania,Germany,17,174,0,0,0,0,0
+2016,MKD,DEU,North Macedonia,Germany,498,6057,0,0,0,0,0
+2016,MDA,DEU,Republic of Moldova,Germany,52,2112,0,0,0,0,0
+2016,MEX,DEU,Mexico,Germany,16,10,0,0,0,0,0
+2016,MLI,DEU,Mali,Germany,78,1703,0,0,0,0,0
+2016,MYS,DEU,Malaysia,Germany,7,5,0,0,0,0,0
+2016,MWI,DEU,Malawi,Germany,5,5,0,0,0,0,0
+2016,MNE,DEU,Montenegro,Germany,254,915,0,0,0,0,0
+2016,MNG,DEU,Mongolia,Germany,46,1093,0,0,0,0,0
+2016,MAR,DEU,Morocco,Germany,298,2440,0,0,0,0,0
+2016,MOZ,DEU,Mozambique,Germany,12,10,0,0,0,0,0
+2016,MUS,DEU,Mauritius,Germany,5,5,0,0,0,0,0
+2016,MMR,DEU,Myanmar,Germany,677,251,0,0,0,0,0
+2016,NPL,DEU,Nepal,Germany,42,160,0,0,0,0,0
+2016,NLD,DEU,Netherlands (Kingdom of the),Germany,14,5,0,0,0,0,0
+2016,NER,DEU,Niger,Germany,43,236,0,0,0,0,0
+2016,NIC,DEU,Nicaragua,Germany,0,5,0,0,0,0,0
+2016,NGA,DEU,Nigeria,Germany,1121,20460,0,0,0,0,0
+2016,NZL,DEU,New Zealand,Germany,8,0,0,0,0,0,0
+2016,OMN,DEU,Oman,Germany,5,5,0,0,0,0,0
+2016,PAK,DEU,Pakistan,Germany,5169,22748,0,0,0,0,0
+2016,PRY,DEU,Paraguay,Germany,0,5,0,0,0,0,0
+2016,PER,DEU,Peru,Germany,39,13,0,0,0,0,0
+2016,PHL,DEU,Philippines,Germany,25,42,0,0,0,0,0
+2016,POL,DEU,Poland,Germany,691,14,0,0,0,0,0
+2016,PRT,DEU,Portugal,Germany,5,5,0,0,0,0,0
+2016,ROU,DEU,Romania,Germany,166,17,0,0,0,0,0
+2016,ZAF,DEU,South Africa,Germany,18,21,0,0,0,0,0
+2016,RUS,DEU,Russian Federation,Germany,5255,19467,0,0,0,0,0
+2016,RWA,DEU,Rwanda,Germany,197,113,0,0,0,0,0
+2016,SLV,DEU,El Salvador,Germany,7,20,0,0,0,0,0
+2016,SAU,DEU,Saudi Arabia,Germany,62,41,0,0,0,0,0
+2016,SEN,DEU,Senegal,Germany,54,1741,0,0,0,0,0
+2016,SGP,DEU,Singapore,Germany,5,0,0,0,0,0,0
+2016,SLE,DEU,Sierra Leone,Germany,338,1439,0,0,0,0,0
+2016,SLB,DEU,Solomon Islands,Germany,5,0,0,0,0,0,0
+2016,SOM,DEU,Somalia,Germany,7879,15973,0,0,0,0,0
+2016,ESP,DEU,Spain,Germany,13,29,0,0,0,0,0
+2016,SRB,DEU,Serbia,Germany,9189,16541,0,0,0,0,0
+2016,VNM,DEU,Viet Nam,Germany,1311,559,0,0,0,0,0
+2016,SSD,DEU,South Sudan,Germany,21,155,0,0,0,0,0
+2016,STA,DEU,Stateless,Germany,6479,3765,0,0,12017,0,0
+2016,SDN,DEU,Sudan,Germany,693,3308,0,0,0,0,0
+2016,SVK,DEU,Slovakia,Germany,87,0,0,0,0,0,0
+2016,SVN,DEU,Slovenia,Germany,7,0,0,0,0,0,0
+2016,SWZ,DEU,Eswatini,Germany,5,0,0,0,0,0,0
+2016,SWE,DEU,Sweden,Germany,5,0,0,0,0,0,0
+2016,SYR,DEU,Syrian Arab Republic,Germany,375122,100527,0,0,0,0,0
+2016,TZA,DEU,United Republic of Tanzania,Germany,10,170,0,0,0,0,0
+2016,THA,DEU,Thailand,Germany,29,5,0,0,0,0,0
+2016,TJK,DEU,Tajikistan,Germany,148,2112,0,0,0,0,0
+2016,TKM,DEU,Turkmenistan,Germany,34,471,0,0,0,0,0
+2016,TGO,DEU,Togo,Germany,1118,827,0,0,0,0,0
+2016,TTO,DEU,Trinidad and Tobago,Germany,0,5,0,0,0,0,0
+2016,TUN,DEU,Tunisia,Germany,106,856,0,0,0,0,0
+2016,TUR,DEU,Türkiye,Germany,19136,8198,0,0,0,0,0
+2016,ARE,DEU,United Arab Emirates,Germany,10,10,0,0,0,0,0
+2016,UGA,DEU,Uganda,Germany,115,294,0,0,0,0,0
+2016,UKN,DEU,Various / unknown,Germany,20910,18117,0,0,0,0,0
+2016,UKR,DEU,Ukraine,Germany,355,6346,0,0,0,0,0
+2016,URY,DEU,Uruguay,Germany,0,5,0,0,0,0,0
+2016,USA,DEU,United States of America,Germany,145,24,0,0,0,0,0
+2016,UZB,DEU,Uzbekistan,Germany,80,125,0,0,0,0,0
+2016,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2016,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,16,103,0,0,0,0,0
+2016,YEM,DEU,Yemen,Germany,291,787,0,0,0,0,0
+2016,ZMB,DEU,Zambia,Germany,5,10,0,0,0,0,0
+2016,ZWE,DEU,Zimbabwe,Germany,52,240,0,0,0,0,0
+2017,AFG,DEU,Afghanistan,Germany,104385,87321,0,0,0,0,0
+2017,ALB,DEU,Albania,Germany,983,4838,0,0,0,0,0
+2017,DZA,DEU,Algeria,Germany,524,1748,0,0,0,0,0
+2017,AGO,DEU,Angola,Germany,803,318,0,0,0,0,0
+2017,EGY,DEU,Egypt,Germany,1798,3038,0,0,0,0,0
+2017,ARG,DEU,Argentina,Germany,14,0,0,0,0,0,0
+2017,ARM,DEU,Armenia,Germany,2038,9030,0,0,0,0,0
+2017,AUS,DEU,Australia,Germany,5,0,0,0,0,0,0
+2017,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2017,AZE,DEU,Azerbaijan,Germany,3313,6788,0,0,0,0,0
+2017,BHR,DEU,Bahrain,Germany,73,18,0,0,0,0,0
+2017,BDI,DEU,Burundi,Germany,90,44,0,0,0,0,0
+2017,BEL,DEU,Belgium,Germany,6,0,0,0,0,0,0
+2017,BEN,DEU,Benin,Germany,73,270,0,0,0,0,0
+2017,BGD,DEU,Bangladesh,Germany,589,2393,0,0,0,0,0
+2017,BTN,DEU,Bhutan,Germany,21,15,0,0,0,0,0
+2017,BFA,DEU,Burkina Faso,Germany,72,223,0,0,0,0,0
+2017,BLR,DEU,Belarus,Germany,179,359,0,0,0,0,0
+2017,BOL,DEU,Bolivia (Plurinational State of),Germany,8,0,0,0,0,0,0
+2017,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2017,BRA,DEU,Brazil,Germany,32,14,0,0,0,0,0
+2017,BIH,DEU,Bosnia and Herzegovina,Germany,1478,963,0,0,0,0,0
+2017,BGR,DEU,Bulgaria,Germany,82,15,0,0,0,0,0
+2017,KHM,DEU,Cambodia,Germany,27,25,0,0,0,0,0
+2017,CAN,DEU,Canada,Germany,24,5,0,0,0,0,0
+2017,CAF,DEU,Central African Republic,Germany,32,79,0,0,0,0,0
+2017,TCD,DEU,Chad,Germany,83,295,0,0,0,0,0
+2017,CHN,DEU,China,Germany,1588,1186,0,0,0,0,0
+2017,CHL,DEU,Chile,Germany,178,0,0,0,0,0,0
+2017,CMR,DEU,Cameroon,Germany,594,2667,0,0,0,0,0
+2017,COG,DEU,Congo,Germany,249,119,0,0,0,0,0
+2017,COD,DEU,Democratic Republic of the Congo,Germany,1594,718,0,0,0,0,0
+2017,COM,DEU,Comoros,Germany,0,18,0,0,0,0,0
+2017,COL,DEU,Colombia,Germany,67,103,0,0,0,0,0
+2017,CUB,DEU,Cuba,Germany,97,113,0,0,0,0,0
+2017,CZE,DEU,Czechia,Germany,777,0,0,0,0,0,0
+2017,DJI,DEU,Djibouti,Germany,24,18,0,0,0,0,0
+2017,DOM,DEU,Dominican Republic,Germany,9,5,0,0,0,0,0
+2017,ECU,DEU,Ecuador,Germany,12,5,0,0,0,0,0
+2017,GNQ,DEU,Equatorial Guinea,Germany,22,8,0,0,0,0,0
+2017,ERI,DEU,Eritrea,Germany,49253,6905,0,0,0,0,0
+2017,EST,DEU,Estonia,Germany,5,0,0,0,0,0,0
+2017,ETH,DEU,Ethiopia,Germany,4230,7192,0,0,0,0,0
+2017,FRA,DEU,France,Germany,15,0,0,0,0,0,0
+2017,GAB,DEU,Gabon,Germany,8,33,0,0,0,0,0
+2017,GMB,DEU,Gambia,Germany,558,8839,0,0,0,0,0
+2017,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,18,5,0,0,0,0,0
+2017,GEO,DEU,Georgia,Germany,502,4673,0,0,0,0,0
+2017,GHA,DEU,Ghana,Germany,462,2218,0,0,0,0,0
+2017,GNB,DEU,Guinea-Bissau,Germany,75,296,0,0,0,0,0
+2017,GRC,DEU,Greece,Germany,48,0,0,0,0,0,0
+2017,GTM,DEU,Guatemala,Germany,5,5,0,0,0,0,0
+2017,GIN,DEU,Guinea,Germany,1663,5783,0,0,0,0,0
+2017,HTI,DEU,Haiti,Germany,16,10,0,0,0,0,0
+2017,HND,DEU,Honduras,Germany,49,9,0,0,0,0,0
+2017,HRV,DEU,Croatia,Germany,311,5,0,0,0,0,0
+2017,HUN,DEU,Hungary,Germany,259,5,0,0,0,0,0
+2017,ISL,DEU,Iceland,Germany,5,0,0,0,0,0,0
+2017,CIV,DEU,Côte d'Ivoire,Germany,339,2143,0,0,0,0,0
+2017,IND,DEU,India,Germany,351,1711,0,0,0,0,0
+2017,IDN,DEU,Indonesia,Germany,12,17,0,0,0,0,0
+2017,IRN,DEU,Iran (Islamic Republic of),Germany,38262,17876,0,0,0,0,0
+2017,IRQ,DEU,Iraq,Germany,130640,45672,0,0,0,0,0
+2017,ISR,DEU,Israel,Germany,33,38,0,0,0,0,0
+2017,ITA,DEU,Italy,Germany,17,33,0,0,0,0,0
+2017,JAM,DEU,Jamaica,Germany,46,63,0,0,0,0,0
+2017,JOR,DEU,Jordan,Germany,318,389,0,0,0,0,0
+2017,JPN,DEU,Japan,Germany,28,0,0,0,0,0,0
+2017,KAZ,DEU,Kazakhstan,Germany,95,217,0,0,0,0,0
+2017,KEN,DEU,Kenya,Germany,180,470,0,0,0,0,0
+2017,KGZ,DEU,Kyrgyzstan,Germany,165,273,0,0,0,0,0
+2017,KOR,DEU,Republic of Korea,Germany,45,13,0,0,0,0,0
+2017,PRK,DEU,Democratic People's Republic of Korea,Germany,92,75,0,0,0,0,0
+2017,KWT,DEU,Kuwait,Germany,31,41,0,0,0,0,0
+2017,LAO,DEU,Lao People's Democratic Republic,Germany,44,0,0,0,0,0,0
+2017,LBR,DEU,Liberia,Germany,73,301,0,0,0,0,0
+2017,LBY,DEU,Libya,Germany,1379,1692,0,0,0,0,0
+2017,LBN,DEU,Lebanon,Germany,1390,4148,0,0,0,0,0
+2017,LKA,DEU,Sri Lanka,Germany,3863,1608,0,0,0,0,0
+2017,LTU,DEU,Lithuania,Germany,5,0,0,0,0,0,0
+2017,LVA,DEU,Latvia,Germany,12,11,0,0,0,0,0
+2017,MDG,DEU,Madagascar,Germany,0,5,0,0,0,0,0
+2017,MRT,DEU,Mauritania,Germany,33,120,0,0,0,0,0
+2017,MKD,DEU,North Macedonia,Germany,605,2872,0,0,0,0,0
+2017,MDA,DEU,Republic of Moldova,Germany,86,445,0,0,0,0,0
+2017,MEX,DEU,Mexico,Germany,13,5,0,0,0,0,0
+2017,MLI,DEU,Mali,Germany,216,1258,0,0,0,0,0
+2017,MYS,DEU,Malaysia,Germany,10,21,0,0,0,0,0
+2017,MWI,DEU,Malawi,Germany,5,5,0,0,0,0,0
+2017,MNE,DEU,Montenegro,Germany,283,436,0,0,0,0,0
+2017,MNG,DEU,Mongolia,Germany,103,990,0,0,0,0,0
+2017,MAR,DEU,Morocco,Germany,576,1691,0,0,0,0,0
+2017,MOZ,DEU,Mozambique,Germany,11,27,0,0,0,0,0
+2017,MUS,DEU,Mauritius,Germany,5,5,0,0,0,0,0
+2017,MMR,DEU,Myanmar,Germany,831,134,0,0,0,0,0
+2017,NAM,DEU,Namibia,Germany,0,5,0,0,0,0,0
+2017,NPL,DEU,Nepal,Germany,50,142,0,0,0,0,0
+2017,NLD,DEU,Netherlands (Kingdom of the),Germany,21,5,0,0,0,0,0
+2017,NER,DEU,Niger,Germany,44,194,0,0,0,0,0
+2017,NGA,DEU,Nigeria,Germany,3971,19817,0,0,0,0,0
+2017,NOR,DEU,Norway,Germany,5,0,0,0,0,0,0
+2017,NZL,DEU,New Zealand,Germany,8,0,0,0,0,0,0
+2017,OMN,DEU,Oman,Germany,9,6,0,0,0,0,0
+2017,PAK,DEU,Pakistan,Germany,6572,17952,0,0,0,0,0
+2017,PER,DEU,Peru,Germany,38,0,0,0,0,0,0
+2017,PHL,DEU,Philippines,Germany,28,41,0,0,0,0,0
+2017,POL,DEU,Poland,Germany,666,0,0,0,0,0,0
+2017,PRT,DEU,Portugal,Germany,6,0,0,0,0,0,0
+2017,ROU,DEU,Romania,Germany,163,5,0,0,0,0,0
+2017,ZAF,DEU,South Africa,Germany,17,34,0,0,0,0,0
+2017,RUS,DEU,Russian Federation,Germany,6960,19253,0,0,0,0,0
+2017,RWA,DEU,Rwanda,Germany,207,119,0,0,0,0,0
+2017,SLV,DEU,El Salvador,Germany,11,40,0,0,0,0,0
+2017,SAU,DEU,Saudi Arabia,Germany,105,42,0,0,0,0,0
+2017,SEN,DEU,Senegal,Germany,130,704,0,0,0,0,0
+2017,SGP,DEU,Singapore,Germany,7,0,0,0,0,0,0
+2017,SLE,DEU,Sierra Leone,Germany,563,1592,0,0,0,0,0
+2017,SLB,DEU,Solomon Islands,Germany,8,0,0,0,0,0,0
+2017,SOM,DEU,Somalia,Germany,19508,10344,0,0,0,0,0
+2017,ESP,DEU,Spain,Germany,17,39,0,0,0,0,0
+2017,SRB,DEU,Serbia,Germany,9232,6947,0,0,0,0,0
+2017,VNM,DEU,Viet Nam,Germany,1279,252,0,0,0,0,0
+2017,SSD,DEU,South Sudan,Germany,59,106,0,0,0,0,0
+2017,STA,DEU,Stateless,Germany,8574,2616,0,0,13458,0,0
+2017,SDN,DEU,Sudan,Germany,1974,2290,0,0,0,0,0
+2017,SVK,DEU,Slovakia,Germany,85,0,0,0,0,0,0
+2017,SVN,DEU,Slovenia,Germany,7,0,0,0,0,0,0
+2017,SWZ,DEU,Eswatini,Germany,5,0,0,0,0,0,0
+2017,SWE,DEU,Sweden,Germany,6,0,0,0,0,0,0
+2017,SYR,DEU,Syrian Arab Republic,Germany,496674,70833,0,0,0,0,0
+2017,TZA,DEU,United Republic of Tanzania,Germany,34,151,0,0,0,0,0
+2017,THA,DEU,Thailand,Germany,26,10,0,0,0,0,0
+2017,TJK,DEU,Tajikistan,Germany,490,2443,0,0,0,0,0
+2017,TKM,DEU,Turkmenistan,Germany,50,243,0,0,0,0,0
+2017,TGO,DEU,Togo,Germany,1081,947,0,0,0,0,0
+2017,TUN,DEU,Tunisia,Germany,160,592,0,0,0,0,0
+2017,TUR,DEU,Türkiye,Germany,21120,10761,0,0,0,0,0
+2017,ARE,DEU,United Arab Emirates,Germany,27,5,0,0,0,0,0
+2017,UGA,DEU,Uganda,Germany,160,292,0,0,0,0,0
+2017,UKN,DEU,Various / unknown,Germany,28278,11614,0,0,0,0,0
+2017,UKR,DEU,Ukraine,Germany,631,3963,0,0,0,0,0
+2017,USA,DEU,United States of America,Germany,141,22,0,0,0,0,0
+2017,UZB,DEU,Uzbekistan,Germany,101,132,0,0,0,0,0
+2017,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2017,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,80,207,0,0,0,0,0
+2017,YEM,DEU,Yemen,Germany,1171,682,0,0,0,0,0
+2017,ZMB,DEU,Zambia,Germany,7,14,0,0,0,0,0
+2017,ZWE,DEU,Zimbabwe,Germany,154,267,0,0,0,0,0
+2018,AFG,DEU,Afghanistan,Germany,126018,65838,0,0,0,0,0
+2018,ALB,DEU,Albania,Germany,1170,3146,0,0,0,0,0
+2018,DZA,DEU,Algeria,Germany,589,1295,0,0,0,0,0
+2018,AGO,DEU,Angola,Germany,846,370,0,0,0,0,0
+2018,EGY,DEU,Egypt,Germany,2122,2589,0,0,0,0,0
+2018,ARG,DEU,Argentina,Germany,14,11,0,0,0,0,0
+2018,ARM,DEU,Armenia,Germany,2474,7262,0,0,0,0,0
+2018,AUS,DEU,Australia,Germany,5,0,0,0,0,0,0
+2018,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2018,AZE,DEU,Azerbaijan,Germany,3643,6195,0,0,0,0,0
+2018,BHR,DEU,Bahrain,Germany,79,14,0,0,0,0,0
+2018,BDI,DEU,Burundi,Germany,106,55,0,0,0,0,0
+2018,BEL,DEU,Belgium,Germany,5,0,0,0,0,0,0
+2018,BEN,DEU,Benin,Germany,82,238,0,0,0,0,0
+2018,BGD,DEU,Bangladesh,Germany,706,1341,0,0,0,0,0
+2018,BTN,DEU,Bhutan,Germany,22,5,0,0,0,0,0
+2018,BFA,DEU,Burkina Faso,Germany,82,192,0,0,0,0,0
+2018,BLR,DEU,Belarus,Germany,186,283,0,0,0,0,0
+2018,BOL,DEU,Bolivia (Plurinational State of),Germany,6,0,0,0,0,0,0
+2018,BWA,DEU,Botswana,Germany,5,5,0,0,0,0,0
+2018,BRA,DEU,Brazil,Germany,32,29,0,0,0,0,0
+2018,BIH,DEU,Bosnia and Herzegovina,Germany,1473,665,0,0,0,0,0
+2018,BGR,DEU,Bulgaria,Germany,78,15,0,0,0,0,0
+2018,KHM,DEU,Cambodia,Germany,30,47,0,0,0,0,0
+2018,CAN,DEU,Canada,Germany,24,5,0,0,0,0,0
+2018,CAF,DEU,Central African Republic,Germany,37,54,0,0,0,0,0
+2018,TCD,DEU,Chad,Germany,91,292,0,0,0,0,0
+2018,CHN,DEU,China,Germany,1620,972,0,0,0,0,0
+2018,CHL,DEU,Chile,Germany,170,0,0,0,0,0,0
+2018,CMR,DEU,Cameroon,Germany,698,2990,0,0,0,0,0
+2018,COG,DEU,Congo,Germany,276,104,0,0,0,0,0
+2018,COD,DEU,Democratic Republic of the Congo,Germany,1650,655,0,0,0,0,0
+2018,COM,DEU,Comoros,Germany,0,16,0,0,0,0,0
+2018,COL,DEU,Colombia,Germany,66,196,0,0,0,0,0
+2018,CUB,DEU,Cuba,Germany,93,68,0,0,0,0,0
+2018,CZE,DEU,Czechia,Germany,752,0,0,0,0,0,0
+2018,DJI,DEU,Djibouti,Germany,33,20,0,0,0,0,0
+2018,DOM,DEU,Dominican Republic,Germany,8,6,0,0,0,0,0
+2018,ECU,DEU,Ecuador,Germany,13,5,0,0,0,0,0
+2018,GNQ,DEU,Equatorial Guinea,Germany,23,8,0,0,0,0,0
+2018,ERI,DEU,Eritrea,Germany,55334,5914,0,0,0,0,0
+2018,EST,DEU,Estonia,Germany,5,0,0,0,0,0,0
+2018,ETH,DEU,Ethiopia,Germany,4780,6730,0,0,0,0,0
+2018,FRA,DEU,France,Germany,15,0,0,0,0,0,0
+2018,GAB,DEU,Gabon,Germany,10,38,0,0,0,0,0
+2018,GMB,DEU,Gambia,Germany,899,7391,0,0,0,0,0
+2018,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,15,0,0,0,0,0,0
+2018,GEO,DEU,Georgia,Germany,633,4717,0,0,0,0,0
+2018,GHA,DEU,Ghana,Germany,549,1742,0,0,0,0,0
+2018,GNB,DEU,Guinea-Bissau,Germany,92,293,0,0,0,0,0
+2018,GRC,DEU,Greece,Germany,49,0,0,0,0,0,0
+2018,GTM,DEU,Guatemala,Germany,5,10,0,0,0,0,0
+2018,GIN,DEU,Guinea,Germany,2393,6167,0,0,0,0,0
+2018,HTI,DEU,Haiti,Germany,17,9,0,0,0,0,0
+2018,HND,DEU,Honduras,Germany,64,16,0,0,0,0,0
+2018,HRV,DEU,Croatia,Germany,299,5,0,0,0,0,0
+2018,HUN,DEU,Hungary,Germany,250,0,0,0,0,0,0
+2018,ISL,DEU,Iceland,Germany,5,0,0,0,0,0,0
+2018,CIV,DEU,Côte d'Ivoire,Germany,520,2046,0,0,0,0,0
+2018,IND,DEU,India,Germany,370,1313,0,0,0,0,0
+2018,IDN,DEU,Indonesia,Germany,13,18,0,0,0,0,0
+2018,IRN,DEU,Iran (Islamic Republic of),Germany,41150,21407,0,0,0,0,0
+2018,IRQ,DEU,Iraq,Germany,136463,41954,0,0,0,0,0
+2018,ISR,DEU,Israel,Germany,41,36,0,0,0,0,0
+2018,ITA,DEU,Italy,Germany,27,25,0,0,0,0,0
+2018,JAM,DEU,Jamaica,Germany,55,38,0,0,0,0,0
+2018,JOR,DEU,Jordan,Germany,382,387,0,0,0,0,0
+2018,JPN,DEU,Japan,Germany,24,0,0,0,0,0,0
+2018,KAZ,DEU,Kazakhstan,Germany,99,191,0,0,0,0,0
+2018,KEN,DEU,Kenya,Germany,183,645,0,0,0,0,0
+2018,KGZ,DEU,Kyrgyzstan,Germany,167,310,0,0,0,0,0
+2018,KOR,DEU,Republic of Korea,Germany,86,9,0,0,0,0,0
+2018,PRK,DEU,Democratic People's Republic of Korea,Germany,34,57,0,0,0,0,0
+2018,KWT,DEU,Kuwait,Germany,27,51,0,0,0,0,0
+2018,LAO,DEU,Lao People's Democratic Republic,Germany,41,0,0,0,0,0,0
+2018,LBR,DEU,Liberia,Germany,100,363,0,0,0,0,0
+2018,LBY,DEU,Libya,Germany,1732,1345,0,0,0,0,0
+2018,LBN,DEU,Lebanon,Germany,1557,2820,0,0,0,0,0
+2018,LKA,DEU,Sri Lanka,Germany,3820,1494,0,0,0,0,0
+2018,LTU,DEU,Lithuania,Germany,5,0,0,0,0,0,0
+2018,LVA,DEU,Latvia,Germany,8,5,0,0,0,0,0
+2018,MDG,DEU,Madagascar,Germany,5,18,0,0,0,0,0
+2018,MRT,DEU,Mauritania,Germany,34,87,0,0,0,0,0
+2018,MKD,DEU,North Macedonia,Germany,669,1982,0,0,0,0,0
+2018,MDA,DEU,Republic of Moldova,Germany,106,979,0,0,0,0,0
+2018,MEX,DEU,Mexico,Germany,22,154,0,0,0,0,0
+2018,MLI,DEU,Mali,Germany,272,933,0,0,0,0,0
+2018,MYS,DEU,Malaysia,Germany,14,17,0,0,0,0,0
+2018,MWI,DEU,Malawi,Germany,5,13,0,0,0,0,0
+2018,MNE,DEU,Montenegro,Germany,288,272,0,0,0,0,0
+2018,MNG,DEU,Mongolia,Germany,130,717,0,0,0,0,0
+2018,MAR,DEU,Morocco,Germany,712,1310,0,0,0,0,0
+2018,MOZ,DEU,Mozambique,Germany,14,23,0,0,0,0,0
+2018,MUS,DEU,Mauritius,Germany,5,5,0,0,0,0,0
+2018,MMR,DEU,Myanmar,Germany,854,150,0,0,0,0,0
+2018,NAM,DEU,Namibia,Germany,0,16,0,0,0,0,0
+2018,NPL,DEU,Nepal,Germany,56,129,0,0,0,0,0
+2018,NLD,DEU,Netherlands (Kingdom of the),Germany,25,0,0,0,0,0,0
+2018,NER,DEU,Niger,Germany,55,169,0,0,0,0,0
+2018,NIC,DEU,Nicaragua,Germany,5,27,0,0,0,0,0
+2018,NGA,DEU,Nigeria,Germany,6435,21477,0,0,0,0,0
+2018,NZL,DEU,New Zealand,Germany,8,0,0,0,0,0,0
+2018,OMN,DEU,Oman,Germany,9,6,0,0,0,0,0
+2018,PAK,DEU,Pakistan,Germany,7454,13645,0,0,0,0,0
+2018,PER,DEU,Peru,Germany,39,0,0,0,0,0,0
+2018,PHL,DEU,Philippines,Germany,33,37,0,0,0,0,0
+2018,POL,DEU,Poland,Germany,636,5,0,0,0,0,0
+2018,PRT,DEU,Portugal,Germany,5,0,0,0,0,0,0
+2018,ROU,DEU,Romania,Germany,155,11,0,0,0,0,0
+2018,ZAF,DEU,South Africa,Germany,17,50,0,0,0,0,0
+2018,RUS,DEU,Russian Federation,Germany,8119,18059,0,0,0,0,0
+2018,RWA,DEU,Rwanda,Germany,239,159,0,0,0,0,0
+2018,SLV,DEU,El Salvador,Germany,42,5,0,0,0,0,0
+2018,SAU,DEU,Saudi Arabia,Germany,130,36,0,0,0,0,0
+2018,SEN,DEU,Senegal,Germany,157,575,0,0,0,0,0
+2018,SGP,DEU,Singapore,Germany,8,0,0,0,0,0,0
+2018,SLE,DEU,Sierra Leone,Germany,730,1582,0,0,0,0,0
+2018,SLB,DEU,Solomon Islands,Germany,6,0,0,0,0,0,0
+2018,SOM,DEU,Somalia,Germany,23581,9853,0,0,0,0,0
+2018,ESP,DEU,Spain,Germany,17,25,0,0,0,0,0
+2018,SRB,DEU,Serbia,Germany,9155,4404,0,0,0,0,0
+2018,VNM,DEU,Viet Nam,Germany,1236,246,0,0,0,0,0
+2018,SSD,DEU,South Sudan,Germany,76,79,0,0,0,0,0
+2018,STA,DEU,Stateless,Germany,9250,1967,0,0,14779,0,0
+2018,SDN,DEU,Sudan,Germany,2436,1843,0,0,0,0,0
+2018,SVK,DEU,Slovakia,Germany,87,0,0,0,0,0,0
+2018,SVN,DEU,Slovenia,Germany,6,0,0,0,0,0,0
+2018,SWZ,DEU,Eswatini,Germany,5,0,0,0,0,0,0
+2018,SWE,DEU,Sweden,Germany,8,0,0,0,0,0,0
+2018,SYR,DEU,Syrian Arab Republic,Germany,532065,52396,0,0,0,0,0
+2018,TZA,DEU,United Republic of Tanzania,Germany,60,210,0,0,0,0,0
+2018,THA,DEU,Thailand,Germany,25,5,0,0,0,0,0
+2018,TJK,DEU,Tajikistan,Germany,666,1901,0,0,0,0,0
+2018,TKM,DEU,Turkmenistan,Germany,84,199,0,0,0,0,0
+2018,TGO,DEU,Togo,Germany,1074,1086,0,0,0,0,0
+2018,TTO,DEU,Trinidad and Tobago,Germany,5,0,0,0,0,0,0
+2018,TUN,DEU,Tunisia,Germany,197,599,0,0,0,0,0
+2018,TUR,DEU,Türkiye,Germany,24036,14704,0,0,0,0,0
+2018,ARE,DEU,United Arab Emirates,Germany,33,5,0,0,0,0,0
+2018,UGA,DEU,Uganda,Germany,197,333,0,0,0,0,0
+2018,UKN,DEU,Various / unknown,Germany,31203,9264,0,0,0,0,0
+2018,UKR,DEU,Ukraine,Germany,741,3149,0,0,0,0,0
+2018,USA,DEU,United States of America,Germany,133,26,0,0,0,0,0
+2018,UZB,DEU,Uzbekistan,Germany,107,124,0,0,0,0,0
+2018,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2018,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,183,468,0,0,0,0,0
+2018,YEM,DEU,Yemen,Germany,1809,873,0,0,0,0,0
+2018,ZMB,DEU,Zambia,Germany,8,12,0,0,0,0,0
+2018,ZWE,DEU,Zimbabwe,Germany,204,288,0,0,0,0,0
+2019,AFG,DEU,Afghanistan,Germany,140366,47343,0,0,0,0,0
+2019,ALB,DEU,Albania,Germany,1278,2375,0,0,0,0,0
+2019,DZA,DEU,Algeria,Germany,613,1087,0,0,0,0,0
+2019,AGO,DEU,Angola,Germany,862,476,0,0,0,0,0
+2019,EGY,DEU,Egypt,Germany,2310,2187,0,0,0,0,0
+2019,ARG,DEU,Argentina,Germany,15,24,0,0,0,0,0
+2019,ARM,DEU,Armenia,Germany,2645,4926,0,0,0,0,0
+2019,AUS,DEU,Australia,Germany,5,0,0,0,0,0,0
+2019,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2019,AZE,DEU,Azerbaijan,Germany,3784,5017,0,0,0,0,0
+2019,BHR,DEU,Bahrain,Germany,89,5,0,0,0,0,0
+2019,BDI,DEU,Burundi,Germany,118,49,0,0,0,0,0
+2019,BEL,DEU,Belgium,Germany,6,0,0,0,0,0,0
+2019,BEN,DEU,Benin,Germany,92,184,0,0,0,0,0
+2019,BGD,DEU,Bangladesh,Germany,766,850,0,0,0,0,0
+2019,BTN,DEU,Bhutan,Germany,20,5,0,0,0,0,0
+2019,BFA,DEU,Burkina Faso,Germany,93,176,0,0,0,0,0
+2019,BLR,DEU,Belarus,Germany,193,331,0,0,0,0,0
+2019,BOL,DEU,Bolivia (Plurinational State of),Germany,7,0,0,0,0,0,0
+2019,BWA,DEU,Botswana,Germany,5,5,0,0,0,0,0
+2019,BRA,DEU,Brazil,Germany,33,46,0,0,0,0,0
+2019,BIH,DEU,Bosnia and Herzegovina,Germany,1432,526,0,0,0,0,0
+2019,BGR,DEU,Bulgaria,Germany,75,5,0,0,0,0,0
+2019,KHM,DEU,Cambodia,Germany,33,51,0,0,0,0,0
+2019,CAN,DEU,Canada,Germany,24,0,0,0,0,0,0
+2019,CAF,DEU,Central African Republic,Germany,40,24,0,0,0,0,0
+2019,TCD,DEU,Chad,Germany,100,281,0,0,0,0,0
+2019,CHN,DEU,China,Germany,1760,943,0,0,0,0,0
+2019,CHL,DEU,Chile,Germany,167,5,0,0,0,0,0
+2019,CMR,DEU,Cameroon,Germany,778,2840,0,0,0,0,0
+2019,COG,DEU,Congo,Germany,282,73,0,0,0,0,0
+2019,COD,DEU,Democratic Republic of the Congo,Germany,1650,655,0,0,0,0,0
+2019,COM,DEU,Comoros,Germany,0,13,0,0,0,0,0
+2019,COL,DEU,Colombia,Germany,69,579,0,0,0,0,0
+2019,CUB,DEU,Cuba,Germany,86,66,0,0,0,0,0
+2019,CPV,DEU,Cabo Verde,Germany,0,5,0,0,0,0,0
+2019,CZE,DEU,Czechia,Germany,726,0,0,0,0,0,0
+2019,DJI,DEU,Djibouti,Germany,33,13,0,0,0,0,0
+2019,DOM,DEU,Dominican Republic,Germany,9,10,0,0,0,0,0
+2019,ECU,DEU,Ecuador,Germany,13,0,0,0,0,0,0
+2019,GNQ,DEU,Equatorial Guinea,Germany,24,11,0,0,0,0,0
+2019,ERI,DEU,Eritrea,Germany,58569,4757,0,0,0,0,0
+2019,EST,DEU,Estonia,Germany,5,0,0,0,0,0,0
+2019,ETH,DEU,Ethiopia,Germany,4982,5447,0,0,0,0,0
+2019,FRA,DEU,France,Germany,15,5,0,0,0,0,0
+2019,GAB,DEU,Gabon,Germany,14,44,0,0,0,0,0
+2019,GMB,DEU,Gambia,Germany,1032,4940,0,0,0,0,0
+2019,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,19,0,0,0,0,0,0
+2019,GEO,DEU,Georgia,Germany,649,4445,0,0,0,0,0
+2019,GHA,DEU,Ghana,Germany,600,1345,0,0,0,0,0
+2019,GNB,DEU,Guinea-Bissau,Germany,102,193,0,0,0,0,0
+2019,GRC,DEU,Greece,Germany,51,0,0,0,0,0,0
+2019,GTM,DEU,Guatemala,Germany,5,7,0,0,0,0,0
+2019,GIN,DEU,Guinea,Germany,2963,5557,0,0,0,0,0
+2019,HTI,DEU,Haiti,Germany,15,18,0,0,0,0,0
+2019,HND,DEU,Honduras,Germany,68,64,0,0,0,0,0
+2019,HRV,DEU,Croatia,Germany,286,5,0,0,0,0,0
+2019,HUN,DEU,Hungary,Germany,241,0,0,0,0,0,0
+2019,ISL,DEU,Iceland,Germany,5,0,0,0,0,0,0
+2019,CIV,DEU,Côte d'Ivoire,Germany,610,1595,0,0,0,0,0
+2019,IND,DEU,India,Germany,391,1000,0,0,0,0,0
+2019,IDN,DEU,Indonesia,Germany,16,20,0,0,0,0,0
+2019,IRN,DEU,Iran (Islamic Republic of),Germany,43244,22005,0,0,0,0,0
+2019,IRQ,DEU,Iraq,Germany,141650,34890,0,0,0,0,0
+2019,ISR,DEU,Israel,Germany,39,41,0,0,0,0,0
+2019,ITA,DEU,Italy,Germany,34,10,0,0,0,0,0
+2019,JAM,DEU,Jamaica,Germany,66,62,0,0,0,0,0
+2019,JOR,DEU,Jordan,Germany,435,448,0,0,0,0,0
+2019,JPN,DEU,Japan,Germany,23,5,0,0,0,0,0
+2019,KAZ,DEU,Kazakhstan,Germany,114,168,0,0,0,0,0
+2019,KEN,DEU,Kenya,Germany,190,702,0,0,0,0,0
+2019,KGZ,DEU,Kyrgyzstan,Germany,198,313,0,0,0,0,0
+2019,KOR,DEU,Republic of Korea,Germany,30,17,0,0,0,0,0
+2019,PRK,DEU,Democratic People's Republic of Korea,Germany,85,39,0,0,0,0,0
+2019,KWT,DEU,Kuwait,Germany,30,31,0,0,0,0,0
+2019,LAO,DEU,Lao People's Democratic Republic,Germany,41,0,0,0,0,0,0
+2019,LBR,DEU,Liberia,Germany,102,372,0,0,0,0,0
+2019,LBY,DEU,Libya,Germany,1987,1179,0,0,0,0,0
+2019,LBN,DEU,Lebanon,Germany,1656,2245,0,0,0,0,0
+2019,LKA,DEU,Sri Lanka,Germany,3699,1375,0,0,0,0,0
+2019,LTU,DEU,Lithuania,Germany,5,0,0,0,0,0,0
+2019,LUX,DEU,Luxembourg,Germany,5,0,0,0,0,0,0
+2019,LVA,DEU,Latvia,Germany,8,5,0,0,0,0,0
+2019,MDG,DEU,Madagascar,Germany,0,18,0,0,0,0,0
+2019,MRT,DEU,Mauritania,Germany,41,97,0,0,0,0,0
+2019,MKD,DEU,North Macedonia,Germany,722,1422,0,0,0,0,0
+2019,MDA,DEU,Republic of Moldova,Germany,128,1363,0,0,0,0,0
+2019,MEX,DEU,Mexico,Germany,24,6,0,0,0,0,0
+2019,MLI,DEU,Mali,Germany,320,717,0,0,0,0,0
+2019,MYS,DEU,Malaysia,Germany,14,8,0,0,0,0,0
+2019,MWI,DEU,Malawi,Germany,7,5,0,0,0,0,0
+2019,MNE,DEU,Montenegro,Germany,253,229,0,0,0,0,0
+2019,MNG,DEU,Mongolia,Germany,199,418,0,0,0,0,0
+2019,MAR,DEU,Morocco,Germany,800,1147,0,0,0,0,0
+2019,MOZ,DEU,Mozambique,Germany,15,26,0,0,0,0,0
+2019,MUS,DEU,Mauritius,Germany,5,5,0,0,0,0,0
+2019,MMR,DEU,Myanmar,Germany,851,294,0,0,0,0,0
+2019,NAM,DEU,Namibia,Germany,0,28,0,0,0,0,0
+2019,NPL,DEU,Nepal,Germany,61,81,0,0,0,0,0
+2019,NLD,DEU,Netherlands (Kingdom of the),Germany,31,5,0,0,0,0,0
+2019,NER,DEU,Niger,Germany,56,143,0,0,0,0,0
+2019,NIC,DEU,Nicaragua,Germany,5,127,0,0,0,0,0
+2019,NGA,DEU,Nigeria,Germany,7828,21814,0,0,0,0,0
+2019,NZL,DEU,New Zealand,Germany,8,0,0,0,0,0,0
+2019,OMN,DEU,Oman,Germany,9,11,0,0,0,0,0
+2019,PAK,DEU,Pakistan,Germany,8125,10081,0,0,0,0,0
+2019,PRY,DEU,Paraguay,Germany,0,6,0,0,0,0,0
+2019,PER,DEU,Peru,Germany,40,5,0,0,0,0,0
+2019,PHL,DEU,Philippines,Germany,40,36,0,0,0,0,0
+2019,POL,DEU,Poland,Germany,619,0,0,0,0,0,0
+2019,PRT,DEU,Portugal,Germany,5,5,0,0,0,0,0
+2019,QAT,DEU,Qatar,Germany,5,0,0,0,0,0,0
+2019,ROU,DEU,Romania,Germany,146,13,0,0,0,0,0
+2019,ZAF,DEU,South Africa,Germany,19,73,0,0,0,0,0
+2019,RUS,DEU,Russian Federation,Germany,8722,15409,0,0,0,0,0
+2019,RWA,DEU,Rwanda,Germany,270,193,0,0,0,0,0
+2019,SLV,DEU,El Salvador,Germany,85,41,0,0,0,0,0
+2019,SAU,DEU,Saudi Arabia,Germany,145,39,0,0,0,0,0
+2019,SEN,DEU,Senegal,Germany,183,487,0,0,0,0,0
+2019,SGP,DEU,Singapore,Germany,8,0,0,0,0,0,0
+2019,SLE,DEU,Sierra Leone,Germany,769,1208,0,0,0,0,0
+2019,SLB,DEU,Solomon Islands,Germany,6,0,0,0,0,0,0
+2019,SOM,DEU,Somalia,Germany,26015,8438,0,0,0,0,0
+2019,ESP,DEU,Spain,Germany,20,24,0,0,0,0,0
+2019,SRB,DEU,Serbia,Germany,8639,3138,0,0,0,0,0
+2019,VNM,DEU,Viet Nam,Germany,1191,265,0,0,0,0,0
+2019,SSD,DEU,South Sudan,Germany,86,92,0,0,0,0,0
+2019,STA,DEU,Stateless,Germany,10013,1409,0,0,26369,0,0
+2019,SDN,DEU,Sudan,Germany,2606,1823,0,0,0,0,0
+2019,SVK,DEU,Slovakia,Germany,78,0,0,0,0,0,0
+2019,SVN,DEU,Slovenia,Germany,6,0,0,0,0,0,0
+2019,SWZ,DEU,Eswatini,Germany,5,5,0,0,0,0,0
+2019,SWE,DEU,Sweden,Germany,8,0,0,0,0,0,0
+2019,SYR,DEU,Syrian Arab Republic,Germany,572818,41280,0,0,0,0,0
+2019,TZA,DEU,United Republic of Tanzania,Germany,64,360,0,0,0,0,0
+2019,THA,DEU,Thailand,Germany,23,10,0,0,0,0,0
+2019,TJK,DEU,Tajikistan,Germany,871,1296,0,0,0,0,0
+2019,TKM,DEU,Turkmenistan,Germany,83,206,0,0,0,0,0
+2019,TGO,DEU,Togo,Germany,1060,1048,0,0,0,0,0
+2019,TTO,DEU,Trinidad and Tobago,Germany,5,5,0,0,0,0,0
+2019,TUN,DEU,Tunisia,Germany,218,574,0,0,0,0,0
+2019,TUR,DEU,Türkiye,Germany,28470,16830,0,0,0,0,0
+2019,ARE,DEU,United Arab Emirates,Germany,39,0,0,0,0,0,0
+2019,UGA,DEU,Uganda,Germany,217,363,0,0,0,0,0
+2019,UKN,DEU,Various / unknown,Germany,34397,7379,0,0,0,0,0
+2019,UKR,DEU,Ukraine,Germany,847,2312,0,0,0,0,0
+2019,USA,DEU,United States of America,Germany,133,23,0,0,0,0,0
+2019,UZB,DEU,Uzbekistan,Germany,123,129,0,0,0,0,0
+2019,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2019,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,320,923,0,0,0,0,0
+2019,YEM,DEU,Yemen,Germany,2629,890,0,0,0,0,0
+2019,ZMB,DEU,Zambia,Germany,6,16,0,0,0,0,0
+2019,ZWE,DEU,Zimbabwe,Germany,238,298,0,0,0,0,0
+2020,AFG,DEU,Afghanistan,Germany,147994,33103,0,0,0,0,0
+2020,ALB,DEU,Albania,Germany,1272,1460,0,0,0,0,0
+2020,DZA,DEU,Algeria,Germany,600,1269,0,0,0,0,0
+2020,AGO,DEU,Angola,Germany,822,511,0,0,0,0,0
+2020,EGY,DEU,Egypt,Germany,2298,1481,0,0,0,0,0
+2020,ARG,DEU,Argentina,Germany,15,27,0,0,0,0,0
+2020,ARM,DEU,Armenia,Germany,2681,2902,0,0,0,0,0
+2020,AUS,DEU,Australia,Germany,5,0,0,0,0,0,0
+2020,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2020,AZE,DEU,Azerbaijan,Germany,3850,3585,0,0,0,0,0
+2020,BHR,DEU,Bahrain,Germany,80,5,0,0,0,0,0
+2020,BDI,DEU,Burundi,Germany,114,55,0,0,0,0,0
+2020,BEL,DEU,Belgium,Germany,6,5,0,0,0,0,0
+2020,BEN,DEU,Benin,Germany,96,133,0,0,0,0,0
+2020,BGD,DEU,Bangladesh,Germany,796,589,0,0,0,0,0
+2020,BTN,DEU,Bhutan,Germany,20,0,0,0,0,0,0
+2020,BFA,DEU,Burkina Faso,Germany,104,146,0,0,0,0,0
+2020,BLR,DEU,Belarus,Germany,187,290,0,0,0,0,0
+2020,BOL,DEU,Bolivia (Plurinational State of),Germany,7,0,0,0,0,0,0
+2020,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2020,BRA,DEU,Brazil,Germany,32,50,0,0,0,0,0
+2020,BIH,DEU,Bosnia and Herzegovina,Germany,1358,358,0,0,0,0,0
+2020,BGR,DEU,Bulgaria,Germany,74,5,0,0,0,0,0
+2020,KHM,DEU,Cambodia,Germany,34,56,0,0,0,0,0
+2020,CAN,DEU,Canada,Germany,23,0,0,0,0,0,0
+2020,CAF,DEU,Central African Republic,Germany,48,17,0,0,0,0,0
+2020,TCD,DEU,Chad,Germany,95,267,0,0,0,0,0
+2020,CHN,DEU,China,Germany,1986,544,0,0,0,0,0
+2020,CHL,DEU,Chile,Germany,160,5,0,0,0,0,0
+2020,CMR,DEU,Cameroon,Germany,824,2427,0,0,0,0,0
+2020,COG,DEU,Congo,Germany,278,66,0,0,0,0,0
+2020,COD,DEU,Democratic Republic of the Congo,Germany,1539,632,0,0,0,0,0
+2020,COM,DEU,Comoros,Germany,0,13,0,0,0,0,0
+2020,COL,DEU,Colombia,Germany,69,845,0,0,0,0,0
+2020,CRI,DEU,Costa Rica,Germany,0,5,0,0,0,0,0
+2020,CUB,DEU,Cuba,Germany,78,49,0,0,0,0,0
+2020,CPV,DEU,Cabo Verde,Germany,0,5,0,0,0,0,0
+2020,CZE,DEU,Czechia,Germany,706,0,0,0,0,0,0
+2020,DJI,DEU,Djibouti,Germany,33,8,0,0,0,0,0
+2020,DMA,DEU,Dominica,Germany,5,0,0,0,0,0,0
+2020,DOM,DEU,Dominican Republic,Germany,10,8,0,0,0,0,0
+2020,ECU,DEU,Ecuador,Germany,11,6,0,0,0,0,0
+2020,GNQ,DEU,Equatorial Guinea,Germany,23,7,0,0,0,0,0
+2020,ERI,DEU,Eritrea,Germany,61226,3292,0,0,0,0,0
+2020,EST,DEU,Estonia,Germany,5,0,0,0,0,0,0
+2020,ETH,DEU,Ethiopia,Germany,5385,3865,0,0,0,0,0
+2020,FRA,DEU,France,Germany,16,5,0,0,0,0,0
+2020,GAB,DEU,Gabon,Germany,13,47,0,0,0,0,0
+2020,GMB,DEU,Gambia,Germany,1189,2555,0,0,0,0,0
+2020,PSE,DEU,State of Palestine,Germany,2066,497,0,0,0,0,0
+2020,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,16,5,0,0,0,0,0
+2020,GEO,DEU,Georgia,Germany,691,3356,0,0,0,0,0
+2020,GHA,DEU,Ghana,Germany,640,1097,0,0,0,0,0
+2020,GNB,DEU,Guinea-Bissau,Germany,119,140,0,0,0,0,0
+2020,GRC,DEU,Greece,Germany,47,0,0,0,0,0,0
+2020,GTM,DEU,Guatemala,Germany,5,10,0,0,0,0,0
+2020,GIN,DEU,Guinea,Germany,3488,4527,0,0,0,0,0
+2020,HTI,DEU,Haiti,Germany,14,20,0,0,0,0,0
+2020,HND,DEU,Honduras,Germany,71,65,0,0,0,0,0
+2020,HRV,DEU,Croatia,Germany,280,5,0,0,0,0,0
+2020,HUN,DEU,Hungary,Germany,233,10,0,0,0,0,0
+2020,ISL,DEU,Iceland,Germany,5,0,0,0,0,0,0
+2020,CIV,DEU,Côte d'Ivoire,Germany,658,1322,0,0,0,0,0
+2020,IND,DEU,India,Germany,415,757,0,0,0,0,0
+2020,IDN,DEU,Indonesia,Germany,14,13,0,0,0,0,0
+2020,IRN,DEU,Iran (Islamic Republic of),Germany,44965,18355,0,0,0,0,0
+2020,IRQ,DEU,Iraq,Germany,146009,27400,0,0,0,0,0
+2020,ISR,DEU,Israel,Germany,40,26,0,0,0,0,0
+2020,ITA,DEU,Italy,Germany,30,6,0,0,0,0,0
+2020,JAM,DEU,Jamaica,Germany,68,40,0,0,0,0,0
+2020,JOR,DEU,Jordan,Germany,485,426,0,0,0,0,0
+2020,JPN,DEU,Japan,Germany,23,5,0,0,0,0,0
+2020,KAZ,DEU,Kazakhstan,Germany,117,205,0,0,0,0,0
+2020,KEN,DEU,Kenya,Germany,172,674,0,0,0,0,0
+2020,KGZ,DEU,Kyrgyzstan,Germany,238,194,0,0,0,0,0
+2020,KOR,DEU,Republic of Korea,Germany,26,11,0,0,0,0,0
+2020,PRK,DEU,Democratic People's Republic of Korea,Germany,85,12,0,0,0,0,0
+2020,KWT,DEU,Kuwait,Germany,39,33,0,0,0,0,0
+2020,LAO,DEU,Lao People's Democratic Republic,Germany,41,0,0,0,0,0,0
+2020,LBR,DEU,Liberia,Germany,123,347,0,0,0,0,0
+2020,LBY,DEU,Libya,Germany,2545,935,0,0,0,0,0
+2020,LBN,DEU,Lebanon,Germany,1775,1888,0,0,0,0,0
+2020,LKA,DEU,Sri Lanka,Germany,3626,801,0,0,0,0,0
+2020,LTU,DEU,Lithuania,Germany,5,0,0,0,0,0,0
+2020,LUX,DEU,Luxembourg,Germany,5,0,0,0,0,0,0
+2020,LVA,DEU,Latvia,Germany,7,5,0,0,0,0,0
+2020,MDG,DEU,Madagascar,Germany,0,16,0,0,0,0,0
+2020,MRT,DEU,Mauritania,Germany,58,82,0,0,0,0,0
+2020,MKD,DEU,North Macedonia,Germany,655,921,0,0,0,0,0
+2020,MDA,DEU,Republic of Moldova,Germany,126,1139,0,0,0,0,0
+2020,MEX,DEU,Mexico,Germany,23,17,0,0,0,0,0
+2020,MLI,DEU,Mali,Germany,358,476,0,0,0,0,0
+2020,MYS,DEU,Malaysia,Germany,12,10,0,0,0,0,0
+2020,MWI,DEU,Malawi,Germany,7,6,0,0,0,0,0
+2020,MNE,DEU,Montenegro,Germany,228,149,0,0,0,0,0
+2020,MNG,DEU,Mongolia,Germany,213,293,0,0,0,0,0
+2020,MAR,DEU,Morocco,Germany,835,1170,0,0,0,0,0
+2020,MOZ,DEU,Mozambique,Germany,15,35,0,0,0,0,0
+2020,MUS,DEU,Mauritius,Germany,5,0,0,0,0,0,0
+2020,MMR,DEU,Myanmar,Germany,869,443,0,0,0,0,0
+2020,NAM,DEU,Namibia,Germany,0,40,0,0,0,0,0
+2020,NPL,DEU,Nepal,Germany,60,36,0,0,0,0,0
+2020,NLD,DEU,Netherlands (Kingdom of the),Germany,31,5,0,0,0,0,0
+2020,NER,DEU,Niger,Germany,57,126,0,0,0,0,0
+2020,NIC,DEU,Nicaragua,Germany,5,180,0,0,0,0,0
+2020,NGA,DEU,Nigeria,Germany,8813,16486,0,0,0,0,0
+2020,NOR,DEU,Norway,Germany,0,9,0,0,0,0,0
+2020,NZL,DEU,New Zealand,Germany,8,0,0,0,0,0,0
+2020,OMN,DEU,Oman,Germany,8,10,0,0,0,0,0
+2020,PAK,DEU,Pakistan,Germany,8475,6453,0,0,0,0,0
+2020,PRY,DEU,Paraguay,Germany,5,8,0,0,0,0,0
+2020,PER,DEU,Peru,Germany,39,18,0,0,0,0,0
+2020,PHL,DEU,Philippines,Germany,40,29,0,0,0,0,0
+2020,POL,DEU,Poland,Germany,597,5,0,0,0,0,0
+2020,PRT,DEU,Portugal,Germany,7,0,0,0,0,0,0
+2020,QAT,DEU,Qatar,Germany,5,0,0,0,0,0,0
+2020,ROU,DEU,Romania,Germany,137,5,0,0,0,0,0
+2020,ZAF,DEU,South Africa,Germany,21,65,0,0,0,0,0
+2020,RUS,DEU,Russian Federation,Germany,9172,13111,0,0,0,0,0
+2020,RWA,DEU,Rwanda,Germany,297,259,0,0,0,0,0
+2020,SLV,DEU,El Salvador,Germany,121,43,0,0,0,0,0
+2020,SAU,DEU,Saudi Arabia,Germany,178,12,0,0,0,0,0
+2020,SEN,DEU,Senegal,Germany,203,415,0,0,0,0,0
+2020,SGP,DEU,Singapore,Germany,8,0,0,0,0,0,0
+2020,SLE,DEU,Sierra Leone,Germany,788,962,0,0,0,0,0
+2020,SLB,DEU,Solomon Islands,Germany,6,0,0,0,0,0,0
+2020,SOM,DEU,Somalia,Germany,28061,6579,0,0,0,0,0
+2020,ESP,DEU,Spain,Germany,22,12,0,0,0,0,0
+2020,SRB,DEU,Serbia,Germany,7926,2042,0,0,0,0,0
+2020,VNM,DEU,Viet Nam,Germany,1138,248,0,0,0,0,0
+2020,SSD,DEU,South Sudan,Germany,101,64,0,0,0,0,0
+2020,STA,DEU,Stateless,Germany,10661,926,0,0,26674,0,0
+2020,SDN,DEU,Sudan,Germany,2774,1224,0,0,0,0,0
+2020,SVK,DEU,Slovakia,Germany,76,0,0,0,0,0,0
+2020,SVN,DEU,Slovenia,Germany,6,0,0,0,0,0,0
+2020,SWZ,DEU,Eswatini,Germany,5,5,0,0,0,0,0
+2020,SWE,DEU,Sweden,Germany,8,0,0,0,0,0,0
+2020,SYR,DEU,Syrian Arab Republic,Germany,605338,37219,0,0,0,0,0
+2020,TZA,DEU,United Republic of Tanzania,Germany,61,324,0,0,0,0,0
+2020,THA,DEU,Thailand,Germany,25,18,0,0,0,0,0
+2020,TJK,DEU,Tajikistan,Germany,1064,1232,0,0,0,0,0
+2020,TKM,DEU,Turkmenistan,Germany,95,160,0,0,0,0,0
+2020,TGO,DEU,Togo,Germany,996,704,0,0,0,0,0
+2020,TTO,DEU,Trinidad and Tobago,Germany,5,10,0,0,0,0,0
+2020,TUN,DEU,Tunisia,Germany,234,606,0,0,0,0,0
+2020,TUR,DEU,Türkiye,Germany,33345,14782,0,0,0,0,0
+2020,ARE,DEU,United Arab Emirates,Germany,38,0,0,0,0,0,0
+2020,UGA,DEU,Uganda,Germany,228,352,0,0,0,0,0
+2020,UKN,DEU,Various / unknown,Germany,35285,6252,0,0,0,0,0
+2020,UKR,DEU,Ukraine,Germany,895,1519,0,0,0,0,0
+2020,USA,DEU,United States of America,Germany,134,25,0,0,0,0,0
+2020,UZB,DEU,Uzbekistan,Germany,139,85,0,0,0,0,0
+2020,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2020,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,757,748,0,0,0,0,0
+2020,YEM,DEU,Yemen,Germany,3039,840,0,0,0,0,0
+2020,ZMB,DEU,Zambia,Germany,5,8,0,0,0,0,0
+2020,ZWE,DEU,Zimbabwe,Germany,282,254,0,0,0,0,0
+2021,AFG,DEU,Afghanistan,Germany,159409,43964,0,0,0,0,0
+2021,ALB,DEU,Albania,Germany,1274,1676,0,0,0,0,0
+2021,DZA,DEU,Algeria,Germany,630,1223,0,0,0,0,0
+2021,AGO,DEU,Angola,Germany,835,401,0,0,0,0,0
+2021,EGY,DEU,Egypt,Germany,2259,1179,0,0,0,0,0
+2021,ARG,DEU,Argentina,Germany,14,19,0,0,0,0,0
+2021,ARM,DEU,Armenia,Germany,2744,1896,0,0,0,0,0
+2021,AUS,DEU,Australia,Germany,6,0,0,0,0,0,0
+2021,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2021,AZE,DEU,Azerbaijan,Germany,3878,2468,0,0,0,0,0
+2021,BHR,DEU,Bahrain,Germany,74,5,0,0,0,0,0
+2021,BDI,DEU,Burundi,Germany,145,54,0,0,0,0,0
+2021,BEL,DEU,Belgium,Germany,7,0,0,0,0,0,0
+2021,BEN,DEU,Benin,Germany,107,125,0,0,0,0,0
+2021,BGD,DEU,Bangladesh,Germany,816,361,0,0,0,0,0
+2021,BTN,DEU,Bhutan,Germany,21,0,0,0,0,0,0
+2021,BFA,DEU,Burkina Faso,Germany,106,158,0,0,0,0,0
+2021,BLR,DEU,Belarus,Germany,195,312,0,0,0,0,0
+2021,BOL,DEU,Bolivia (Plurinational State of),Germany,6,6,0,0,0,0,0
+2021,BWA,DEU,Botswana,Germany,7,0,0,0,0,0,0
+2021,BRA,DEU,Brazil,Germany,36,46,0,0,0,0,0
+2021,BIH,DEU,Bosnia and Herzegovina,Germany,1316,1000,0,0,0,0,0
+2021,BGR,DEU,Bulgaria,Germany,70,5,0,0,0,0,0
+2021,KHM,DEU,Cambodia,Germany,30,46,0,0,0,0,0
+2021,CAN,DEU,Canada,Germany,24,0,0,0,0,0,0
+2021,CAF,DEU,Central African Republic,Germany,51,15,0,0,0,0,0
+2021,TCD,DEU,Chad,Germany,123,202,0,0,0,0,0
+2021,CHN,DEU,China,Germany,2019,379,0,0,0,0,0
+2021,CHL,DEU,Chile,Germany,156,5,0,0,0,0,0
+2021,CMR,DEU,Cameroon,Germany,927,1642,0,0,0,0,0
+2021,COG,DEU,Congo,Germany,285,57,0,0,0,0,0
+2021,COD,DEU,Democratic Republic of the Congo,Germany,1761,541,0,0,0,0,0
+2021,COM,DEU,Comoros,Germany,0,13,0,0,0,0,0
+2021,COL,DEU,Colombia,Germany,79,880,0,0,0,0,0
+2021,CUB,DEU,Cuba,Germany,84,46,0,0,0,0,0
+2021,CPV,DEU,Cabo Verde,Germany,0,5,0,0,0,0,0
+2021,CZE,DEU,Czechia,Germany,404,5,0,0,0,0,0
+2021,DJI,DEU,Djibouti,Germany,38,14,0,0,0,0,0
+2021,DMA,DEU,Dominica,Germany,5,0,0,0,0,0,0
+2021,DOM,DEU,Dominican Republic,Germany,8,5,0,0,0,0,0
+2021,ECU,DEU,Ecuador,Germany,12,5,0,0,0,0,0
+2021,GNQ,DEU,Equatorial Guinea,Germany,27,5,0,0,0,0,0
+2021,ERI,DEU,Eritrea,Germany,63128,3038,0,0,0,0,0
+2021,ETH,DEU,Ethiopia,Germany,6508,3388,0,0,0,0,0
+2021,FRA,DEU,France,Germany,13,0,0,0,0,0,0
+2021,GAB,DEU,Gabon,Germany,15,28,0,0,0,0,0
+2021,GMB,DEU,Gambia,Germany,1369,1300,0,0,0,0,0
+2021,PSE,DEU,State of Palestine,Germany,2025,905,0,0,0,0,0
+2021,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,22,10,0,0,0,0,0
+2021,GEO,DEU,Georgia,Germany,711,4285,0,0,0,0,0
+2021,GHA,DEU,Ghana,Germany,678,782,0,0,0,0,0
+2021,GNB,DEU,Guinea-Bissau,Germany,125,93,0,0,0,0,0
+2021,GRC,DEU,Greece,Germany,44,5,0,0,0,0,0
+2021,GTM,DEU,Guatemala,Germany,5,9,0,0,0,0,0
+2021,GIN,DEU,Guinea,Germany,4054,3160,0,0,0,0,0
+2021,HTI,DEU,Haiti,Germany,14,23,0,0,0,0,0
+2021,HND,DEU,Honduras,Germany,80,75,0,0,0,0,0
+2021,HRV,DEU,Croatia,Germany,265,5,0,0,0,0,0
+2021,HUN,DEU,Hungary,Germany,223,5,0,0,0,0,0
+2021,CIV,DEU,Côte d'Ivoire,Germany,760,1116,0,0,0,0,0
+2021,IND,DEU,India,Germany,414,566,0,0,0,0,0
+2021,IDN,DEU,Indonesia,Germany,16,7,0,0,0,0,0
+2021,IRN,DEU,Iran (Islamic Republic of),Germany,46223,14128,0,0,0,0,0
+2021,IRQ,DEU,Iraq,Germany,147869,29206,0,0,0,0,0
+2021,ISR,DEU,Israel,Germany,31,19,0,0,0,0,0
+2021,ITA,DEU,Italy,Germany,31,0,0,0,0,0,0
+2021,JAM,DEU,Jamaica,Germany,72,42,0,0,0,0,0
+2021,JOR,DEU,Jordan,Germany,496,405,0,0,0,0,0
+2021,JPN,DEU,Japan,Germany,23,5,0,0,0,0,0
+2021,KAZ,DEU,Kazakhstan,Germany,112,157,0,0,0,0,0
+2021,KEN,DEU,Kenya,Germany,163,543,0,0,0,0,0
+2021,KGZ,DEU,Kyrgyzstan,Germany,248,130,0,0,0,0,0
+2021,KOR,DEU,Republic of Korea,Germany,22,5,0,0,0,0,0
+2021,PRK,DEU,Democratic People's Republic of Korea,Germany,89,5,0,0,0,0,0
+2021,KWT,DEU,Kuwait,Germany,48,58,0,0,0,0,0
+2021,LAO,DEU,Lao People's Democratic Republic,Germany,40,0,0,0,0,0,0
+2021,LBR,DEU,Liberia,Germany,135,289,0,0,0,0,0
+2021,LBY,DEU,Libya,Germany,2687,983,0,0,0,0,0
+2021,LBN,DEU,Lebanon,Germany,1872,1836,0,0,0,0,0
+2021,LKA,DEU,Sri Lanka,Germany,3591,487,0,0,0,0,0
+2021,LTU,DEU,Lithuania,Germany,5,0,0,0,0,0,0
+2021,LVA,DEU,Latvia,Germany,6,0,0,0,0,0,0
+2021,MDG,DEU,Madagascar,Germany,5,9,0,0,0,0,0
+2021,MRT,DEU,Mauritania,Germany,65,74,0,0,0,0,0
+2021,MKD,DEU,North Macedonia,Germany,607,3007,0,0,0,0,0
+2021,MDA,DEU,Republic of Moldova,Germany,129,2364,0,0,0,0,0
+2021,MEX,DEU,Mexico,Germany,24,7,0,0,0,0,0
+2021,MLI,DEU,Mali,Germany,392,364,0,0,0,0,0
+2021,MYS,DEU,Malaysia,Germany,19,10,0,0,0,0,0
+2021,MWI,DEU,Malawi,Germany,7,5,0,0,0,0,0
+2021,MNE,DEU,Montenegro,Germany,212,207,0,0,0,0,0
+2021,MNG,DEU,Mongolia,Germany,235,204,0,0,0,0,0
+2021,MAR,DEU,Morocco,Germany,866,1156,0,0,0,0,0
+2021,MOZ,DEU,Mozambique,Germany,13,32,0,0,0,0,0
+2021,MUS,DEU,Mauritius,Germany,5,5,0,0,0,0,0
+2021,MMR,DEU,Myanmar,Germany,890,472,0,0,0,0,0
+2021,NAM,DEU,Namibia,Germany,0,47,0,0,0,0,0
+2021,NPL,DEU,Nepal,Germany,61,23,0,0,0,0,0
+2021,NLD,DEU,Netherlands (Kingdom of the),Germany,31,5,0,0,0,0,0
+2021,NER,DEU,Niger,Germany,60,93,0,0,0,0,0
+2021,NIC,DEU,Nicaragua,Germany,5,202,0,0,0,0,0
+2021,NGA,DEU,Nigeria,Germany,10023,11392,0,0,0,0,0
+2021,NOR,DEU,Norway,Germany,0,10,0,0,0,0,0
+2021,NZL,DEU,New Zealand,Germany,7,0,0,0,0,0,0
+2021,OMN,DEU,Oman,Germany,8,10,0,0,0,0,0
+2021,PAK,DEU,Pakistan,Germany,8788,4457,0,0,0,0,0
+2021,PAN,DEU,Panama,Germany,0,5,0,0,0,0,0
+2021,PRY,DEU,Paraguay,Germany,5,9,0,0,0,0,0
+2021,PER,DEU,Peru,Germany,31,12,0,0,0,0,0
+2021,PHL,DEU,Philippines,Germany,37,24,0,0,0,0,0
+2021,POL,DEU,Poland,Germany,573,0,0,0,0,0,0
+2021,PRT,DEU,Portugal,Germany,6,0,0,0,0,0,0
+2021,QAT,DEU,Qatar,Germany,5,0,0,0,0,0,0
+2021,ROU,DEU,Romania,Germany,129,10,0,0,0,0,0
+2021,ZAF,DEU,South Africa,Germany,20,54,0,0,0,0,0
+2021,RUS,DEU,Russian Federation,Germany,9584,10362,0,0,0,0,0
+2021,RWA,DEU,Rwanda,Germany,324,447,0,0,0,0,0
+2021,SLV,DEU,El Salvador,Germany,143,65,0,0,0,0,0
+2021,SAU,DEU,Saudi Arabia,Germany,175,23,0,0,0,0,0
+2021,SEN,DEU,Senegal,Germany,202,318,0,0,0,0,0
+2021,SGP,DEU,Singapore,Germany,7,5,0,0,0,0,0
+2021,SLE,DEU,Sierra Leone,Germany,825,622,0,0,0,0,0
+2021,SLB,DEU,Solomon Islands,Germany,6,0,0,0,0,0,0
+2021,SOM,DEU,Somalia,Germany,30283,5913,0,0,0,0,0
+2021,ESP,DEU,Spain,Germany,21,12,0,0,0,0,0
+2021,SRB,DEU,Serbia,Germany,6387,2182,0,0,0,0,0
+2021,VNM,DEU,Viet Nam,Germany,1096,276,0,0,0,0,0
+2021,SSD,DEU,South Sudan,Germany,249,72,0,0,0,0,0
+2021,STA,DEU,Stateless,Germany,11901,841,0,0,27939,0,0
+2021,SDN,DEU,Sudan,Germany,2909,941,0,0,0,0,0
+2021,SVK,DEU,Slovakia,Germany,72,0,0,0,0,0,0
+2021,SVN,DEU,Slovenia,Germany,6,0,0,0,0,0,0
+2021,SWZ,DEU,Eswatini,Germany,5,5,0,0,0,0,0
+2021,SWE,DEU,Sweden,Germany,9,0,0,0,0,0,0
+2021,SYR,DEU,Syrian Arab Republic,Germany,621740,53750,0,0,0,0,0
+2021,TZA,DEU,United Republic of Tanzania,Germany,79,286,0,0,0,0,0
+2021,THA,DEU,Thailand,Germany,27,14,0,0,0,0,0
+2021,TJK,DEU,Tajikistan,Germany,1178,809,0,0,0,0,0
+2021,TKM,DEU,Turkmenistan,Germany,90,119,0,0,0,0,0
+2021,TGO,DEU,Togo,Germany,986,400,0,0,0,0,0
+2021,TTO,DEU,Trinidad and Tobago,Germany,7,5,0,0,0,0,0
+2021,TUN,DEU,Tunisia,Germany,251,784,0,0,0,0,0
+2021,TUR,DEU,Türkiye,Germany,35953,14831,0,0,0,0,0
+2021,ARE,DEU,United Arab Emirates,Germany,33,0,0,0,0,0,0
+2021,UGA,DEU,Uganda,Germany,247,337,0,0,0,0,0
+2021,UKN,DEU,Various / unknown,Germany,37702,6777,0,0,0,0,0
+2021,UKR,DEU,Ukraine,Germany,918,1328,0,0,0,0,0
+2021,USA,DEU,United States of America,Germany,125,23,0,0,0,0,0
+2021,UZB,DEU,Uzbekistan,Germany,154,69,0,0,0,0,0
+2021,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2021,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,1113,728,0,0,0,0,0
+2021,YEM,DEU,Yemen,Germany,3082,1173,0,0,0,0,0
+2021,ZMB,DEU,Zambia,Germany,5,9,0,0,0,0,0
+2021,ZWE,DEU,Zimbabwe,Germany,312,211,0,0,0,0,0
+2022,AFG,DEU,Afghanistan,Germany,180810,34867,0,0,0,0,0
+2022,ALB,DEU,Albania,Germany,1267,1741,0,0,0,0,0
+2022,DZA,DEU,Algeria,Germany,937,1125,0,0,0,0,0
+2022,AGO,DEU,Angola,Germany,798,367,0,0,0,0,0
+2022,EGY,DEU,Egypt,Germany,1840,1167,0,0,0,0,0
+2022,ARG,DEU,Argentina,Germany,18,16,0,0,0,0,0
+2022,ARM,DEU,Armenia,Germany,4272,2010,0,0,0,0,0
+2022,AUS,DEU,Australia,Germany,11,0,0,0,0,0,0
+2022,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2022,AZE,DEU,Azerbaijan,Germany,5315,2281,0,0,0,0,0
+2022,BHR,DEU,Bahrain,Germany,45,0,0,0,0,0,0
+2022,BDI,DEU,Burundi,Germany,104,544,0,0,0,0,0
+2022,BEL,DEU,Belgium,Germany,7,0,0,0,0,0,0
+2022,BEN,DEU,Benin,Germany,101,150,0,0,0,0,0
+2022,BGD,DEU,Bangladesh,Germany,551,239,0,0,0,0,0
+2022,BTN,DEU,Bhutan,Germany,19,0,0,0,0,0,0
+2022,BFA,DEU,Burkina Faso,Germany,99,152,0,0,0,0,0
+2022,BLR,DEU,Belarus,Germany,1070,437,0,0,0,0,0
+2022,BOL,DEU,Bolivia (Plurinational State of),Germany,8,14,0,0,0,0,0
+2022,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2022,BRA,DEU,Brazil,Germany,36,45,0,0,0,0,0
+2022,BIH,DEU,Bosnia and Herzegovina,Germany,1339,870,0,0,0,0,0
+2022,BGR,DEU,Bulgaria,Germany,91,5,0,0,0,0,0
+2022,KHM,DEU,Cambodia,Germany,37,30,0,0,0,0,0
+2022,CAN,DEU,Canada,Germany,44,0,0,0,0,0,0
+2022,CAF,DEU,Central African Republic,Germany,38,0,0,0,0,0,0
+2022,TCD,DEU,Chad,Germany,113,157,0,0,0,0,0
+2022,CHN,DEU,China,Germany,1667,317,0,0,0,0,0
+2022,CHL,DEU,Chile,Germany,154,21,0,0,0,0,0
+2022,CMR,DEU,Cameroon,Germany,1151,1334,0,0,0,0,0
+2022,COG,DEU,Congo,Germany,251,65,0,0,0,0,0
+2022,COD,DEU,Democratic Republic of the Congo,Germany,1371,696,0,0,0,0,0
+2022,COM,DEU,Comoros,Germany,0,5,0,0,0,0,0
+2022,COL,DEU,Colombia,Germany,132,1766,0,0,0,0,0
+2022,CRI,DEU,Costa Rica,Germany,0,5,0,0,0,0,0
+2022,CUB,DEU,Cuba,Germany,100,158,0,0,0,0,0
+2022,CZE,DEU,Czechia,Germany,392,5,0,0,0,0,0
+2022,DJI,DEU,Djibouti,Germany,29,36,0,0,0,0,0
+2022,DMA,DEU,Dominica,Germany,5,0,0,0,0,0,0
+2022,DOM,DEU,Dominican Republic,Germany,11,5,0,0,0,0,0
+2022,ECU,DEU,Ecuador,Germany,24,16,0,0,0,0,0
+2022,GNQ,DEU,Equatorial Guinea,Germany,21,6,0,0,0,0,0
+2022,ERI,DEU,Eritrea,Germany,44437,3247,0,0,0,0,0
+2022,EST,DEU,Estonia,Germany,5,0,0,0,0,0,0
+2022,ETH,DEU,Ethiopia,Germany,5378,2557,0,0,0,0,0
+2022,FRA,DEU,France,Germany,12,0,0,0,0,0,0
+2022,GAB,DEU,Gabon,Germany,17,18,0,0,0,0,0
+2022,GMB,DEU,Gambia,Germany,1134,988,0,0,0,0,0
+2022,PSE,DEU,State of Palestine,Germany,1586,1410,0,0,0,0,0
+2022,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,34,5,0,0,0,0,0
+2022,GEO,DEU,Georgia,Germany,2459,8447,0,0,0,0,0
+2022,GHA,DEU,Ghana,Germany,908,670,0,0,0,0,0
+2022,GNB,DEU,Guinea-Bissau,Germany,100,74,0,0,0,0,0
+2022,GRC,DEU,Greece,Germany,50,5,0,0,0,0,0
+2022,GTM,DEU,Guatemala,Germany,5,12,0,0,0,0,0
+2022,GIN,DEU,Guinea,Germany,3288,2435,0,0,0,0,0
+2022,HTI,DEU,Haiti,Germany,13,39,0,0,0,0,0
+2022,HKG,DEU,"China, Hong Kong Special Administrative Region",Germany,8,8,0,0,0,0,0
+2022,HND,DEU,Honduras,Germany,74,62,0,0,0,0,0
+2022,HRV,DEU,Croatia,Germany,258,5,0,0,0,0,0
+2022,HUN,DEU,Hungary,Germany,227,5,0,0,0,0,0
+2022,CIV,DEU,Côte d'Ivoire,Germany,686,821,0,0,0,0,0
+2022,IND,DEU,India,Germany,652,826,0,0,0,0,0
+2022,IDN,DEU,Indonesia,Germany,15,5,0,0,0,0,0
+2022,IRN,DEU,Iran (Islamic Republic of),Germany,25452,13513,0,0,0,0,0
+2022,IRQ,DEU,Iraq,Germany,103374,29893,0,0,0,0,0
+2022,ISR,DEU,Israel,Germany,117,27,0,0,0,0,0
+2022,ITA,DEU,Italy,Germany,44,0,0,0,0,0,0
+2022,JAM,DEU,Jamaica,Germany,26,35,0,0,0,0,0
+2022,JOR,DEU,Jordan,Germany,747,391,0,0,0,0,0
+2022,JPN,DEU,Japan,Germany,37,5,0,0,0,0,0
+2022,KAZ,DEU,Kazakhstan,Germany,350,157,0,0,0,0,0
+2022,KEN,DEU,Kenya,Germany,160,474,0,0,0,0,0
+2022,KGZ,DEU,Kyrgyzstan,Germany,427,113,0,0,0,0,0
+2022,KOR,DEU,Republic of Korea,Germany,37,5,0,0,0,0,0
+2022,PRK,DEU,Democratic People's Republic of Korea,Germany,91,5,0,0,0,0,0
+2022,KWT,DEU,Kuwait,Germany,53,90,0,0,0,0,0
+2022,LAO,DEU,Lao People's Democratic Republic,Germany,43,0,0,0,0,0,0
+2022,LBR,DEU,Liberia,Germany,146,259,0,0,0,0,0
+2022,LBY,DEU,Libya,Germany,2442,1161,0,0,0,0,0
+2022,LBN,DEU,Lebanon,Germany,2401,2411,0,0,0,0,0
+2022,LKA,DEU,Sri Lanka,Germany,3232,392,0,0,0,0,0
+2022,LTU,DEU,Lithuania,Germany,18,0,0,0,0,0,0
+2022,LUX,DEU,Luxembourg,Germany,5,0,0,0,0,0,0
+2022,LVA,DEU,Latvia,Germany,9,0,0,0,0,0,0
+2022,MDG,DEU,Madagascar,Germany,5,11,0,0,0,0,0
+2022,MRT,DEU,Mauritania,Germany,44,88,0,0,0,0,0
+2022,MKD,DEU,North Macedonia,Germany,621,4032,0,0,0,0,0
+2022,MDA,DEU,Republic of Moldova,Germany,1454,2140,0,0,0,0,0
+2022,MEX,DEU,Mexico,Germany,31,14,0,0,0,0,0
+2022,MLI,DEU,Mali,Germany,289,285,0,0,0,0,0
+2022,MYS,DEU,Malaysia,Germany,12,0,0,0,0,0,0
+2022,MWI,DEU,Malawi,Germany,6,23,0,0,0,0,0
+2022,MNE,DEU,Montenegro,Germany,213,253,0,0,0,0,0
+2022,MNG,DEU,Mongolia,Germany,214,232,0,0,0,0,0
+2022,MAR,DEU,Morocco,Germany,2219,1058,0,0,0,0,0
+2022,MOZ,DEU,Mozambique,Germany,14,23,0,0,0,0,0
+2022,MMR,DEU,Myanmar,Germany,760,395,0,0,0,0,0
+2022,NAM,DEU,Namibia,Germany,8,50,0,0,0,0,0
+2022,NPL,DEU,Nepal,Germany,60,33,0,0,0,0,0
+2022,NLD,DEU,Netherlands (Kingdom of the),Germany,39,5,0,0,0,0,0
+2022,NER,DEU,Niger,Germany,62,83,0,0,0,0,0
+2022,NIC,DEU,Nicaragua,Germany,8,383,0,0,0,0,0
+2022,NGA,DEU,Nigeria,Germany,9440,7736,0,0,0,0,0
+2022,NZL,DEU,New Zealand,Germany,9,0,0,0,0,0,0
+2022,OMN,DEU,Oman,Germany,7,10,0,0,0,0,0
+2022,PAK,DEU,Pakistan,Germany,5973,3334,0,0,0,0,0
+2022,PAN,DEU,Panama,Germany,0,15,0,0,0,0,0
+2022,PRY,DEU,Paraguay,Germany,5,10,0,0,0,0,0
+2022,PER,DEU,Peru,Germany,47,67,0,0,0,0,0
+2022,PHL,DEU,Philippines,Germany,55,31,0,0,0,0,0
+2022,PLW,DEU,Palau,Germany,5,0,0,0,0,0,0
+2022,POL,DEU,Poland,Germany,572,0,0,0,0,0,0
+2022,PRT,DEU,Portugal,Germany,8,0,0,0,0,0,0
+2022,ROU,DEU,Romania,Germany,174,5,0,0,0,0,0
+2022,ZAF,DEU,South Africa,Germany,30,42,0,0,0,0,0
+2022,RUS,DEU,Russian Federation,Germany,12637,9210,0,0,0,0,0
+2022,RWA,DEU,Rwanda,Germany,296,674,0,0,0,0,0
+2022,SLV,DEU,El Salvador,Germany,210,153,0,0,0,0,0
+2022,SAU,DEU,Saudi Arabia,Germany,127,24,0,0,0,0,0
+2022,SEN,DEU,Senegal,Germany,165,250,0,0,0,0,0
+2022,SGP,DEU,Singapore,Germany,10,0,0,0,0,0,0
+2022,SLE,DEU,Sierra Leone,Germany,619,513,0,0,0,0,0
+2022,SLB,DEU,Solomon Islands,Germany,5,0,0,0,0,0,0
+2022,SOM,DEU,Somalia,Germany,23812,5248,0,0,0,0,0
+2022,ESP,DEU,Spain,Germany,21,8,0,0,0,0,0
+2022,SRB,DEU,Serbia,Germany,5895,2564,0,0,0,0,0
+2022,VNM,DEU,Viet Nam,Germany,2858,283,0,0,0,0,0
+2022,SSD,DEU,South Sudan,Germany,111,57,0,0,0,0,0
+2022,STA,DEU,Stateless,Germany,9162,530,0,0,29455,0,0
+2022,SDN,DEU,Sudan,Germany,2108,862,0,0,0,0,0
+2022,SVK,DEU,Slovakia,Germany,68,0,0,0,0,0,0
+2022,SVN,DEU,Slovenia,Germany,7,0,0,0,0,0,0
+2022,SWZ,DEU,Eswatini,Germany,5,5,0,0,0,0,0
+2022,SWE,DEU,Sweden,Germany,13,5,0,0,0,0,0
+2022,SYR,DEU,Syrian Arab Republic,Germany,522575,54218,0,0,0,0,0
+2022,TZA,DEU,United Republic of Tanzania,Germany,65,286,0,0,0,0,0
+2022,THA,DEU,Thailand,Germany,36,23,0,0,0,0,0
+2022,TJK,DEU,Tajikistan,Germany,1424,1256,0,0,0,0,0
+2022,TKM,DEU,Turkmenistan,Germany,1084,128,0,0,0,0,0
+2022,TLS,DEU,Timor-Leste,Germany,0,14,0,0,0,0,0
+2022,TGO,DEU,Togo,Germany,914,352,0,0,0,0,0
+2022,TTO,DEU,Trinidad and Tobago,Germany,5,0,0,0,0,0,0
+2022,TUN,DEU,Tunisia,Germany,495,1265,0,0,0,0,0
+2022,TUR,DEU,Türkiye,Germany,26527,30479,0,0,0,0,0
+2022,ARE,DEU,United Arab Emirates,Germany,20,5,0,0,0,0,0
+2022,UGA,DEU,Uganda,Germany,190,397,0,0,0,0,0
+2022,UKN,DEU,Various / unknown,Germany,27539,5796,0,0,0,0,0
+2022,UKR,DEU,Ukraine,Germany,1002999,1383,0,0,0,0,0
+2022,URY,DEU,Uruguay,Germany,9,0,0,0,0,0,0
+2022,USA,DEU,United States of America,Germany,227,32,0,0,0,0,0
+2022,UZB,DEU,Uzbekistan,Germany,814,108,0,0,0,0,0
+2022,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2022,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,1221,1952,0,0,0,0,0
+2022,YEM,DEU,Yemen,Germany,3757,1172,0,0,0,0,0
+2022,ZMB,DEU,Zambia,Germany,15,5,0,0,0,0,0
+2022,ZWE,DEU,Zimbabwe,Germany,166,182,0,0,0,0,0
+2023,AFG,DEU,Afghanistan,Germany,255077,44781,0,0,0,0,0
+2023,ALB,DEU,Albania,Germany,1345,1505,0,0,0,0,0
+2023,DZA,DEU,Algeria,Germany,1079,1653,0,0,0,0,0
+2023,AGO,DEU,Angola,Germany,900,639,0,0,0,0,0
+2023,EGY,DEU,Egypt,Germany,2593,1670,0,0,0,0,0
+2023,ARG,DEU,Argentina,Germany,20,18,0,0,0,0,0
+2023,ARM,DEU,Armenia,Germany,4666,2851,0,0,0,0,0
+2023,AUS,DEU,Australia,Germany,9,0,0,0,0,0,0
+2023,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2023,AZE,DEU,Azerbaijan,Germany,6939,2521,0,0,0,0,0
+2023,BHR,DEU,Bahrain,Germany,68,11,0,0,0,0,0
+2023,BDI,DEU,Burundi,Germany,163,1529,0,0,0,0,0
+2023,BEL,DEU,Belgium,Germany,6,0,0,0,0,0,0
+2023,BEN,DEU,Benin,Germany,125,762,0,0,0,0,0
+2023,BGD,DEU,Bangladesh,Germany,810,245,0,0,0,0,0
+2023,BTN,DEU,Bhutan,Germany,20,0,0,0,0,0,0
+2023,BFA,DEU,Burkina Faso,Germany,167,225,0,0,0,0,0
+2023,BLR,DEU,Belarus,Germany,1260,629,0,0,0,0,0
+2023,BOL,DEU,Bolivia (Plurinational State of),Germany,6,14,0,0,0,0,0
+2023,BWA,DEU,Botswana,Germany,5,0,0,0,0,0,0
+2023,BRA,DEU,Brazil,Germany,38,77,0,0,0,0,0
+2023,BIH,DEU,Bosnia and Herzegovina,Germany,1315,727,0,0,0,0,0
+2023,BGR,DEU,Bulgaria,Germany,88,0,0,0,0,0,0
+2023,KHM,DEU,Cambodia,Germany,34,22,0,0,0,0,0
+2023,CAN,DEU,Canada,Germany,54,5,0,0,0,0,0
+2023,CAF,DEU,Central African Republic,Germany,52,10,0,0,0,0,0
+2023,TCD,DEU,Chad,Germany,158,131,0,0,0,0,0
+2023,CHN,DEU,China,Germany,2333,709,0,0,0,0,0
+2023,CHL,DEU,Chile,Germany,148,49,0,0,0,0,0
+2023,CMR,DEU,Cameroon,Germany,1399,2360,0,0,0,0,0
+2023,COG,DEU,Congo,Germany,296,103,0,0,0,0,0
+2023,COD,DEU,Democratic Republic of the Congo,Germany,1567,1068,0,0,0,0,0
+2023,COM,DEU,Comoros,Germany,13,10,0,0,0,0,0
+2023,COL,DEU,Colombia,Germany,199,4322,0,0,0,0,0
+2023,CRI,DEU,Costa Rica,Germany,0,10,0,0,0,0,0
+2023,CUB,DEU,Cuba,Germany,132,434,0,0,0,0,0
+2023,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2023,CZE,DEU,Czechia,Germany,376,0,0,0,0,0,0
+2023,DJI,DEU,Djibouti,Germany,54,52,0,0,0,0,0
+2023,DMA,DEU,Dominica,Germany,5,0,0,0,0,0,0
+2023,DOM,DEU,Dominican Republic,Germany,6,10,0,0,0,0,0
+2023,ECU,DEU,Ecuador,Germany,21,36,0,0,0,0,0
+2023,GNQ,DEU,Equatorial Guinea,Germany,29,8,0,0,0,0,0
+2023,ERI,DEU,Eritrea,Germany,67087,3848,0,0,0,0,0
+2023,EST,DEU,Estonia,Germany,5,0,0,0,0,0,0
+2023,ETH,DEU,Ethiopia,Germany,7433,2246,0,0,0,0,0
+2023,FRA,DEU,France,Germany,12,0,0,0,0,0,0
+2023,GAB,DEU,Gabon,Germany,24,23,0,0,0,0,0
+2023,GMB,DEU,Gambia,Germany,1645,954,0,0,0,0,0
+2023,PSE,DEU,State of Palestine,Germany,2142,1849,0,0,0,0,0
+2023,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,39,5,0,0,0,0,0
+2023,GEO,DEU,Georgia,Germany,2992,9284,0,0,0,0,0
+2023,GHA,DEU,Ghana,Germany,932,627,0,0,0,0,0
+2023,GNB,DEU,Guinea-Bissau,Germany,137,100,0,0,0,0,0
+2023,GRC,DEU,Greece,Germany,45,5,0,0,0,0,0
+2023,GTM,DEU,Guatemala,Germany,8,13,0,0,0,0,0
+2023,GIN,DEU,Guinea,Germany,5235,3940,0,0,0,0,0
+2023,HTI,DEU,Haiti,Germany,22,47,0,0,0,0,0
+2023,HKG,DEU,"China, Hong Kong Special Administrative Region",Germany,9,5,0,0,0,0,0
+2023,HND,DEU,Honduras,Germany,106,83,0,0,0,0,0
+2023,HRV,DEU,Croatia,Germany,245,0,0,0,0,0,0
+2023,HUN,DEU,Hungary,Germany,250,10,0,0,0,0,0
+2023,CIV,DEU,Côte d'Ivoire,Germany,879,1686,0,0,0,0,0
+2023,IND,DEU,India,Germany,732,1859,0,0,0,0,0
+2023,IDN,DEU,Indonesia,Germany,15,15,0,0,0,0,0
+2023,IRN,DEU,Iran (Islamic Republic of),Germany,48224,15934,0,0,0,0,0
+2023,IRQ,DEU,Iraq,Germany,146481,28738,0,0,0,0,0
+2023,ISR,DEU,Israel,Germany,163,77,0,0,0,0,0
+2023,ITA,DEU,Italy,Germany,48,10,0,0,0,0,0
+2023,JAM,DEU,Jamaica,Germany,90,32,0,0,0,0,0
+2023,JOR,DEU,Jordan,Germany,999,595,0,0,0,0,0
+2023,JPN,DEU,Japan,Germany,36,0,0,0,0,0,0
+2023,KAZ,DEU,Kazakhstan,Germany,363,192,0,0,0,0,0
+2023,KEN,DEU,Kenya,Germany,182,614,0,0,0,0,0
+2023,KGZ,DEU,Kyrgyzstan,Germany,505,118,0,0,0,0,0
+2023,KOR,DEU,Republic of Korea,Germany,37,0,0,0,0,0,0
+2023,PRK,DEU,Democratic People's Republic of Korea,Germany,89,0,0,0,0,0,0
+2023,KWT,DEU,Kuwait,Germany,78,94,0,0,0,0,0
+2023,LAO,DEU,Lao People's Democratic Republic,Germany,42,0,0,0,0,0,0
+2023,LBR,DEU,Liberia,Germany,180,405,0,0,0,0,0
+2023,LBY,DEU,Libya,Germany,3051,1367,0,0,0,0,0
+2023,LBN,DEU,Lebanon,Germany,2917,2603,0,0,0,0,0
+2023,LKA,DEU,Sri Lanka,Germany,3459,766,0,0,0,0,0
+2023,LTU,DEU,Lithuania,Germany,18,0,0,0,0,0,0
+2023,LUX,DEU,Luxembourg,Germany,5,0,0,0,0,0,0
+2023,LVA,DEU,Latvia,Germany,8,0,0,0,0,0,0
+2023,MDG,DEU,Madagascar,Germany,5,10,0,0,0,0,0
+2023,MRT,DEU,Mauritania,Germany,75,76,0,0,0,0,0
+2023,MKD,DEU,North Macedonia,Germany,631,3633,0,0,0,0,0
+2023,MDA,DEU,Republic of Moldova,Germany,1875,1135,0,0,0,0,0
+2023,MEX,DEU,Mexico,Germany,32,46,0,0,0,0,0
+2023,MLI,DEU,Mali,Germany,447,379,0,0,0,0,0
+2023,MYS,DEU,Malaysia,Germany,20,18,0,0,0,0,0
+2023,MWI,DEU,Malawi,Germany,9,62,0,0,0,0,0
+2023,MNE,DEU,Montenegro,Germany,214,227,0,0,0,0,0
+2023,MNG,DEU,Mongolia,Germany,249,353,0,0,0,0,0
+2023,MAR,DEU,Morocco,Germany,2244,1474,0,0,0,0,0
+2023,MOZ,DEU,Mozambique,Germany,15,39,0,0,0,0,0
+2023,MUS,DEU,Mauritius,Germany,0,5,0,0,0,0,0
+2023,MMR,DEU,Myanmar,Germany,1080,465,0,0,0,0,0
+2023,NAM,DEU,Namibia,Germany,8,57,0,0,0,0,0
+2023,NPL,DEU,Nepal,Germany,69,48,0,0,0,0,0
+2023,NLD,DEU,Netherlands (Kingdom of the),Germany,43,0,0,0,0,0,0
+2023,NER,DEU,Niger,Germany,81,138,0,0,0,0,0
+2023,NIC,DEU,Nicaragua,Germany,29,443,0,0,0,0,0
+2023,NGA,DEU,Nigeria,Germany,13083,6255,0,0,0,0,0
+2023,NOR,DEU,Norway,Germany,5,0,0,0,0,0,0
+2023,NZL,DEU,New Zealand,Germany,9,0,0,0,0,0,0
+2023,OMN,DEU,Oman,Germany,15,0,0,0,0,0,0
+2023,PAK,DEU,Pakistan,Germany,9416,4114,0,0,0,0,0
+2023,PAN,DEU,Panama,Germany,5,18,0,0,0,0,0
+2023,PRY,DEU,Paraguay,Germany,6,6,0,0,0,0,0
+2023,PER,DEU,Peru,Germany,50,288,0,0,0,0,0
+2023,PHL,DEU,Philippines,Germany,62,20,0,0,0,0,0
+2023,PLW,DEU,Palau,Germany,5,0,0,0,0,0,0
+2023,POL,DEU,Poland,Germany,554,5,0,0,0,0,0
+2023,PRT,DEU,Portugal,Germany,9,5,0,0,0,0,0
+2023,QAT,DEU,Qatar,Germany,5,0,0,0,0,0,0
+2023,ROU,DEU,Romania,Germany,203,10,0,0,0,0,0
+2023,ZAF,DEU,South Africa,Germany,31,74,0,0,0,0,0
+2023,RUS,DEU,Russian Federation,Germany,17437,11052,0,0,0,0,0
+2023,RWA,DEU,Rwanda,Germany,465,1100,0,0,0,0,0
+2023,SLV,DEU,El Salvador,Germany,266,249,0,0,0,0,0
+2023,SAU,DEU,Saudi Arabia,Germany,222,29,0,0,0,0,0
+2023,SEN,DEU,Senegal,Germany,238,231,0,0,0,0,0
+2023,SGP,DEU,Singapore,Germany,10,5,0,0,0,0,0
+2023,SLE,DEU,Sierra Leone,Germany,906,908,0,0,0,0,0
+2023,SLB,DEU,Solomon Islands,Germany,7,0,0,0,0,0,0
+2023,SOM,DEU,Somalia,Germany,36252,6719,0,0,0,0,0
+2023,ESP,DEU,Spain,Germany,24,14,0,0,0,0,0
+2023,SRB,DEU,Serbia,Germany,5758,2494,0,0,0,0,0
+2023,VNM,DEU,Viet Nam,Germany,3217,336,0,0,0,0,0
+2023,SSD,DEU,South Sudan,Germany,156,115,0,0,0,0,0
+2023,STA,DEU,Stateless,Germany,13757,540,0,0,28964,0,0
+2023,STP,DEU,Sao Tome and Principe,Germany,0,6,0,0,0,0,0
+2023,SDN,DEU,Sudan,Germany,3527,1198,0,0,0,0,0
+2023,SVK,DEU,Slovakia,Germany,67,0,0,0,0,0,0
+2023,SVN,DEU,Slovenia,Germany,7,0,0,0,0,0,0
+2023,SWZ,DEU,Eswatini,Germany,0,5,0,0,0,0,0
+2023,SWE,DEU,Sweden,Germany,23,8,0,0,0,0,0
+2023,SYR,DEU,Syrian Arab Republic,Germany,705812,72642,0,0,0,0,0
+2023,TZA,DEU,United Republic of Tanzania,Germany,120,352,0,0,0,0,0
+2023,THA,DEU,Thailand,Germany,38,29,0,0,0,0,0
+2023,TJK,DEU,Tajikistan,Germany,2060,1033,0,0,0,0,0
+2023,TKM,DEU,Turkmenistan,Germany,1009,174,0,0,0,0,0
+2023,TLS,DEU,Timor-Leste,Germany,0,13,0,0,0,0,0
+2023,TGO,DEU,Togo,Germany,961,484,0,0,0,0,0
+2023,TTO,DEU,Trinidad and Tobago,Germany,9,7,0,0,0,0,0
+2023,TUN,DEU,Tunisia,Germany,598,2193,0,0,0,0,0
+2023,TUR,DEU,Türkiye,Germany,44263,77959,0,0,0,0,0
+2023,ARE,DEU,United Arab Emirates,Germany,31,5,0,0,0,0,0
+2023,UGA,DEU,Uganda,Germany,359,513,0,0,0,0,0
+2023,UKN,DEU,Various / unknown,Germany,38438,5418,0,0,0,0,0
+2023,UKR,DEU,Ukraine,Germany,1097503,1640,0,0,0,0,0
+2023,URY,DEU,Uruguay,Germany,8,0,0,0,0,0,0
+2023,USA,DEU,United States of America,Germany,232,33,0,0,0,0,0
+2023,UZB,DEU,Uzbekistan,Germany,936,133,0,0,0,0,0
+2023,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2023,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,1968,4710,0,0,0,0,0
+2023,YEM,DEU,Yemen,Germany,4794,2077,0,0,0,0,0
+2023,ZMB,DEU,Zambia,Germany,22,11,0,0,0,0,0
+2023,ZWE,DEU,Zimbabwe,Germany,364,315,0,0,0,0,0
+2024,AFG,DEU,Afghanistan,Germany,267666,45284,0,0,0,0,0
+2024,ALB,DEU,Albania,Germany,1303,1029,0,0,0,0,0
+2024,DZA,DEU,Algeria,Germany,1187,1294,0,0,0,0,0
+2024,AGO,DEU,Angola,Germany,894,795,0,0,0,0,0
+2024,EGY,DEU,Egypt,Germany,2700,1791,0,0,0,0,0
+2024,ARG,DEU,Argentina,Germany,18,21,0,0,0,0,0
+2024,ARM,DEU,Armenia,Germany,4891,3121,0,0,0,0,0
+2024,AUS,DEU,Australia,Germany,8,0,0,0,0,0,0
+2024,AUT,DEU,Austria,Germany,5,0,0,0,0,0,0
+2024,AZE,DEU,Azerbaijan,Germany,7409,2726,0,0,0,0,0
+2024,BHR,DEU,Bahrain,Germany,58,10,0,0,0,0,0
+2024,BDI,DEU,Burundi,Germany,174,1556,0,0,0,0,0
+2024,BEL,DEU,Belgium,Germany,6,0,0,0,0,0,0
+2024,BEN,DEU,Benin,Germany,141,943,0,0,0,0,0
+2024,BGD,DEU,Bangladesh,Germany,779,238,0,0,0,0,0
+2024,BTN,DEU,Bhutan,Germany,20,0,0,0,0,0,0
+2024,BFA,DEU,Burkina Faso,Germany,182,222,0,0,0,0,0
+2024,BLR,DEU,Belarus,Germany,1341,612,0,0,0,0,0
+2024,BOL,DEU,Bolivia (Plurinational State of),Germany,5,12,0,0,0,0,0
+2024,BWA,DEU,Botswana,Germany,5,8,0,0,0,0,0
+2024,BRA,DEU,Brazil,Germany,38,98,0,0,0,0,0
+2024,BIH,DEU,Bosnia and Herzegovina,Germany,1278,526,0,0,0,0,0
+2024,BGR,DEU,Bulgaria,Germany,97,5,0,0,0,0,0
+2024,KHM,DEU,Cambodia,Germany,34,43,0,0,0,0,0
+2024,CAN,DEU,Canada,Germany,62,0,0,0,0,0,0
+2024,CAF,DEU,Central African Republic,Germany,51,16,0,0,0,0,0
+2024,TCD,DEU,Chad,Germany,152,95,0,0,0,0,0
+2024,CHN,DEU,China,Germany,2339,934,0,0,0,0,0
+2024,CHL,DEU,Chile,Germany,146,47,0,0,0,0,0
+2024,CMR,DEU,Cameroon,Germany,1568,2619,0,0,0,0,0
+2024,COG,DEU,Congo,Germany,330,101,0,0,0,0,0
+2024,COD,DEU,Democratic Republic of the Congo,Germany,1588,1070,0,0,0,0,0
+2024,COM,DEU,Comoros,Germany,9,5,0,0,0,0,0
+2024,COL,DEU,Colombia,Germany,192,5664,0,0,0,0,0
+2024,CUB,DEU,Cuba,Germany,141,380,0,0,0,0,0
+2024,CPV,DEU,Cabo Verde,Germany,5,0,0,0,0,0,0
+2024,CZE,DEU,Czechia,Germany,372,0,0,0,0,0,0
+2024,DJI,DEU,Djibouti,Germany,52,72,0,0,0,0,0
+2024,DMA,DEU,Dominica,Germany,5,0,0,0,0,0,0
+2024,DOM,DEU,Dominican Republic,Germany,7,13,0,0,0,0,0
+2024,ECU,DEU,Ecuador,Germany,28,59,0,0,0,0,0
+2024,GNQ,DEU,Equatorial Guinea,Germany,28,15,0,0,0,0,0
+2024,ERI,DEU,Eritrea,Germany,67570,3727,0,0,0,0,0
+2024,EST,DEU,Estonia,Germany,5,0,0,0,0,0,0
+2024,ETH,DEU,Ethiopia,Germany,7468,2351,0,0,0,0,0
+2024,FRA,DEU,France,Germany,13,0,0,0,0,0,0
+2024,GAB,DEU,Gabon,Germany,25,21,0,0,0,0,0
+2024,GMB,DEU,Gambia,Germany,1700,1071,0,0,0,0,0
+2024,PSE,DEU,State of Palestine,Germany,2193,2027,0,0,0,0,0
+2024,GBR,DEU,United Kingdom of Great Britain and Northern Ireland,Germany,37,5,0,0,0,0,0
+2024,GEO,DEU,Georgia,Germany,3300,5882,0,0,0,0,0
+2024,GHA,DEU,Ghana,Germany,1122,580,0,0,0,0,0
+2024,GNB,DEU,Guinea-Bissau,Germany,141,119,0,0,0,0,0
+2024,GRC,DEU,Greece,Germany,47,5,0,0,0,0,0
+2024,GTM,DEU,Guatemala,Germany,6,14,0,0,0,0,0
+2024,GIN,DEU,Guinea,Germany,5369,4932,0,0,0,0,0
+2024,HTI,DEU,Haiti,Germany,27,47,0,0,0,0,0
+2024,HKG,DEU,"China, Hong Kong Special Administrative Region",Germany,9,5,0,0,0,0,0
+2024,HND,DEU,Honduras,Germany,99,112,0,0,0,0,0
+2024,HRV,DEU,Croatia,Germany,240,0,0,0,0,0,0
+2024,HUN,DEU,Hungary,Germany,245,10,0,0,0,0,0
+2024,CIV,DEU,Côte d'Ivoire,Germany,907,1770,0,0,0,0,0
+2024,IND,DEU,India,Germany,869,1772,0,0,0,0,0
+2024,IDN,DEU,Indonesia,Germany,14,20,0,0,0,0,0
+2024,IRN,DEU,Iran (Islamic Republic of),Germany,47992,15998,0,0,0,0,0
+2024,IRQ,DEU,Iraq,Germany,143160,28164,0,0,0,0,0
+2024,ISR,DEU,Israel,Germany,178,80,0,0,0,0,0
+2024,ITA,DEU,Italy,Germany,46,10,0,0,0,0,0
+2024,JAM,DEU,Jamaica,Germany,91,56,0,0,0,0,0
+2024,JOR,DEU,Jordan,Germany,1056,588,0,0,0,0,0
+2024,JPN,DEU,Japan,Germany,30,0,0,0,0,0,0
+2024,KAZ,DEU,Kazakhstan,Germany,407,178,0,0,0,0,0
+2024,KEN,DEU,Kenya,Germany,204,609,0,0,0,0,0
+2024,KGZ,DEU,Kyrgyzstan,Germany,507,117,0,0,0,0,0
+2024,KOR,DEU,Republic of Korea,Germany,30,5,0,0,0,0,0
+2024,PRK,DEU,Democratic People's Republic of Korea,Germany,92,0,0,0,0,0,0
+2024,KWT,DEU,Kuwait,Germany,76,93,0,0,0,0,0
+2024,LAO,DEU,Lao People's Democratic Republic,Germany,39,0,0,0,0,0,0
+2024,LBR,DEU,Liberia,Germany,192,438,0,0,0,0,0
+2024,LBY,DEU,Libya,Germany,3134,1435,0,0,0,0,0
+2024,LBN,DEU,Lebanon,Germany,3076,2505,0,0,0,0,0
+2024,LKA,DEU,Sri Lanka,Germany,3411,960,0,0,0,0,0
+2024,LTU,DEU,Lithuania,Germany,15,0,0,0,0,0,0
+2024,LUX,DEU,Luxembourg,Germany,5,0,0,0,0,0,0
+2024,LVA,DEU,Latvia,Germany,10,0,0,0,0,0,0
+2024,MDG,DEU,Madagascar,Germany,7,5,0,0,0,0,0
+2024,MRT,DEU,Mauritania,Germany,75,56,0,0,0,0,0
+2024,MKD,DEU,North Macedonia,Germany,624,2223,0,0,0,0,0
+2024,MDA,DEU,Republic of Moldova,Germany,2086,742,0,0,0,0,0
+2024,MEX,DEU,Mexico,Germany,30,57,0,0,0,0,0
+2024,MLI,DEU,Mali,Germany,449,458,0,0,0,0,0
+2024,MYS,DEU,Malaysia,Germany,20,22,0,0,0,0,0
+2024,MWI,DEU,Malawi,Germany,9,53,0,0,0,0,0
+2024,MNE,DEU,Montenegro,Germany,210,152,0,0,0,0,0
+2024,MNG,DEU,Mongolia,Germany,252,425,0,0,0,0,0
+2024,MAR,DEU,Morocco,Germany,3064,1204,0,0,0,0,0
+2024,MOZ,DEU,Mozambique,Germany,14,65,0,0,0,0,0
+2024,MMR,DEU,Myanmar,Germany,1103,478,0,0,0,0,0
+2024,NAM,DEU,Namibia,Germany,11,59,0,0,0,0,0
+2024,NPL,DEU,Nepal,Germany,72,66,0,0,0,0,0
+2024,NLD,DEU,Netherlands (Kingdom of the),Germany,44,5,0,0,0,0,0
+2024,NER,DEU,Niger,Germany,82,173,0,0,0,0,0
+2024,NIC,DEU,Nicaragua,Germany,58,375,0,0,0,0,0
+2024,NGA,DEU,Nigeria,Germany,13921,5821,0,0,0,0,0
+2024,NOR,DEU,Norway,Germany,5,5,0,0,0,0,0
+2024,NZL,DEU,New Zealand,Germany,9,0,0,0,0,0,0
+2024,OMN,DEU,Oman,Germany,16,0,0,0,0,0,0
+2024,PAK,DEU,Pakistan,Germany,9407,3857,0,0,0,0,0
+2024,PAN,DEU,Panama,Germany,7,20,0,0,0,0,0
+2024,PRY,DEU,Paraguay,Germany,6,11,0,0,0,0,0
+2024,PER,DEU,Peru,Germany,55,318,0,0,0,0,0
+2024,PHL,DEU,Philippines,Germany,69,23,0,0,0,0,0
+2024,POL,DEU,Poland,Germany,524,0,0,0,0,0,0
+2024,PRT,DEU,Portugal,Germany,10,0,0,0,0,0,0
+2024,QAT,DEU,Qatar,Germany,5,0,0,0,0,0,0
+2024,ROU,DEU,Romania,Germany,213,5,0,0,0,0,0
+2024,ZAF,DEU,South Africa,Germany,29,54,0,0,0,0,0
+2024,RUS,DEU,Russian Federation,Germany,18316,10504,0,0,0,0,0
+2024,RWA,DEU,Rwanda,Germany,477,1301,0,0,0,0,0
+2024,SLV,DEU,El Salvador,Germany,268,244,0,0,0,0,0
+2024,SAU,DEU,Saudi Arabia,Germany,223,25,0,0,0,0,0
+2024,SEN,DEU,Senegal,Germany,251,254,0,0,0,0,0
+2024,SGP,DEU,Singapore,Germany,11,0,0,0,0,0,0
+2024,SLE,DEU,Sierra Leone,Germany,978,873,0,0,0,0,0
+2024,SLB,DEU,Solomon Islands,Germany,7,0,0,0,0,0,0
+2024,SOM,DEU,Somalia,Germany,37013,8330,0,0,0,0,0
+2024,ESP,DEU,Spain,Germany,26,12,0,0,0,0,0
+2024,SRB,DEU,Serbia,Germany,5648,1960,0,0,0,0,0
+2024,VNM,DEU,Viet Nam,Germany,3498,287,0,0,0,0,0
+2024,SSD,DEU,South Sudan,Germany,164,156,0,0,0,0,0
+2024,STA,DEU,Stateless,Germany,13512,541,0,0,28649,0,0
+2024,KNA,DEU,Saint Kitts and Nevis,Germany,5,5,0,0,0,0,0
+2024,STP,DEU,Sao Tome and Principe,Germany,0,5,0,0,0,0,0
+2024,SDN,DEU,Sudan,Germany,3772,1301,0,0,0,0,0
+2024,SVK,DEU,Slovakia,Germany,66,0,0,0,0,0,0
+2024,SVN,DEU,Slovenia,Germany,7,0,0,0,0,0,0
+2024,SWZ,DEU,Eswatini,Germany,0,10,0,0,0,0,0
+2024,SWE,DEU,Sweden,Germany,25,18,0,0,0,0,0
+2024,SYR,DEU,Syrian Arab Republic,Germany,716728,64504,0,0,0,0,0
+2024,TZA,DEU,United Republic of Tanzania,Germany,134,312,0,0,0,0,0
+2024,THA,DEU,Thailand,Germany,38,33,0,0,0,0,0
+2024,TJK,DEU,Tajikistan,Germany,2130,974,0,0,0,0,0
+2024,TKM,DEU,Turkmenistan,Germany,1664,201,0,0,0,0,0
+2024,TLS,DEU,Timor-Leste,Germany,0,13,0,0,0,0,0
+2024,TGO,DEU,Togo,Germany,954,514,0,0,0,0,0
+2024,TTO,DEU,Trinidad and Tobago,Germany,9,10,0,0,0,0,0
+2024,TUN,DEU,Tunisia,Germany,723,2010,0,0,0,0,0
+2024,TUR,DEU,Türkiye,Germany,45855,81485,0,0,0,0,0
+2024,ARE,DEU,United Arab Emirates,Germany,25,5,0,0,0,0,0
+2024,UGA,DEU,Uganda,Germany,380,596,0,0,0,0,0
+2024,UKN,DEU,Various / unknown,Germany,37931,6599,0,0,0,0,0
+2024,UKR,DEU,Ukraine,Germany,1142420,1809,0,0,0,0,0
+2024,URY,DEU,Uruguay,Germany,8,0,0,0,0,0,0
+2024,USA,DEU,United States of America,Germany,235,32,0,0,0,0,0
+2024,UZB,DEU,Uzbekistan,Germany,1050,133,0,0,0,0,0
+2024,VCT,DEU,Saint Vincent and the Grenadines,Germany,5,0,0,0,0,0,0
+2024,VEN,DEU,Venezuela (Bolivarian Republic of),Germany,2252,5281,0,0,0,0,0
+2024,YEM,DEU,Yemen,Germany,5010,2203,0,0,0,0,0
+2024,ZMB,DEU,Zambia,Germany,33,14,0,0,0,0,0
+2024,ZWE,DEU,Zimbabwe,Germany,383,351,0,0,0,0,0

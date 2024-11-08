@@ -1,0 +1,202 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Procedure Type,Procedure Name,Application Type Code,Application Type,Application Data Type,Application Data,Application Average Persons Per Case,Number of Applications
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#indicator+procedure_type,#indicator+procedure+name,#indicator+application_type+code,#indicator+application_type,#indicator+application_data_type,#indicator+application_data,#indicator+application_average_persons+num,#inneed+asylum_seekers+applications
+2000,DEU,AUS,Germany,Australia,G,Government,V,Various,C,Cases,0,7
+2000,DEU,CAN,Germany,Canada,G,Government,V,Various,P,Persons,0,13
+2000,DEU,NLD,Germany,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,10
+2000,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,27
+2001,DEU,AUS,Germany,Australia,G,Government,V,Various,C,Cases,0,5
+2001,DEU,CAN,Germany,Canada,G,Government,V,Various,P,Persons,0,11
+2001,DEU,CHE,Germany,Switzerland,G,Government,V,Various,P,Persons,0,7
+2001,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,29
+2001,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,9
+2002,DEU,AUS,Germany,Australia,G,Government,V,Various,P,Persons,0,5
+2002,DEU,CAN,Germany,Canada,G,Government,V,Various,P,Persons,0,34
+2002,DEU,NLD,Germany,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,5
+2002,DEU,SWE,Germany,Sweden,G,Government,V,Various,P,Persons,0,6
+2002,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,31
+2002,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,7
+2003,DEU,AUS,Germany,Australia,G,Government,V,Various,P,Persons,0,5
+2003,DEU,AUT,Germany,Austria,G,Government,V,Various,P,Persons,0,5
+2003,DEU,CAN,Germany,Canada,G,Government,V,Various,P,Persons,0,25
+2003,DEU,SWE,Germany,Sweden,G,Government,V,Various,P,Persons,0,5
+2003,DEU,THA,Germany,Thailand,U,UNHCR,V,Various,P,Persons,0,5
+2003,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,15
+2003,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,10
+2004,DEU,AUS,Germany,Australia,G,Government,V,Various,P,Persons,0,5
+2004,DEU,AUT,Germany,Austria,G,Government,V,Various,P,Persons,0,5
+2004,DEU,CAN,Germany,Canada,G,Government,V,Various,P,Persons,0,20
+2004,DEU,LIE,Germany,Liechtenstein,G,Government,V,Various,P,Persons,0,5
+2004,DEU,CHE,Germany,Switzerland,G,Government,V,Various,P,Persons,0,5
+2004,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,16
+2004,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,5
+2005,DEU,AUS,Germany,Australia,G,Government,V,Various,P,Persons,0,5
+2005,DEU,CAN,Germany,Canada,G,Government,V,Various,P,Persons,0,28
+2005,DEU,NLD,Germany,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,5
+2005,DEU,CHE,Germany,Switzerland,G,Government,V,Various,P,Persons,0,8
+2005,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,9
+2005,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,8
+2006,DEU,AUS,Germany,Australia,G,Government,A,Appeal,C,Cases,0,5
+2006,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,5
+2006,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,34
+2006,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,24
+2006,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,8
+2007,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,37
+2007,DEU,USA,Germany,United States of America,G,Government,A,Appeal,P,Persons,0,20
+2007,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,8
+2008,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,12
+2008,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,38
+2008,DEU,ECU,Germany,Ecuador,G,Government,NR,New and repeat,P,Persons,0,5
+2008,DEU,LIE,Germany,Liechtenstein,G,Government,N,New,P,Persons,0,5
+2008,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,21
+2008,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,16
+2009,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,6
+2009,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,24
+2009,DEU,LIE,Germany,Liechtenstein,G,Government,N,New,P,Persons,0,5
+2009,DEU,NLD,Germany,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2009,DEU,NOR,Germany,Norway,G,Government,N,New,P,Persons,0,5
+2009,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,8
+2009,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,29
+2009,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,6
+2010,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,16
+2010,DEU,NZL,Germany,New Zealand,G,Government,N,New,P,Persons,0,6
+2010,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,5
+2010,DEU,CHE,Germany,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2010,DEU,USA,Germany,United States of America,G,Government,A,Appeal,P,Persons,0,38
+2010,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,11
+2011,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,5
+2011,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,15
+2011,DEU,JOR,Germany,Jordan,U,UNHCR,NR,New and repeat,P,Persons,0,6
+2011,DEU,NZL,Germany,New Zealand,G,Government,N,New,P,Persons,0,6
+2011,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,7
+2011,DEU,USA,Germany,United States of America,G,Government,A,Appeal,P,Persons,0,32
+2011,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,12
+2012,DEU,AUS,Germany,Australia,G,Government,A,Appeal,C,Cases,0,5
+2012,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,6
+2012,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,11
+2012,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,5
+2012,DEU,USA,Germany,United States of America,G,Government,A,Appeal,P,Persons,0,17
+2012,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,13
+2013,DEU,ARG,Germany,Argentina,G,Government,N,New,P,Persons,0,5
+2013,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,5
+2013,DEU,AUT,Germany,Austria,G,Government,NR,New and repeat,P,Persons,0,5
+2013,DEU,NOR,Germany,Norway,G,Government,A,Appeal,P,Persons,0,5
+2013,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,7
+2013,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,16
+2013,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,14
+2014,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,6
+2014,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2014,DEU,KGZ,Germany,Kyrgyzstan,G,Government,N,New,P,Persons,0,5
+2014,DEU,NOR,Germany,Norway,G,Government,N,New,P,Persons,0,5
+2014,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,8
+2014,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,5
+2014,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,22
+2015,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,8
+2015,DEU,BEL,Germany,Belgium,G,Government,N,New,P,Persons,0,5
+2015,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,5
+2015,DEU,FRA,Germany,France,G,Government,N,New,P,Persons,0,5
+2015,DEU,MEX,Germany,Mexico,G,Government,N,New,P,Persons,0,5
+2015,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,8
+2015,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,13
+2016,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,18
+2016,DEU,BEL,Germany,Belgium,G,Government,N,New,P,Persons,0,5
+2016,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,9
+2016,DEU,FRA,Germany,France,G,Government,A,Appeal,P,Persons,0,5
+2016,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2016,DEU,NOR,Germany,Norway,G,Government,A,Appeal,P,Persons,0,5
+2016,DEU,NOR,Germany,Norway,G,Government,N,New,P,Persons,0,5
+2016,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,5
+2016,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,5
+2016,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,34
+2017,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,6
+2017,DEU,BRA,Germany,Brazil,G,Government,N,New,P,Persons,0,5
+2017,DEU,CAN,Germany,Canada,G,Government,A,Appeal,P,Persons,0,5
+2017,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,9
+2017,DEU,CRI,Germany,Costa Rica,G,Government,N,New,P,Persons,0,5
+2017,DEU,HUN,Germany,Hungary,G,Government,R,Repeat,P,Persons,0,5
+2017,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,19
+2017,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,5
+2017,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,12
+2017,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,21
+2018,DEU,AUT,Germany,Austria,G,Government,N,New,P,Persons,0,5
+2018,DEU,BEL,Germany,Belgium,G,Government,N,New,P,Persons,0,5
+2018,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,25
+2018,DEU,DNK,Germany,Denmark,G,Government,N,New,P,Persons,0,5
+2018,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,5
+2018,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,10
+2018,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,10
+2018,DEU,USA,Germany,United States of America,G,Government,A,Appeal,P,Persons,0,20
+2018,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,9
+2018,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,16
+2019,DEU,AUT,Germany,Austria,G,Government,N,New,P,Persons,0,5
+2019,DEU,BRA,Germany,Brazil,G,Government,N,New,P,Persons,0,5
+2019,DEU,CAN,Germany,Canada,G,Government,A,Appeal,P,Persons,0,6
+2019,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,18
+2019,DEU,NOR,Germany,Norway,G,Government,N,New,P,Persons,0,9
+2019,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,22
+2019,DEU,ESP,Germany,Spain,G,Government,N,New,P,Persons,0,5
+2019,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,6
+2019,DEU,USA,Germany,United States of America,G,Government,A,Appeal,P,Persons,0,5
+2019,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,12
+2019,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,8
+2020,DEU,BEL,Germany,Belgium,G,Government,N,New,P,Persons,0,5
+2020,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2020,DEU,ITA,Germany,Italy,G,Government,N,New,P,Persons,0,6
+2020,DEU,PER,Germany,Peru,G,Government,N,New,P,Persons,0,5
+2020,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,5
+2020,DEU,SWE,Germany,Sweden,G,Government,N,New,P,Persons,0,5
+2020,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,5
+2020,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,17
+2020,DEU,USA,Germany,United States of America,G,Government,N,New,C,Cases,0,5
+2021,DEU,AUT,Germany,Austria,G,Government,N,New,P,Persons,0,7
+2021,DEU,BRA,Germany,Brazil,G,Government,N,New,P,Persons,0,5
+2021,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,10
+2021,DEU,CRI,Germany,Costa Rica,G,Government,N,New,P,Persons,0,15
+2021,DEU,MEX,Germany,Mexico,G,Government,N,New,P,Persons,0,8
+2021,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,6
+2021,DEU,SWE,Germany,Sweden,G,Government,N,New,P,Persons,0,5
+2021,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,8
+2021,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,14
+2021,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,19
+2022,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,7
+2022,DEU,BRA,Germany,Brazil,G,Government,N,New,P,Persons,0,32
+2022,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,35
+2022,DEU,CRI,Germany,Costa Rica,G,Government,N,New,P,Persons,0,7
+2022,DEU,DNK,Germany,Denmark,G,Government,N,New,P,Persons,0,5
+2022,DEU,GBR,Germany,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2022,DEU,MEX,Germany,Mexico,G,Government,N,New,P,Persons,0,9
+2022,DEU,NOR,Germany,Norway,G,Government,A,Appeal,P,Persons,0,5
+2022,DEU,NOR,Germany,Norway,G,Government,N,New,P,Persons,0,5
+2022,DEU,POL,Germany,Poland,G,Government,R,Repeat,P,Persons,0,11
+2022,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,6
+2022,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,54
+2022,DEU,SWE,Germany,Sweden,G,Government,N,New,P,Persons,0,5
+2022,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,5
+2022,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,18
+2022,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,125
+2023,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,12
+2023,DEU,BRA,Germany,Brazil,G,Government,N,New,P,Persons,0,23
+2023,DEU,CAN,Germany,Canada,G,Government,R,Repeat,P,Persons,0,5
+2023,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,32
+2023,DEU,FIN,Germany,Finland,G,Government,N,New,P,Persons,0,5
+2023,DEU,NZL,Germany,New Zealand,G,Government,N,New,P,Persons,0,5
+2023,DEU,PER,Germany,Peru,G,Government,N,New,P,Persons,0,5
+2023,DEU,POL,Germany,Poland,G,Government,R,Repeat,P,Persons,0,9
+2023,DEU,POL,Germany,Poland,G,Government,A,Appeal,P,Persons,0,9
+2023,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,166
+2023,DEU,SWE,Germany,Sweden,G,Government,N,New,P,Persons,0,5
+2023,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,6
+2023,DEU,USA,Germany,United States of America,G,Government,A,Appeal,P,Persons,0,5
+2023,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,365
+2023,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,43
+2024,DEU,AUS,Germany,Australia,G,Government,N,New,P,Persons,0,7
+2024,DEU,BLR,Germany,Belarus,G,Government,N,New,P,Persons,0,5
+2024,DEU,BRA,Germany,Brazil,G,Government,N,New,P,Persons,0,21
+2024,DEU,CAN,Germany,Canada,G,Government,A,Appeal,P,Persons,0,5
+2024,DEU,CAN,Germany,Canada,G,Government,N,New,P,Persons,0,13
+2024,DEU,NOR,Germany,Norway,G,Government,N,New,P,Persons,0,5
+2024,DEU,POL,Germany,Poland,G,Government,A,Appeal,P,Persons,0,5
+2024,DEU,RUS,Germany,Russian Federation,G,Government,N,New,P,Persons,0,67
+2024,DEU,SVK,Germany,Slovakia,G,Government,N,New,P,Persons,0,5
+2024,DEU,CHE,Germany,Switzerland,G,Government,N,New,P,Persons,0,6
+2024,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,81
+2024,DEU,USA,Germany,United States of America,G,Government,N,New,P,Persons,0,18
