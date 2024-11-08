@@ -1,0 +1,4880 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-07T20:49:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2137326405",
+        "amenity": "charging_station",
+        "opening_hours": "24/7",
+        "operator": "DREWAG",
+        "operator:wikidata": "Q1258776",
+        "ref": "62161;62162;62163;62164",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7",
+        "socket:type2": "2",
+        "socket:type2:output": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7093227,
+          51.0411746
+        ]
+      },
+      "id": "node/2137326405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2262756099",
+        "access": "permissive",
+        "amenity": "charging_station",
+        "operator": "Hoschule für Technik und WIrtschaft Dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7395085,
+          51.0340736
+        ]
+      },
+      "id": "node/2262756099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2782699493",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7391329,
+          51.0353513
+        ]
+      },
+      "id": "node/2782699493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3374580025",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "description": "Ladesäule für Elektrofahrzeuge des IAD",
+        "operator": "TU Dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7276056,
+          51.028958
+        ]
+      },
+      "id": "node/3374580025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3615635653",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Stadtwerke Elbtal GmbH",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*ELB*E7228",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.stadtwerke-elbtal.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6799285,
+          51.0988165
+        ]
+      },
+      "id": "node/3615635653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3670891035",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6203",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7553522,
+          51.0682909
+        ]
+      },
+      "id": "node/3670891035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3917595755",
+        "amenity": "charging_station",
+        "brand": "Porsche",
+        "operator": "Porsche",
+        "operator:wikidata": "Q40993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8019524,
+          51.0656991
+        ]
+      },
+      "id": "node/3917595755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4475045171",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "authentication:nfc": "no",
+        "authentication:none": "no",
+        "authentication:phone_call": "no",
+        "authentication:short_message": "no",
+        "bicycle": "no",
+        "capacity": "4",
+        "fee": "no",
+        "motorcar": "yes",
+        "name": "e-Mobility-Station",
+        "opening_hours": "24/7",
+        "operator": "Volkswagen",
+        "scooter": "no",
+        "socket:chademo": "2",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "50 kW",
+        "source": "https://www.glaesernemanufaktur.de/de/kundenservice/e-mobility-station",
+        "truck": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7540784,
+          51.0437542
+        ]
+      },
+      "id": "node/4475045171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4488548473",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "authentication:nfc": "no",
+        "authentication:none": "no",
+        "authentication:phone_call": "no",
+        "authentication:short_message": "no",
+        "bicycle": "no",
+        "capacity": "2",
+        "fee": "yes",
+        "level": "3",
+        "motorcar": "yes",
+        "operator": "OPG",
+        "scooter": "no",
+        "socket:type2": "1",
+        "truck": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7347647,
+          51.0455528
+        ]
+      },
+      "id": "node/4488548473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4946781875",
+        "addr:city": "Dresden",
+        "addr:housenumber": "7",
+        "addr:postcode": "01097",
+        "addr:street": "Ahornstraße",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "capacity": "12",
+        "description": "Für E-Bikes / For E-bikes: 12 x Schuko 230 V / 16A, vorrangig für unsere Gäste, aber auch für spontane Nutzer, bitte rufen Sie uns an: +49 172 9119069 / preferable for our guests, but also for spontaneous users: call +49 172 9119069",
+        "fee": "yes",
+        "name": "Pedelec-Ladestation vom Alten Waschhaus",
+        "operator": "Altes Waschhaus",
+        "scooter": "yes",
+        "socket:schuko": "12",
+        "socket:schuko:output": "3,7 kW",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7525347,
+          51.0746904
+        ]
+      },
+      "id": "node/4946781875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5033046268",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "operator": "Konsum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7455421,
+          51.0600693
+        ]
+      },
+      "id": "node/5033046268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053864202",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "operator": "Konsum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8122755,
+          51.0459397
+        ]
+      },
+      "id": "node/5053864202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5323462769",
+        "amenity": "charging_station",
+        "socket:chademo": "1",
+        "socket:type2_combo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7202284,
+          51.0011574
+        ]
+      },
+      "id": "node/5323462769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5773632688",
+        "access": "customers",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "The Westin Bellevue Dresden",
+        "socket:type2": "1",
+        "socket:type2:current": "20",
+        "socket:type2:output": "3.7 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.738807,
+          51.0584991
+        ]
+      },
+      "id": "node/5773632688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5787765781",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "capacity": "2",
+        "description": "Parkplätze 26 und 27 nahe der Ausfahrt, 2 Anschlüsse mit Lastmanagement: bei 2 zeitgleichen Ladevorgängen reduziert sich die Leistung auf je 11 kW",
+        "fee": "no",
+        "level": "-1",
+        "motorcar": "yes",
+        "operator": "EDEKA",
+        "operator:wikidata": "Q701755",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.745373,
+          51.0646334
+        ]
+      },
+      "id": "node/5787765781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5806367436",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Strom Tankstelle",
+        "opening_hours": "24/7",
+        "operator": "DREWAG",
+        "operator:wikidata": "Q1258776",
+        "ref": "6208",
+        "socket:schuko": "2",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7021309,
+          51.0593837
+        ]
+      },
+      "id": "node/5806367436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5806381744",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6212",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7805708,
+          51.0410113
+        ]
+      },
+      "id": "node/5806381744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5806384218",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "Mo-Fr 16:00-24:00; Sa,Su 00:00-24:00",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6210",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7496798,
+          51.0575215
+        ]
+      },
+      "id": "node/5806384218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5806404203",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6218",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7186732,
+          51.0527914
+        ]
+      },
+      "id": "node/5806404203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5806419322",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "DREWAG",
+        "operator:wikidata": "Q1258776",
+        "socket:chademo": "1",
+        "socket:schuko": "1",
+        "socket:type2": "1",
+        "socket:type2_combo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7856024,
+          51.0247366
+        ]
+      },
+      "id": "node/5806419322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5806504711",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6214",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7831675,
+          51.0332368
+        ]
+      },
+      "id": "node/5806504711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5806532188",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6207",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74003,
+          51.0601618
+        ]
+      },
+      "id": "node/5806532188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6379093850",
+        "amenity": "charging_station",
+        "level": "-1",
+        "operator": "IKEA",
+        "operator:wikidata": "Q54078",
+        "operator:wikipedia": "en:IKEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6941139,
+          51.086381
+        ]
+      },
+      "id": "node/6379093850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6379093851",
+        "amenity": "charging_station",
+        "level": "-1",
+        "operator": "IKEA",
+        "operator:wikidata": "Q54078",
+        "operator:wikipedia": "en:IKEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.694079,
+          51.0864711
+        ]
+      },
+      "id": "node/6379093851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6576461332",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6215",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7831439,
+          51.0332126
+        ]
+      },
+      "id": "node/6576461332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6644435406",
+        "addr:city": "Freital",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "01705",
+        "addr:street": "Coschützer Straße",
+        "addr:suburb": "Potschappel",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Gasdrive",
+        "website": "https://www.goingelectric.de/stromtankstellen/Deutschland/Freital/Gasdrive-Coschuetzer-Strasse-24/26142/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6669947,
+          51.0119296
+        ]
+      },
+      "id": "node/6644435406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6647888526",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "DREWAG",
+        "operator:wikidata": "Q1258776",
+        "operator:wikipedia": "de:Drewag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7307169,
+          51.0389653
+        ]
+      },
+      "id": "node/6647888526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6817156132",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "check_date:opening_hours": "2024-05-26",
+        "description": "Ladekabel muss in der Gläsernen Manufaktur ausgeliehen werden, daher die Öffnungszeiten",
+        "motorcar": "no",
+        "name": "MOBIpunkt",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+        "operator": "Gläserne Manufaktur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7540139,
+          51.0448669
+        ]
+      },
+      "id": "node/6817156132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6821965180",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6006",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "75 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7440069,
+          51.048732
+        ]
+      },
+      "id": "node/6821965180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828342787",
+        "access": "yes",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6040",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7441554,
+          51.0485893
+        ]
+      },
+      "id": "node/6828342787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828342788",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6220",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7440722,
+          51.0488226
+        ]
+      },
+      "id": "node/6828342788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6879841921",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "opening_hours": "24/7",
+        "operator": "Allego",
+        "operator:wikidata": "Q75560554",
+        "ref:intercharge": "DEALLEGO0003621; DEALLEGO0003622; DEALLEGO0003623",
+        "scooter": "yes",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2_cable": "1",
+        "socket:type2_cable:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6909754,
+          51.0791429
+        ]
+      },
+      "id": "node/6879841921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967437571",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "6",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6217",
+        "socket:type2": "6",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.781819,
+          51.0546842
+        ]
+      },
+      "id": "node/6967437571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967437572",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6012",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8047014,
+          51.0514105
+        ]
+      },
+      "id": "node/6967437572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967437573",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6232",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8048676,
+          51.0514588
+        ]
+      },
+      "id": "node/6967437573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498136",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6241",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6908617,
+          51.081533
+        ]
+      },
+      "id": "node/6967498136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498137",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6242",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6909102,
+          51.0815657
+        ]
+      },
+      "id": "node/6967498137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498138",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6243",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6909587,
+          51.0815984
+        ]
+      },
+      "id": "node/6967498138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498139",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "ref:EU:EVSE": "DE*SAE*E6244",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6910072,
+          51.0816311
+        ]
+      },
+      "id": "node/6967498139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498140",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6245",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6910557,
+          51.0816639
+        ]
+      },
+      "id": "node/6967498140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498141",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6019",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7171118,
+          51.0778079
+        ]
+      },
+      "id": "node/6967498141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498142",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6222",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7297739,
+          51.0871367
+        ]
+      },
+      "id": "node/6967498142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498143",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergi.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6225",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7163735,
+          51.0687832
+        ]
+      },
+      "id": "node/6967498143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498144",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6221",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7120704,
+          51.0602651
+        ]
+      },
+      "id": "node/6967498144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967498145",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "ref:EU:EVSE": "DE*SAE*E6263",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7204624,
+          51.0622805
+        ]
+      },
+      "id": "node/6967498145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031086600",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6025",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7272192,
+          51.0312
+        ]
+      },
+      "id": "node/7031086600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051563307",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6024",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7271996,
+          51.0312952
+        ]
+      },
+      "id": "node/7051563307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051563308",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6248",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7272546,
+          51.0310455
+        ]
+      },
+      "id": "node/7051563308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051563309",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6026",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7272393,
+          51.0311165
+        ]
+      },
+      "id": "node/7051563309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7056632920",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "capacity": "2",
+        "contact:phone": "+49 7063 93 33 333",
+        "contact:website": "https://e-mobility.lidl.de",
+        "fee": "no",
+        "motorcar": "yes",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "socket:type2": "2",
+        "socket:type2:current": "32",
+        "socket:type2:output": "22 kW",
+        "socket:type2:voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7398549,
+          51.0723832
+        ]
+      },
+      "id": "node/7056632920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7058770391",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6023",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7451897,
+          51.0577772
+        ]
+      },
+      "id": "node/7058770391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7072351874",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6246",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7452654,
+          51.0577788
+        ]
+      },
+      "id": "node/7072351874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7072351875",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6022",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7451141,
+          51.0577756
+        ]
+      },
+      "id": "node/7072351875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7072351876",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6013",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7450384,
+          51.057774
+        ]
+      },
+      "id": "node/7072351876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7127939742",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6031",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7195465,
+          51.0964769
+        ]
+      },
+      "id": "node/7127939742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153340170",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "bus": "no",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "hgv": "no",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6027",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7011375,
+          51.0431015
+        ]
+      },
+      "id": "node/7153340170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153340171",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6226",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7236439,
+          51.0565939
+        ]
+      },
+      "id": "node/7153340171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153340172",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Telecom",
+        "capacity": "3",
+        "covered": "no",
+        "fee": "yes",
+        "man_made": "charge_point",
+        "network": "Comfort Charge",
+        "operator": "Comfortcharge GmbH",
+        "parking:fee": "no",
+        "payment:account_cards": "yes",
+        "payment:online_payment": "yes",
+        "socket:chademo": "1",
+        "socket:type2": "1",
+        "socket:type2_cable": "1",
+        "socket:type2_combo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7181324,
+          51.0178018
+        ]
+      },
+      "id": "node/7153340172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7154584536",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6011",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7596895,
+          51.0282743
+        ]
+      },
+      "id": "node/7154584536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7154584537",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6041",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7598149,
+          51.0282389
+        ]
+      },
+      "id": "node/7154584537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7154584538",
+        "access": "private",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergier AG",
+        "ref:EU:EVSE": "DE*SAE*E6227",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "source": "elektromobilitaet@sachsenenergie.de",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7596985,
+          51.0284022
+        ]
+      },
+      "id": "node/7154584538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7387320945",
+        "access": "yes",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6038",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7439618,
+          51.0486325
+        ]
+      },
+      "id": "node/7387320945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7387320946",
+        "access": "yes",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7439052,
+          51.0486489
+        ]
+      },
+      "id": "node/7387320946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7417316657",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6211",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.688329,
+          51.0723514
+        ]
+      },
+      "id": "node/7417316657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7417944992",
+        "access": "customers",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Bilderberg Bellevue Hotel Dresden",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7388251,
+          51.0589825
+        ]
+      },
+      "id": "node/7417944992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7498439959",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "capacity": "2",
+        "contact:phone": "+49 7063 93 33 333",
+        "contact:website": "https://e-mobility.lidl.de",
+        "fee": "no",
+        "motorcar": "yes",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "socket:type2": "2",
+        "socket:type2:current": "32",
+        "socket:type2:output": "22 kW",
+        "socket:type2:voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6914715,
+          51.0976325
+        ]
+      },
+      "id": "node/7498439959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7781963948",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "capacity": "2",
+        "contact:phone": "+49 7063 93 33 333",
+        "contact:website": "https://e-mobility.lidl.de",
+        "fee": "no",
+        "motorcar": "yes",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "operator:wikipedia": "en:Lidl",
+        "socket:type2": "2",
+        "socket:type2:current": "32",
+        "socket:type2:output": "22 kW",
+        "socket:type2:voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7201142,
+          51.0416817
+        ]
+      },
+      "id": "node/7781963948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7833726295",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6047",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7393362,
+          51.0646315
+        ]
+      },
+      "id": "node/7833726295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7833726296",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6048",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7394622,
+          51.0647155
+        ]
+      },
+      "id": "node/7833726296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7833726297",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6055",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7396281,
+          51.0648107
+        ]
+      },
+      "id": "node/7833726297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7938543234",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "no",
+        "motorcar": "no",
+        "name": "E-Bike-Ladestation",
+        "opening_hours": "24/7",
+        "socket:schuko": "2",
+        "socket:schuko:current": "10",
+        "socket:schuko:output": "2.3",
+        "socket:schuko:voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7539781,
+          51.0448308
+        ]
+      },
+      "id": "node/7938543234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173785660",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6320",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758195,
+          51.0691934
+        ]
+      },
+      "id": "node/8173785660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173785661",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6318",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7585821,
+          51.0690783
+        ]
+      },
+      "id": "node/8173785661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173785662",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6319",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7583122,
+          51.0691574
+        ]
+      },
+      "id": "node/8173785662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173913210",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "authentication:nfc": "no",
+        "capacity": "2",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "HEM-Deutsche Tamoil GmbH",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "no",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2_cable": "1",
+        "socket:type2_cable:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7394711,
+          51.0837079
+        ]
+      },
+      "id": "node/8173913210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173913211",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "authentication:nfc": "no",
+        "capacity": "2",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "HEM-Deutsche Tamoil GmbH",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "no",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:current": "200 A",
+        "voltage": "400;800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7395378,
+          51.0837234
+        ]
+      },
+      "id": "node/8173913211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173913212",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "authentication:nfc": "no",
+        "capacity": "2",
+        "motorcar": "yes",
+        "note:socket:type2_combo:output": "140 kW at 400 V",
+        "opening_hours": "24/7",
+        "operator": "HEM-Deutsche Tamoil GmbH",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "no",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "320 kW",
+        "voltage": "400;800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7396413,
+          51.0837902
+        ]
+      },
+      "id": "node/8173913212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173951257",
+        "access": "customers",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "capacity": "2",
+        "contact:phone": "+49 7063 93 33 333",
+        "contact:website": "https://e-mobility.lidl.de",
+        "fee": "no",
+        "motorcar": "yes",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "ref": "100001896",
+        "socket:type2": "2",
+        "socket:type2:current": "32",
+        "socket:type2:output": "22 kW",
+        "socket:type2:voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7235039,
+          51.0904297
+        ]
+      },
+      "id": "node/8173951257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173971201",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "maxstay": "6 hours",
+        "motorcar": "yes",
+        "operator": "BMW i.",
+        "ref:intercharge": "DE DES*E*BMW*0167*1; DE DES*E*BMW*0167*2",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6985224,
+          51.0600397
+        ]
+      },
+      "id": "node/8173971201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173975226",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "note": "vermutlich nicht mehr aktiv?",
+        "operator": "Belectric",
+        "ref:intercharge": "+49*822*033240202*1; +49*822*033240202*2",
+        "socket:schuko": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7038232,
+          51.0905029
+        ]
+      },
+      "id": "node/8173975226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8234654516",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6316",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755313,
+          51.0636269
+        ]
+      },
+      "id": "node/8234654516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8234707417",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6315",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755235,
+          51.0635006
+        ]
+      },
+      "id": "node/8234707417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8234707418",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6314",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7551545,
+          51.0633829
+        ]
+      },
+      "id": "node/8234707418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8234707419",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "DREWAG",
+        "operator:wikidata": "Q1258776",
+        "ref": "6317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7551883,
+          51.0631968
+        ]
+      },
+      "id": "node/8234707419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8235025540",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "opening_hours": "24/7",
+        "operator": "Lidl",
+        "operator:wikidata": "Q41171373",
+        "ref:intercharge": "DE*LDL*E00000298; DE*LDL*E00000299",
+        "scooter": "yes",
+        "socket:type2": "2",
+        "socket:type2:output": "34.5 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7381162,
+          51.019229
+        ]
+      },
+      "id": "node/8235025540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8316304468",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "DREWAG",
+        "operator:wikidata": "Q1258776",
+        "phone": "+49 800 0320020",
+        "ref": "6325",
+        "website": "http://stromticket.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7284192,
+          51.0712665
+        ]
+      },
+      "id": "node/8316304468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8428382179",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6045",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8265953,
+          51.0119444
+        ]
+      },
+      "id": "node/8428382179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8428382180",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6046",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8266262,
+          51.0119716
+        ]
+      },
+      "id": "node/8428382180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8461237452",
+        "access": "private",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "bus": "no",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "hgv": "no",
+        "motorcar": "yes",
+        "operator": "SachsenEnergie AG",
+        "ref:EU:EVSE": "DE*SAE*E6249",
+        "scooter": "no",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7011517,
+          51.0429735
+        ]
+      },
+      "id": "node/8461237452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8461237453",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "bus": "no",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "hgv": "no",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6028",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7011438,
+          51.043034
+        ]
+      },
+      "id": "node/8461237453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8480926005",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6321",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7498201,
+          51.0753076
+        ]
+      },
+      "id": "node/8480926005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8483722125",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "MPI CPfS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7191561,
+          51.0256858
+        ]
+      },
+      "id": "node/8483722125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8490089119",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6339",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7580861,
+          51.0692256
+        ]
+      },
+      "id": "node/8490089119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8528040218",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6309",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7635906,
+          51.0560983
+        ]
+      },
+      "id": "node/8528040218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8699374459",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6311",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7456086,
+          51.0718396
+        ]
+      },
+      "id": "node/8699374459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8699374460",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6312",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7454113,
+          51.0718385
+        ]
+      },
+      "id": "node/8699374460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8699374461",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6313",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7452686,
+          51.0718385
+        ]
+      },
+      "id": "node/8699374461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8736544413",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Felsenkeller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7009833,
+          51.022779
+        ]
+      },
+      "id": "node/8736544413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739739318",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6032",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7194632,
+          51.0964923
+        ]
+      },
+      "id": "node/8739739318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739741776",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6033",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7193734,
+          51.0965125
+        ]
+      },
+      "id": "node/8739741776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739747809",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6251",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7192889,
+          51.0965277
+        ]
+      },
+      "id": "node/8739747809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739770598",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6252",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7169017,
+          51.0777518
+        ]
+      },
+      "id": "node/8739770598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8741390801",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "socket:schuko": "2",
+        "socket:schuko:output": "3.7 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7296774,
+          51.0871625
+        ]
+      },
+      "id": "node/8741390801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748802143",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6322",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6767933,
+          51.046051
+        ]
+      },
+      "id": "node/8748802143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748888095",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6323",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6769059,
+          51.0460619
+        ]
+      },
+      "id": "node/8748888095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8749196141",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6324",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6769877,
+          51.0460712
+        ]
+      },
+      "id": "node/8749196141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8749695392",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6010",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7238497,
+          51.0567088
+        ]
+      },
+      "id": "node/8749695392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8750246965",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6310",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7636299,
+          51.0560442
+        ]
+      },
+      "id": "node/8750246965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8750352378",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6331",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7608511,
+          51.0537108
+        ]
+      },
+      "id": "node/8750352378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8750367771",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6348",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7608055,
+          51.053677
+        ]
+      },
+      "id": "node/8750367771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8753263054",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6303",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7950168,
+          51.0430905
+        ]
+      },
+      "id": "node/8753263054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8753263150",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6043",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7949994,
+          51.04329
+        ]
+      },
+      "id": "node/8753263150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8753368422",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6253",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7715547,
+          51.0460807
+        ]
+      },
+      "id": "node/8753368422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8753464471",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6304",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8055048,
+          51.0390633
+        ]
+      },
+      "id": "node/8753464471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8753477249",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6044",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8055035,
+          51.0391978
+        ]
+      },
+      "id": "node/8753477249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8820902904",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "Sachsen Energie",
+        "ref": "6068",
+        "ref:EU:EVSE": "DE*SAE*E6068*01;DE*SAE*E6068*02;DE*SAE*E6068*03;",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:chademo:ref": "60682",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2:ref": "60683",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "socket:type2_combo:ref": "60681",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7228251,
+          51.0497286
+        ]
+      },
+      "id": "node/8820902904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8820902905",
+        "access": "customers",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "Sachsen Energie",
+        "ref": "6067",
+        "ref:EU:EVSE": "DE*SAE*E6067*01;DE*SAE*E6067*02;DE*SAE*E6067*03;",
+        "ref:name": "MOBIpunkt S-Bf. Freiberger Straße",
+        "socket:chademo:output": "50 kW",
+        "socket:chademo:ref": "60672",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "socket:type2:ref": "60673",
+        "socket:type2_combo:output": "50 kW",
+        "socket:type2_combo:ref": "60671",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7226993,
+          51.0497019
+        ]
+      },
+      "id": "node/8820902905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8922244976",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "capacity": "2",
+        "contact:phone": "+49 7063 93 33 333",
+        "contact:website": "https://e-mobility.lidl.de",
+        "fee": "no",
+        "motorcar": "yes",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "operator:wikipedia": "en:Lidl",
+        "socket:type2": "2",
+        "socket:type2:current": "32",
+        "socket:type2:output": "22 kW",
+        "socket:type2:voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7865436,
+          51.0431655
+        ]
+      },
+      "id": "node/8922244976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8922252145",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "capacity": "2",
+        "contact:phone": "+49 7132 94 1333",
+        "fee": "no",
+        "level": "-2",
+        "motorcar": "yes",
+        "opening_hours": "Mo-Sa 07:00-22:00; PH off",
+        "operator": "Kaufland",
+        "operator:wikidata": "Q685967",
+        "operator:wikipedia": "de:Kaufland",
+        "socket:chademo": "1",
+        "socket:chademo:current": "120",
+        "socket:chademo:output": "50 kW",
+        "socket:chademo:voltage": "500",
+        "socket:type2_cable": "1",
+        "socket:type2_cable:current": "63",
+        "socket:type2_cable:output": "43 kW",
+        "socket:type2_cable:voltage": "400",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:current": "125",
+        "socket:type2_combo:output": "50 kW",
+        "socket:type2_combo:voltage": "500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7808479,
+          51.0447515
+        ]
+      },
+      "id": "node/8922252145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8929429402",
+        "access": "customers",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "capacity": "1",
+        "description": "Die Ladesäule wird an der Rezeption des Hotels freigeschaltet.",
+        "fee": "no",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "Maritim Hotel Dresden",
+        "socket:type2_cable": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7317485,
+          51.0572365
+        ]
+      },
+      "id": "node/8929429402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8930785107",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "ref": "DE*SAE*E6305*01; DE*SAE*E6305*02",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7182291,
+          51.0601111
+        ]
+      },
+      "id": "node/8930785107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8974690263",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6062",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7767672,
+          51.0602614
+        ]
+      },
+      "id": "node/8974690263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8974690264",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6042",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7764865,
+          51.0602465
+        ]
+      },
+      "id": "node/8974690264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8974690265",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6041",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7765567,
+          51.0602502
+        ]
+      },
+      "id": "node/8974690265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8974690266",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6040",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7766268,
+          51.0602539
+        ]
+      },
+      "id": "node/8974690266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8974690827",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6063",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.776697,
+          51.0602577
+        ]
+      },
+      "id": "node/8974690827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9005119027",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Telekom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8006881,
+          51.0096284
+        ]
+      },
+      "id": "node/9005119027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9069242575",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7572765,
+          51.0539426
+        ]
+      },
+      "id": "node/9069242575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9069242576",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7572113,
+          51.0539267
+        ]
+      },
+      "id": "node/9069242576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9069242577",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7573376,
+          51.0539574
+        ]
+      },
+      "id": "node/9069242577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9076590760",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7573956,
+          51.0539722
+        ]
+      },
+      "id": "node/9076590760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9105697733",
+        "access": "private",
+        "amenity": "charging_station",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7023283,
+          51.0321946
+        ]
+      },
+      "id": "node/9105697733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141428183",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Vonovia",
+        "ref:EU:EVSE": "AT*HTB*E1009777; AT*HTB*E1009778",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7457366,
+          51.0604076
+        ]
+      },
+      "id": "node/9141428183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9156137185",
+        "access": "permissive",
+        "addr:city": "Dresden",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "01069",
+        "addr:street": "George-Bähr-Straße",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "capacity": "1",
+        "contact:email": "ebike@mailbox.org",
+        "contact:phone": "+4915122862747",
+        "contact:website": "https://openchargemap.org/site/poi/details/189514",
+        "covered": "no",
+        "description": "Verteiler hängt aus dem angekippten Kellerfenster unter den Schildern „Einfahrt freihalten!“/„Feuerwehrzufahrt“ in der Einfahrt. Kurzer Anruf unter +4915122862747 oder Nachricht (bevorzugt) via SMS/Threema/Telegram/Signal/WhatsApp/E-Mail (24/7) erwünscht.",
+        "description:en": "Distributor hangs out of the tilted basement window under the signs \"Einfahrt freihalten!\"/\"Feuerwehrzufahrt\" in the driveway. Short call at +4915122862747 or message (preferred) via SMS/Threema/Telegram/Signal/WhatsApp/email (24/7) appreciated.",
+        "fee": "no",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Freifunk Dresden: GBS14 Keller",
+        "motorcar": "no",
+        "name": "E-Bike Charging Station ‘George-Bähr-Str. 14’",
+        "opening_hours": "24/7",
+        "operator": "Strätz/Jahn",
+        "scooter": "no",
+        "socket:schuko": "2",
+        "socket:schuko:current": "16",
+        "socket:schuko:output": "3.7",
+        "socket:schuko:voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7253537,
+          51.0300903
+        ]
+      },
+      "id": "node/9156137185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9352229118",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "note": "keine Betreiber-Kennzeichnung (26.12.21)",
+        "opening_hours": "24/7",
+        "operator": "ENSO Energie Sachsen Ost AG",
+        "socket:type2": "2",
+        "socket:type2:current": "32",
+        "socket:type2:output": "22 kW",
+        "socket:type2:voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6868882,
+          51.0566694
+        ]
+      },
+      "id": "node/9352229118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9352229119",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "note": "keine Betreiber-Kennzeichnung (26.12.21)",
+        "operator": "ENSO Energie Sachsen Ost AG",
+        "socket:type2": "2",
+        "socket:type2:current": "32",
+        "socket:type2:output": "22 kW",
+        "socket:type2:voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6869911,
+          51.0566645
+        ]
+      },
+      "id": "node/9352229119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9444745738",
+        "access": "no",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7379299,
+          51.0275198
+        ]
+      },
+      "id": "node/9444745738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9501270281",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "description": "Ladestation nur für CarSharing",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref": "6379 / MP19_Louisenstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7520375,
+          51.0668722
+        ]
+      },
+      "id": "node/9501270281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556482224",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Pfalzwerke",
+        "operator:wikidata": "Q2082280",
+        "operator:wikipedia": "de:Pfalzwerke",
+        "ref": "89981; 89982",
+        "ref:EU:EVSE": "DE*PFW*E89981; DE*PFW*E89982",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "150 kW; 225 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6897702,
+          51.078796
+        ]
+      },
+      "id": "node/9556482224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556482225",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Pfalzwerke",
+        "operator:wikidata": "Q2082280",
+        "operator:wikipedia": "de:Pfalzwerke",
+        "ref": "121540; 121541",
+        "ref:EU:EVSE": "DE*PFW*E121540; DE*PFW*E121541",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "150 kW; 225 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6897759,
+          51.0788562
+        ]
+      },
+      "id": "node/9556482225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9590250712",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "operator": "Einert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7638423,
+          51.0582461
+        ]
+      },
+      "id": "node/9590250712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9656682093",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8024164,
+          51.0467146
+        ]
+      },
+      "id": "node/9656682093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9656682094",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Kreuzgymnasium",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8025255,
+          51.0468188
+        ]
+      },
+      "id": "node/9656682094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9683306698",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6053",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7166069,
+          51.060348
+        ]
+      },
+      "id": "node/9683306698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9683306699",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "payment:credit_cards": "yes",
+        "ref:EU:EVSE": "DE*SAE*E6054",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://www.sachsenenergie.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7166932,
+          51.0603201
+        ]
+      },
+      "id": "node/9683306699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9713896935",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Shell",
+        "operator:wikidata": "Q110716465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7397197,
+          51.0811379
+        ]
+      },
+      "id": "node/9713896935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9713896936",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Shell",
+        "operator:wikidata": "Q110716465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7396786,
+          51.081138
+        ]
+      },
+      "id": "node/9713896936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9792312094",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7323792,
+          51.0984187
+        ]
+      },
+      "id": "node/9792312094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9792312095",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7323053,
+          51.0983965
+        ]
+      },
+      "id": "node/9792312095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9792312096",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7322275,
+          51.0983728
+        ]
+      },
+      "id": "node/9792312096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9792312097",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7321512,
+          51.09835
+        ]
+      },
+      "id": "node/9792312097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9792318064",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7331032,
+          51.0776379
+        ]
+      },
+      "id": "node/9792318064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863026971",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "22kw",
+        "covered": "no",
+        "fee": "yes",
+        "operator": "EA Energie Architektur GmbH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.763319,
+          51.015409
+        ]
+      },
+      "id": "node/9863026971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9902367187",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "motorcar": "yes",
+        "operator": "Fraunhofer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7356729,
+          51.027655
+        ]
+      },
+      "id": "node/9902367187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9902367188",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "motorcar": "yes",
+        "operator": "Fraunhofer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7357254,
+          51.0276527
+        ]
+      },
+      "id": "node/9902367188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9922802909",
+        "access": "permissive",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "capacity": "2",
+        "fee": "no",
+        "motorcar": "no",
+        "name": "Spielplatz CampusKISTE",
+        "opening_hours": "24/7",
+        "operator": "Technische Universität Dresden",
+        "scooter": "no",
+        "socket:schuko": "2",
+        "socket:schuko:current": "16",
+        "socket:schuko:output": "3.7",
+        "socket:schuko:voltage": "230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7278379,
+          51.0288959
+        ]
+      },
+      "id": "node/9922802909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10001304153",
+        "amenity": "charging_station",
+        "capacity": "11",
+        "name": "Ladestation 2x 11 KW",
+        "operator": "Lidl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7941912,
+          51.0024183
+        ]
+      },
+      "id": "node/10001304153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10090311316",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "fixme": "resurvey",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7795216,
+          51.038074
+        ]
+      },
+      "id": "node/10090311316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10166078846",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7094413,
+          51.0894946
+        ]
+      },
+      "id": "node/10166078846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10166078847",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7095152,
+          51.0894762
+        ]
+      },
+      "id": "node/10166078847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171802351",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref": "6064",
+        "ref:EU:EVSE": "DE*SAE*E6064*01;DE*SAE*E6064*02;DE*SAE*E6064*03;",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2:ref": "60643",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "150 kW; 75 kW",
+        "socket:type2_combo:ref": "60641; 60642",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.731183,
+          51.0503149
+        ]
+      },
+      "id": "node/10171802351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171802352",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref": "6065",
+        "ref:EU:EVSE": "DE*SAE*E6065*01;DE*SAE*E6065*02;DE*SAE*E6065*03;",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2:ref": "60653",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "150 kW; 75 kW",
+        "socket:type2_combo:ref": "60651; 60652",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.731272,
+          51.0503436
+        ]
+      },
+      "id": "node/10171802352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223313654",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "email": "elektromobilitaet@sachsenenergie.de",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6241",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7015878,
+          51.0782385
+        ]
+      },
+      "id": "node/10223313654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10233292442",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref": "6343",
+        "ref:EU:EVSE": "DE*SAE*E6343*01; DE*SAE*E6343*02",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7313609,
+          51.0503722
+        ]
+      },
+      "id": "node/10233292442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576157813",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Einert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7679429,
+          51.0483985
+        ]
+      },
+      "id": "node/10576157813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10618042692",
+        "amenity": "charging_station",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "capacity": "1",
+        "fee": "yes",
+        "loc_ref": "3",
+        "manufacturer": "ABB",
+        "opening_hours": "24/7",
+        "operator": "Shell",
+        "payment:contactless": "yes",
+        "ref": "ABBHP-30",
+        "socket:chademo": "1",
+        "socket:chademo:output": "70 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "175 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6889233,
+          51.0672709
+        ]
+      },
+      "id": "node/10618042692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10618042693",
+        "amenity": "charging_station",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "capacity": "1",
+        "fee": "yes",
+        "loc_ref": "4",
+        "manufacturer": "ABB",
+        "opening_hours": "24/7",
+        "operator": "Shell",
+        "payment:contactless": "yes",
+        "ref": "ABBHP-29",
+        "socket:chademo": "1",
+        "socket:chademo:output": "70 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "175 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6889243,
+          51.0673099
+        ]
+      },
+      "id": "node/10618042693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10618398752",
+        "access": "permit",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "note": "Ladestation für Mitarbeiter des EBZ",
+        "operator": "Elektrobildungs- und Technologiezentrum",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6883553,
+          51.0724141
+        ]
+      },
+      "id": "node/10618398752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10618468243",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Pfalzwerke",
+        "operator:wikidata": "Q2082280",
+        "operator:wikipedia": "de:Pfalzwerke",
+        "ref": "121542; 121543",
+        "ref:EU:EVSE": "DE*PFW*E121542; DE*PFW*E121543",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6897602,
+          51.0787478
+        ]
+      },
+      "id": "node/10618468243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10660850964",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Pfalzwerke",
+        "operator:wikidata": "Q2082280",
+        "operator:wikipedia": "de:Pfalzwerke",
+        "ref": "121544; 121545",
+        "ref:EU:EVSE": "DE*PFW*E121544; DE*PFW*E121545",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "225 kW; 150 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7865681,
+          51.0066805
+        ]
+      },
+      "id": "node/10660850964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10660850965",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Pfalzwerke",
+        "operator:wikidata": "Q2082280",
+        "operator:wikipedia": "de:Pfalzwerke",
+        "ref": "121546; 121547",
+        "ref:EU:EVSE": "DE*PFW*E121546; DE*PFW*E121547",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "225 kW; 150 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7866107,
+          51.0066421
+        ]
+      },
+      "id": "node/10660850965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10660850966",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Pfalzwerke",
+        "operator:wikidata": "Q2082280",
+        "operator:wikipedia": "de:Pfalzwerke",
+        "ref": "121548; 121549",
+        "ref:EU:EVSE": "DE*PFW*E121548; DE*PFW*E121549",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7866479,
+          51.0066028
+        ]
+      },
+      "id": "node/10660850966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10674144403",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "maxstay:conditional": "4 hours@(08:00-20:00)",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie AG",
+        "ref": "6404",
+        "ref:EU:EVSE": "DE*SAE*E6404*01",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7613778,
+          51.0170664
+        ]
+      },
+      "id": "node/10674144403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10699238738",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "ref": "6395",
+        "ref:EU:EVSE": "DE*SAE*E6395*01;DE*SAE*E6395*02",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7179609,
+          51.0192739
+        ]
+      },
+      "id": "node/10699238738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10699238739",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "ref": "6396",
+        "ref:EU:EVSE": "DE*SAE*E6396*01;DE*SAE*E6396*02",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7179111,
+          51.0192696
+        ]
+      },
+      "id": "node/10699238739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10758455450",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Deutsche Kreditbank",
+        "output": "22 kW",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7430415,
+          51.0491324
+        ]
+      },
+      "id": "node/10758455450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10758455451",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Deutsche Wohnen",
+        "socket:type2": "2",
+        "socket:type2:output": "11 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7427029,
+          51.0491014
+        ]
+      },
+      "id": "node/10758455451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047294677",
+        "access": "customers",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "man_made": "charge_point",
+        "manufacturer": "Compleo",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "parking:fee": "no",
+        "ref": "6380",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7763805,
+          51.068241
+        ]
+      },
+      "id": "node/11047294677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047294678",
+        "access": "yes",
+        "amenity": "charging_station",
+        "authentication:membership_card": "yes",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "man_made": "charge_point",
+        "manufacturer": "Compleo",
+        "maxstay:conditional": "4 hours@(08:00-20:00)",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "parking:fee": "no",
+        "ref": "6381",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7763477,
+          51.0683855
+        ]
+      },
+      "id": "node/11047294678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11080752396",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "1",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8104656,
+          51.0139265
+        ]
+      },
+      "id": "node/11080752396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11080752397",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "1",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8104296,
+          51.0139879
+        ]
+      },
+      "id": "node/11080752397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11080761951",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "1",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8104048,
+          51.0140301
+        ]
+      },
+      "id": "node/11080761951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11080761956",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "1",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8103858,
+          51.0140626
+        ]
+      },
+      "id": "node/11080761956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11080761957",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "1",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8103424,
+          51.0141366
+        ]
+      },
+      "id": "node/11080761957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11131951683",
+        "access": "customers",
+        "amenity": "charging_station",
+        "brand": "teilAuto",
+        "capacity": "2",
+        "description": "Typ: AC, 22KW\nStecker: Socket Typ-2\nLadepunkt: 63821\nnur für teilAuto-Kunden",
+        "name": "teilAuto-Ladestation",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8142659,
+          51.0534461
+        ]
+      },
+      "id": "node/11131951683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11131951685",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "description": "Typ: AC, 22KW\nStecker: Socket Typ-2\nLadepunkt: 63831",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8144386,
+          51.0532989
+        ]
+      },
+      "id": "node/11131951685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11175365100",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "bus": "no",
+        "capacity": "2",
+        "fee": "yes",
+        "hgv": "no",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "scooter": "no",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6909996,
+          51.0467537
+        ]
+      },
+      "id": "node/11175365100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11698436561",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "maxstay": "4 hours",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "Einert",
+        "parking:fee": "no",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.788586,
+          51.0335516
+        ]
+      },
+      "id": "node/11698436561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11698438808",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "maxstay": "4 hours",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "EINERT Internet | Fernsehen | Autostrom",
+        "parking:fee": "no",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7879296,
+          51.0326786
+        ]
+      },
+      "id": "node/11698438808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11736942580",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "maxstay": "4 hours",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "operator": "EINERT",
+        "parking:fee": "no",
+        "parking:restriction": "charging_only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7727795,
+          51.0505524
+        ]
+      },
+      "id": "node/11736942580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11766555642",
+        "amenity": "charging_station",
+        "covered": "no",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7852793,
+          51.0457081
+        ]
+      },
+      "id": "node/11766555642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11926345106",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.697983,
+          51.0939003
+        ]
+      },
+      "id": "node/11926345106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12061806827",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6252",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7281988,
+          51.084568
+        ]
+      },
+      "id": "node/12061806827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12061806828",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "SachsenEnergie",
+        "operator:wikidata": "Q104758900",
+        "ref:EU:EVSE": "DE*SAE*E6252",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7282212,
+          51.0846138
+        ]
+      },
+      "id": "node/12061806828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12167398249",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "EDEKA",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7838414,
+          51.0088307
+        ]
+      },
+      "id": "node/12167398249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12193020803",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "operator": "EDEKA",
+        "ref:EU:EVSE": "DE*384*E*151175CS0001*1; DE*384*E*151175CS0001*2",
+        "socket:type2": "1",
+        "socket:type2:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7839228,
+          51.0088642
+        ]
+      },
+      "id": "node/12193020803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12301241944",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:nfc": "yes",
+        "brand": "Jolt",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7352609,
+          51.0651241
+        ]
+      },
+      "id": "node/12301241944"
+    }
+  ]
+}
