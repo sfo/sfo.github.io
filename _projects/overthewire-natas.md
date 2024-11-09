@@ -120,3 +120,58 @@ Access granted. The password for natas5 is [...]
 After entering the correct credentials, the page for level 5 loads properly but the message on the page claims that we are not logged in:
 > Access disallowed. You are not logged in
 
+Since there is no further link that could lead to something like a login page, we have to find a way to tell the website that we _are_ logged in.
+One way to do so is via a session-cookie, which a website usually stores on a user's PC when they select somethin like "Stay logged in" or similar.
+So let's see, if we can find a cookie.
+For Google Chrome, you can open the developer tools via `F12`, navigate to the _Application_ tab and to _Cookies_ on the left hand side of the panel.
+There, you will find one cookie for the level 5 page with name _loggedin_ and value _0_.
+Change the value to _1_, reload the page and voilà... we are in, again!
+
+
+## Level 7
+
+The next website asks for yet another secret after login.
+Fortunately, there is a link given to view the source code of the server-side implementation that checks out input.
+Here, we can see that an additinal file is included that contains the expected value of _secret_.
+Maybe, this file is not protected and can be viewed via our browser?
+Let's navigate to <http://natas6.natas.labs.overthewire.org/includes/secret.inc> and bingo!
+There we find the secret string that we have to paste into the form on the level 6 website to obtain the password for level 7.
+
+
+## Level 8
+
+The page of level 7 again gives us some links: _Home_, and _About_.
+Each link performs a GET request for the base URL of level 7 with an additional parameter `page` that holds the target page's name.
+Let's see what happens, if we provide a value other than `home` or `about`:
+> Warning: include(test): failed to open stream: No such file or directory in /var/www/natas/natas7/index.php on line 21
+>
+> Warning: include(): Failed opening 'test' for inclusion (include_path='.:/usr/share/php') in /var/www/natas/natas7/index.php on line 21
+
+Aha!
+The code running on the server tries to include a file with the same name.
+Hopefully, the developers did not implement any form of input validation.
+From the [natas box introduction](https://overthewire.org/wargames/natas/) (and the level 7 source code), we know that all passwords are stored under `/etc/natas_webpass/natasX`.
+Therefore, we cab now try to load the file `/etc/natas_webpass/nata8` by setting the `page` GET parameter accordingly: <http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8>.
+And here we get it again, the password for the next level.
+
+
+## Level 9
+
+Here we find a similar form like on the level 6 website.
+This time, the source code of the secret verification contains an encoded string.
+However, we also can clearly see the method used for encoding the input.
+Reversing the process should allow us to decode the given string.
+```php
+function encodeSecret($secret) {
+    return bin2hex(strrev(base64_encode($secret)));
+}
+```
+The reverse of which would be:
+```php
+base64_decode(strrev(hex2bin($encodedSecret)));
+```
+[Try it online!](https://onlinephp.io/c/9d669)
+
+
+## Level 10
+
