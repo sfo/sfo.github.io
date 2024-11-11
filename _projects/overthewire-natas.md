@@ -6,7 +6,7 @@ toc_sticky: true
 sidebar:
   nav: "projects"
 header:
-  teaser: /assets/images/overthewire.png
+  teaser: /assets/images/overthewire_natas.png
 ---
 
 ## Level 0

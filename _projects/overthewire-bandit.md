@@ -4,5 +4,5 @@ classes: wide
 sidebar:
   nav: "projects"
 header:
-  teaser: /assets/images/overthewire.png
+  teaser: /assets/images/overthewire_bandit.png
 ---
