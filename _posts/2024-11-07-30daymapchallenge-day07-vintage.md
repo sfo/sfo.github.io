@@ -96,6 +96,6 @@ plt.show()
 
 
     
-![png](2024-11-07-30daymapchallenge-day07-vintage_files/2024-11-07-30daymapchallenge-day07-vintage_11_0.png)
+![png](/assets/2024-11-07-30daymapchallenge-day07-vintage_files/2024-11-07-30daymapchallenge-day07-vintage_11_0.png)
     
 
