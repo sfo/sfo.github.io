@@ -166,6 +166,7 @@ function encodeSecret($secret) {
     return bin2hex(strrev(base64_encode($secret)));
 }
 ```
+
 The reverse of which would be:
 ```php
 base64_decode(strrev(hex2bin($encodedSecret)));
@@ -175,3 +176,43 @@ base64_decode(strrev(hex2bin($encodedSecret)));
 
 ## Level 10
 
+On the page of level 9 we are presented with an input field and a button that says _"Search"_.
+Again, we also have a link to view the server code that handles the search request.
+The most promising line is the following:
+```php
+passthru("grep -i $key dictionary.txt");
+```
+
+Since there is no validation of the user input, we can perform an injection attack to modify the command in a way that results in returning the password for level 10.
+Specficially, we want to enter somthing like the following into the search field:
+```
+; cat /etc/natas_webpass/natas10;
+```
+
+This results in the following command line being executed on the server:
+```shell
+grep -i; cat /etc/natas_webpass/natas10; dictionary.txt
+```
+
+While the `grep` command is incomplete and will just output and error to stderr, the following `cat` prints the content of the password file to stdout, which becomes part of the website's source code.
+Consequently, the browser renders the next password as a result of our search query.
+
+
+## Level 11
+
+The website of level 10 looks just like the previous one.
+However, this time there is a little bit of input validation performed on the server side.
+Specifically, the query is checked for the following characters, considered invalid: `|`, `;`, and `&`.
+So we have no chance to end the `grep` command and start our own one.
+Rather, we have to find a clever argument for it to force printing of the right password:
+```shell
+-E '.' /etc/natas_webpass/natas11
+```
+
+This searches for any character in the password file and print the results to stdout.
+Furthermore, it dumps the whole keyword database, which we can just ignore.
+
+
+## Level 12
+
+[Try ot online](https://onlinephp.io/c/a9a03)
