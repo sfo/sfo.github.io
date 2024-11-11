@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-11-07T20:49:23Z",
+  "timestamp": "2024-11-11T15:20:56Z",
   "features": [
     {
       "type": "Feature",
@@ -3529,6 +3529,30 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9263842804",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "capacity": "4",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "4 x 22 kW",
+        "opening_hours": "24/7",
+        "operator": "Freitaler Stadtwerke",
+        "socket:type2": "4",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6662564,
+          51.0029797
+        ]
+      },
+      "id": "node/9263842804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9352229118",
         "amenity": "charging_station",
         "capacity": "2",
@@ -4140,6 +4164,30 @@
         ]
       },
       "id": "node/10233292442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10315023992",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "2 x 22 kW",
+        "opening_hours": "24/7",
+        "operator": "Freitaler Stadtwerke",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6611731,
+          51.0123861
+        ]
+      },
+      "id": "node/10315023992"
     },
     {
       "type": "Feature",
