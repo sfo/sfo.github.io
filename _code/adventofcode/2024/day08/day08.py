@@ -15,26 +15,44 @@ def find_antennas(grid):
     return antennas
 
 
-def calculate_antinodes(antennas):
+def check_bounds(i, j, shape) -> bool:
+    return not (i < 0 or j < 0 or i >= shape[0] or j >= shape[1])
+
+
+def calculate_antinodes(antennas, shape, single):
     antinodes = set()
-    for i in range(len(antennas) - 1):
-        for j in range(i + 1, len(antennas)):
-            a = antennas[i]
-            b = antennas[j]
+    for k in range(len(antennas) - 1):
+        for l in range(k + 1, len(antennas)):
+            a = antennas[k]
+            b = antennas[l]
             di = a[0] - b[0]
             dj = a[1] - b[1]
 
-            antinodes.add((a[0] + di, a[1] + dj))
-            antinodes.add((b[0] - di, b[1] - dj))
+            if single:
+                if check_bounds(
+                    antinode_i := a[0] + di,
+                    antinode_j := a[1] + dj,
+                    shape
+                ):
+                    antinodes.add((antinode_i, antinode_j))
+                if check_bounds(
+                    antinode_i := b[0] - di,
+                    antinode_j := b[1] - dj,
+                    shape
+                ):
+                    antinodes.add((antinode_i, antinode_j))
+            else:
+                for dx in [-1, 1]:
+                    x = 0
+                    while check_bounds(
+                        antinode_i := a[0] + x * di,
+                        antinode_j := a[1] + x * dj,
+                        shape
+                    ):
+                        antinodes.add((antinode_i, antinode_j))
+                        x += dx
+                antinodes.add(a)
     return antinodes
-
-
-def calculate_signal_impact(
-    antinodes: set[tuple[int, int]], shape: tuple[int, int]
-) -> int:
-    return len(antinodes) - sum(
-        [(i < 0 or j < 0 or i >= shape[0] or j >= shape[1]) for (i, j) in antinodes]
-    )
 
 
 # %%
@@ -47,8 +65,17 @@ antennas = find_antennas(grid)
 antinodes = set()
 for k, v in antennas.items():
     if len(v) > 1:
-        antinodes = antinodes.union(calculate_antinodes(v))
+        antinodes = antinodes.union(calculate_antinodes(v, grid.shape, True))
 
-print("Solution for part 1 is:", calculate_signal_impact(antinodes, grid.shape))
+print("Solution for part 1 is:", len(antinodes))
+
+# %%
+antennas = find_antennas(grid)
+antinodes = set()
+for k, v in antennas.items():
+    if len(v) > 1:
+        antinodes = antinodes.union(calculate_antinodes(v, grid.shape, False))
+
+print("Solution for part 2 is:", len(antinodes))
 
 # %%
