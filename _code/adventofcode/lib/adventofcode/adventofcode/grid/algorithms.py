@@ -1,3 +1,4 @@
+import numpy as np
 from numpy.typing import NDArray
 from sortedcollections import ValueSortedDict
 
@@ -65,7 +66,7 @@ class AStar:
                     predecessor=node.position,
                 )
 
-    def search(self, start: NDArray):
+    def search(self, start: NDArray) -> tuple[list[NDArray], int]:
         self.open_list.clear()
         self.closed_list.clear()
         current_node = Node(
@@ -77,6 +78,8 @@ class AStar:
         while not self.grid.is_finish(current_node.position):
             self.closed_list[tuple(current_node.position)] = current_node
             self.expand_node(current_node)
+            if len(self.open_list) == 0:
+                return None, np.nan
             _, current_node = self.open_list.popitem(0)
 
         path = []

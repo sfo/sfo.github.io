@@ -45,31 +45,57 @@ class Day18Grid(Grid):
         return np.sum(np.abs(finish - position))
 
 
-# %%
-# filename = "example.txt"
-# grid_size = 7
-# byte_count = 12
+def create_grid(size: int, fallen_bytes: NDArray) -> NDArray:
+    grid = np.full(shape=(size, size), fill_value=".")
+    for b in fallen_bytes:
+        grid[*b] = "#"
+    return grid.T
 
-filename = "input.txt"
-grid_size = 71
+
+def search_path(grid: NDArray) -> int:
+    start = np.array([0, 0])
+    finish = np.array(grid.shape) - 1
+
+    day18grid = Day18Grid(grid, finish)
+    astar = AStar(day18grid)
+    _, cost = astar.search(start)
+    return cost
+
+
+def bisect(start_byte, end_byte) -> int | None:
+    center_byte = (start_byte + end_byte) // 2
+    grid = create_grid(grid_size, fallen_bytes[:center_byte])
+    cost = search_path(grid)
+    if np.isnan(cost):
+        if end_byte == center_byte:
+            return None
+        return bisect(start_byte, center_byte)
+    if center_byte == start_byte:
+        return center_byte
+    return bisect(center_byte, end_byte)
+
+
+# %% [markdown]
+# # Common
+#
+# %%
+with open("input.txt", "rt") as file:
+    fallen_bytes = np.array([line.split(",") for line in file.readlines()], dtype=int)
+
+# %% [markdown]
+#
+# # PART 1
+#
+# %%
 byte_count = 1024
+grid_size = 71
 
-grid = np.full(shape=(grid_size, grid_size), fill_value=".")
-with open(filename, "rt") as file:
-    while (line := file.readline()) and byte_count > 0:
-        xy = line.split(",")
-        grid[int(xy[1]), int(xy[0])] = '#'
-        byte_count -= 1
+grid = create_grid(grid_size, fallen_bytes[:byte_count])
+print("Solution for part 1 is:", search_path(grid))
 
-grid
-
+# %% [markdown]
+#
+# # PART 2
+#
 # %%
-start = np.array([0, 0])
-finish = np.array(grid.shape) - 1
-
-day18grid = Day18Grid(grid, finish)
-astar = AStar(day18grid)
-path, cost = astar.search(start)
-cost
-
-# %%
+print("Solution for part 2 is:", fallen_bytes[bisect(byte_count, len(fallen_bytes))])
