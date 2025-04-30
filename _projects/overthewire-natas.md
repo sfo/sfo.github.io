@@ -215,4 +215,4 @@ Furthermore, it dumps the whole keyword database, which we can just ignore.
 
 ## Level 12
 
-[Try ot online](https://onlinephp.io/c/a9a03)
+[Try it online](https://onlinephp.io/c/a9a03)
