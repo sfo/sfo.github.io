@@ -45,6 +45,7 @@ Among those, there is a way to prevent capitalization rules being applied to cer
 Specifically, the title has to be changed to `<span class="nocase">whisper-large-v3-atcosim</span>`.
 With this, the item now gets exported properly as:
 
+{% raw %}
 ```bibtex
 @software{vanDoorn2023,
   title = {{{whisper-large-v3-atcosim}}},
@@ -54,6 +55,7 @@ With this, the item now gets exported properly as:
   version = {99a8cc0}
 }
 ```
+{% endraw %}
 
 After fixing the title in Zotero and exporting the library via Better BibTeX, even with automatic title casing enabled, the result looks like this:
 
