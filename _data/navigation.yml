@@ -3,13 +3,13 @@ main:
     url: /projects/
   - title: "🎓 Research"
     url: /research/
-  - title: "Categories"
+  - title: "📊 Categories"
     url: /categories/
-  - title: "Tags"
+  - title: "🏷️ Tags"
     url: /tags/
-  - title: "Archive"
+  - title: "🗃️ Archive"
     url: /archive/
-  - title: "About"
+  - title: "❔ About"
     url: /about/
 
 
