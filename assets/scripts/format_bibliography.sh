@@ -11,11 +11,11 @@
 #
 # 3. insert preamble
 # ```
-# ----
+# ---
 # title: Research
 # permalink: /research/
 # classes: wide
-# ----
+# ---
 # <style>
 #   .csl-entry {
 #     margin-bottom: 1em;
