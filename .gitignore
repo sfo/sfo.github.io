@@ -4,5 +4,4 @@ _site
 
 tags
 .env
-*.lock
 __pycache__/
