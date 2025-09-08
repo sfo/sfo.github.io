@@ -5,7 +5,8 @@
 		}
 	],
 	"settings": {
+		"explorer.excludeGitIgnore": true,
 		"git.enabled": false,
-
+		"search.useParentIgnoreFiles": true
 	}
 }
