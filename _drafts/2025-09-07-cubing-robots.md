@@ -96,6 +96,11 @@ Such an advanced architecture is also able to handle 4x4x4 cubes by incorporatin
 | Yellow Cube Machine | David Gilday (@IAssembler) | 4-Axis | 3x3x3 | No | [YouTube](https://www.youtube.com/watch?v=GH4clQJ3VuA) | Lego NXT | | | 2010: 0:17.7 |
 | V-Shaped Robot | Volker Hochholzer | 2-Axis | 3x3x3 | No | [YouTube](https://www.youtube.com/watch?v=Xv4a6-XM1M4) | 3D print, Raspberry | [GitHub](https://github.com/DrVoHo/Rubik_solver) | [Forum Post](https://forum.arduino.cc/t/rubiks-cube-robot-solver/262557) | |
 | Skewbot | Matthew Hill | 3-Axis | Skewb | No | [YouTube](https://www.youtube.com/watch?v=KnrbZJdmEWg) | 3D print, Arduino | | [Forum Post](https://www.speedsolving.com/threads/worlds-first-skewb-solving-robot-known.73188/), [Idea Thread](https://www.speedsolving.com/threads/skewb-solving-robot.72268/) | 2019 |
+| BallCuber | Thibault and Florent | proprietary | 4x4x4 | No | [YouTube](https://www.youtube.com/watch?v=5e3V5y5gV5E) | 3D print | [GitHub](https://github.com/ballcuber/ballcuber-source-code) | [Project Website](https://ballcuber.github.io/about/) | 2020: 3:23.568 |
+| Solvour | Nyanyan | 4-Axis | 4x4x4 | No | [YouTube](https://www.youtube.com/watch?v=vetfnM7hYu0) | Wood, Arduino | [GitHub](https://github.com/Nyanyan/Solvour) | | 2020 |
+| Soltvvo | Nyanyan | 4-Axis | 2x2x2 | No | [YouTube](https://www.youtube.com/watch?v=iLo3t3uBsMU) | Wood, Arduino | [GitHub](https://github.com/Nyanyan/soltvvo) | [Forum Post](https://www.speedsolving.com/threads/fastest-2x2x2-cube-solving-robot.78443/#post-1638255) | 2020: 0:0.757
+| The Revenger | Matt and Tom Pidden | 4-Axis | 4x4x4 | No | [YouTube](https://www.youtube.com/watch?v=82zy75F09tc) | 3D print | [GitHub](https://github.com/mattpidden/the-revenger) | [Forum Post](https://www.speedsolving.com/threads/fastest-4x4-solver-robot.94897/#post-1658387) | 2025: 0:00.45.305 (incl. scan) |
+| | | 3-Axis | 5x5x5 | No | [YouTube](https://www.youtube.com/watch?v=sD4bG8hPYLQ) | Acrylic | | | 2019: 4:45 |
 
 ---
 
@@ -104,6 +109,11 @@ TODOs:
 - add type of recognition: Color sensor
   - phone camera for one side
   - mirrors to see all sides at once
+  - etc.
+- add type of creator:
+  - company (e.g. ARM)
+  - school / university team
+  - one-man hobby project
   - etc.
 - does record time include scan time?
 
