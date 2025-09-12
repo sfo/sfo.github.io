@@ -98,9 +98,19 @@ Such an advanced architecture is also able to handle 4x4x4 cubes by incorporatin
 | Skewbot | Matthew Hill | 3-Axis | Skewb | No | [YouTube](https://www.youtube.com/watch?v=KnrbZJdmEWg) | 3D print, Arduino | | [Forum Post](https://www.speedsolving.com/threads/worlds-first-skewb-solving-robot-known.73188/), [Idea Thread](https://www.speedsolving.com/threads/skewb-solving-robot.72268/) | 2019 |
 | BallCuber | Thibault and Florent | proprietary | 4x4x4 | No | [YouTube](https://www.youtube.com/watch?v=5e3V5y5gV5E) | 3D print | [GitHub](https://github.com/ballcuber/ballcuber-source-code) | [Project Website](https://ballcuber.github.io/about/) | 2020: 3:23.568 |
 | Solvour | Nyanyan | 4-Axis | 4x4x4 | No | [YouTube](https://www.youtube.com/watch?v=vetfnM7hYu0) | Wood, Arduino | [GitHub](https://github.com/Nyanyan/Solvour) | | 2020 |
-| Soltvvo | Nyanyan | 4-Axis | 2x2x2 | No | [YouTube](https://www.youtube.com/watch?v=iLo3t3uBsMU) | Wood, Arduino | [GitHub](https://github.com/Nyanyan/soltvvo) | [Forum Post](https://www.speedsolving.com/threads/fastest-2x2x2-cube-solving-robot.78443/#post-1638255) | 2020: 0:0.757
-| The Revenger | Matt and Tom Pidden | 4-Axis | 4x4x4 | No | [YouTube](https://www.youtube.com/watch?v=82zy75F09tc) | 3D print | [GitHub](https://github.com/mattpidden/the-revenger) | [Forum Post](https://www.speedsolving.com/threads/fastest-4x4-solver-robot.94897/#post-1658387) | 2025: 0:00.45.305 (incl. scan) |
+| Soltvvo | Nyanyan | 4-Axis | 2x2x2 | No | [YouTube](https://www.youtube.com/watch?v=iLo3t3uBsMU) | Wood, Arduino | [GitHub](https://github.com/Nyanyan/soltvvo) | [Forum Post](https://www.speedsolving.com/threads/fastest-2x2x2-cube-solving-robot.78443/#post-1638255) | 2020: 0:00.757 |
+| The Revenger | Matt and Tom Pidden | 4-Axis | 4x4x4 | No | [YouTube](https://www.youtube.com/watch?v=82zy75F09tc) | 3D print | [GitHub](https://github.com/mattpidden/the-revenger) | [Forum Post](https://www.speedsolving.com/threads/fastest-4x4-solver-robot.94897/#post-1658387) | 2025: 0:45.305 (incl. scan) |
 | | | 3-Axis | 5x5x5 | No | [YouTube](https://www.youtube.com/watch?v=sD4bG8hPYLQ) | Acrylic | | | 2019: 4:45 |
+| Arduino Rubik Solver | [supermarioprof](https://www.instructables.com/member/supermarioprof/) | 4-Axis | 3x3x3 | No | [YouTube](https://www.youtube.com/watch?v=xboPoVXxuZM) | Acrylic, Arduino | | [Instructables](https://www.instructables.com/ARS-Arduino-Rubik-Solver/) | 2019
+| | Zackary Gromko | 6-Axis | 3x3x3 | Yes | [YouTube](https://www.youtube.com/watch?v=bEiQwmEe45s) | custom | | [Forum Post](https://www.speedsolving.com/threads/guinness-wr-fastest-robot-to-solve-3x3-cube-2-39s.55805/#post-1130204) | 2015: 0:02.39 (incl. scan) |
+| FAC Cube Solver | Maxim Tsoy and Wilbert Swinkels | 3-Axis | 3x3x3 | No | [YouTube](https://www.youtube.com/watch?v=vpAKfSYueMI) | FAC system / Meccano | | [Blog Post](https://blog.zok.pw/hacking/2015/08/18/fac-rubik-solver/), [Project Website](https://meccanokinematics.net/fac-cube-solver/) | 2015 |
+| Meccano Rubik's Shrine | Maxim Tsoy and Wilbert Swinkels | 3-Axis | 3x3x3 | No | [YouTube](https://www.youtube.com/watch?v=C9rCBjLGxJs) | FAC system / Meccano | | [Blog Post](https://blog.zok.pw/hacking/2016/08/12/meccano-rubiks-shrine/), [Project Website](https://meccanokinematics.net/meccano-rubiks-shrine/) | 2016 |
+| High Frequency Twister | Jay Flatland and Paul Rose | 6-Axis | 3x3x3 | Yes | [YouTube](https://www.youtube.com/watch?v=ixTddQQ2Hs4) | custom | [GitHub](https://github.com/jayflatland/HighFrequencyTwister) | | 2016: 0:00.900 |
+| | Albert Beer | 6-Axis | 3x3x3 | Yes | [YouTube](https://www.youtube.com/watch?v=by1yz7Toick) | custom | | [Press Release](https://www.worldrecordacademy.com/games/fastest_robot_to_solve_a_Rubiks_cube_Sub1_breaks_Guinness_World_Records_record_216159.html) | 2016: 0:00.887 |
+| Sub1 Reloaded | Albert Beer (Infineon) | 6-Axis | 3x3x3 | Yes | [YouTube](https://www.youtube.com/watch?v=DkJn-DkF2o0) | custom | | [Press Release](https://www.worldrecordacademy.com/games/fastest_robot_to_solve_a_Rubiks_cube_Sub1_Reloaded_breaks_Guinness_world_record_216341.html) | 2016: 0:00.637 |
+| Rubik's Contraption | Ben Katz and Jared Di Carlo | 6-Axis | 3x3x3 | Yes | [YouTube](https://www.youtube.com/watch?v=nt00QzKuNVY) | custom | | [Blog Post](https://build-its-inprogress.blogspot.com/2018/03/the-rubiks-contraption.html) | 2018: 0:00.380 |
+| | Mitsubishi Electric | 6-Axis | 3x3x3 | Yes | [YouTube]() | custom | | [Press Release](https://www.guinnessworldrecords.com/news/commercial/2024/5/japanese-companys-robot-solves-a-puzzle-cube-in-0-305-seconds-to-break-record) | 2024: 0:00.305 |
+| |  | 6-Axis | 3x3x3 | Yes | [YouTube](https://www.youtube.com/watch?v=MoVmfyTEwDw) | custom | | [Press Release](https://engineering.purdue.edu/ECE/News/2025/purdue-ece-students-shatter-guinness-world-record-for-fastest-puzzle-cube-solving-robot) | 2025: 0:00.103 |
 
 ---
 
@@ -115,7 +125,9 @@ TODOs:
   - school / university team
   - one-man hobby project
   - etc.
+- add algorithm used
 - does record time include scan time?
+- add indicator to show if official WR
 
 ## Other Lists
 
