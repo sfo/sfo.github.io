@@ -9,14 +9,15 @@ header:
 ---
 
 ## Background
+
 The core idea is to create a map at every day of November, each targeting a specific theme.
 Maps may be created using any tool or technique one is comfortable with.
 Or you take that chance to learn something new and employ some technology you never used before.
 
-
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
 ## Maps 2024
+
 <div class="entries-{{ entries_layout }}">
   {% assign posts = site.posts | reverse %}
   {% for post in posts %}
