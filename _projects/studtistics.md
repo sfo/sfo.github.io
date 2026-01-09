@@ -1,11 +1,11 @@
 ---
-title: Brickstats
+title: Studtistics
 classes: wide
 entries_layout: grid
 sidebar:
   nav: "projects"
 header:
-  teaser: /assets/images/brickstats.png
+  teaser: /assets/images/studtistics.png
 ---
 
 ## Background
