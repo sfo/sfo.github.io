@@ -143,6 +143,8 @@ footer:
   links:
     - label: "Impressum"
       url: "/impressum/"
+    - label: "Datenschutz"
+      url: "/privacy/"
 
 
 # Reading Files
