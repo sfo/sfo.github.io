@@ -6,3 +6,9 @@
 * **Element**
 
 TODO - rebrickable has the term "element"
+
+
+Ideas
+- how many hours will one need to build the current line/up when performing with XX e.g. 300 pieces per hour
+- how long will one need to build all released sets of one year / is it possible to keep up with all new releases
+- how long will it take to build everzthing lego ever released should you start collecting it all
