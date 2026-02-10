@@ -1,0 +1,4 @@
+- general stuff about lego patents
+- what are pending
+- what patents (esp. US designs) are active / granted but without any actual implementation, yet
+- what bricks are still under patent

@@ -58,3 +58,9 @@ Worth to check for more details on the production process: https://brickipedia.f
 - [1] https://prototal.co.uk/blog/3d-printing-tolerances
 - [2] https://3dchimera.com/blogs/connecting-the-dots/3d-printing-tolerances
 - [3] https://www.reddit.com/r/pics/comments/18qywg/a_retired_lego_mold_retired_after_producing/
+
+
+## Follow Up
+- add post about different variants of plastic being used for parts, include patents for new composites (also consider recycled and sustainable materials). Link to patents in other patents posts
+- add post to get overview of patents, link to the one above
+- add here section about patents, cross reference it
