@@ -1,0 +1,3 @@
+[submodule "_code/endurance_race_evaluation/data/abbott"]
+	path = _code/endurance_race_evaluation/data/abbott
+	url = git@hf.co:datasets/stanley-f/abbottworldmarathonmajors
